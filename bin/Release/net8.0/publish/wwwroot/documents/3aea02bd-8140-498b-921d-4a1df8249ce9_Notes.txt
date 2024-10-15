@@ -1,0 +1,78 @@
+Agile
+Microservices
+data management /architect
+
+
+
+Microsoft logo
+Microsoft Certified: Azure Data FundamentalsMicrosoft Certified: Azure Data Fundamentals
+MicrosoftMicrosoft
+Issued Oct 2022 · No Expiration DateIssued Oct 2022 · No Expiration Date
+Credential ID I440-7772Credential ID I440-7772
+
+
+The prominent technology includes .Net, Java, API Management, Databases - DB2/SQL Server/Sybase, Teradata, SSIS, Azure, Informatica, MQ, Axiom SL, PEGA
+Issued 
+
+KEYWORDS
+=============================================================================
+Bachelors in Engineering or equivalent and must have 15+ Years of overall experience and proven record of leading and managing agile teams.
+Well verse in developing applications leveraging Microsoft Stack, .NET Core, UI Technologies(ReactJS, Angular, JQuery), Web Services, Design Patterns & Cloud Platform enablement (PCF, Azure) with engineering focus
+Take ownership of delivery and manage multi-release projects in AGILE / Waterfall methodologies
+Domain Experience on Commercial Mortgage Servicing, Loan Underwriting Collateral Analysis System, Workout Agreements, Energy Credit Resolution, Renewable Energy & Environmental Finance.
+Provides technical direction to the project team: lead and participate in design discussions, writing code and code reviews. Work closely with the team to develop appropriate technical design and approach for application development
+Periodic review of current status of system applications and prepare recommendations for improvements.
+Strong understanding & experience with security scans including Fortify scans, BlackDuck scans etc.
+Assure deliverables are as per the agreed requirements, conform to quality standards, and are delivered within committed timelines
+Ability to actively engage business/technology partners, present, defend & challenge technical recommendations
+Instill best practices for software development and documentation for Code Quality, Unit Testing, Automation Testing
+Leadership Expectations at Wells Fargo
+
+Experience working with cloud infrastructure and SaaS solutions in a hybrid Cloud environment.
+Hands on engineer with an awareness of below skills
+Design and development of web based application using Java/J2EE, REST, Relational and NOSQL databases.
+Programming - Java, Scala, Python, Shell script, Terraform
+Big Data/Lake - Hadoop eco system, Spark, Flink, Redis
+Messaging - Kafka, RMQ
+Frameworks - Spring boot, Spring cloud
+Site Reliability Engineering (SRE)
+UI – ReactJS, Visualization libraries
+BI Tools - Alteryx, Tableau, Qlik Sense, Power BI
+Container – Docker, Kubernetes
+
+Data engineering
+
+Mandatory skills:
+Very strong understanding of Akka with Java/Scala
+Play/Lagom with Java/Scala
+REST/SOAP based API development
+Maven/Gradle
+Junit, Mockito
+XML, JSON
+GIT, SVN or any Code repository tools
+SWAGGER 2.0
+OAUTH, SAML
+Design Patterns
+Event Driven Architecture
+Caching (Redis/Memcache)
+NoSQL database (MongoDB/Cassandra/CouchDB)
+Postman/SoapUI
+
+Certification:
+Any Cloud certification
+TOGAF
+
+Preferred skills:
+SpringBoot, Java/J2EE
+Experience in Akka with Java/Scala
+Any Cloud Experience (AWS/AZURE/GCP/PCF)
+Experience using Kafka will be plus
+Experience of working with NoSQl databases like Cassandra
+Experience of working with RDBMS databases like Postgres
+Experience in designing and developing Restful styled web services
+Experience in agile development methodologies like SCRUM
+Exposure to Business BFSI Industry
+Exposure to CI/CD Pipeline
+Experience working on CMMI / Agile / SAFE methodologies
+
+==============================================================================

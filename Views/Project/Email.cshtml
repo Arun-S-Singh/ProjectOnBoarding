@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ProjectOnBoarding.ViewModels.EmailViewModel
+
+<form method="post">
+
+    <label class="control-label mt-4">Project</label>
+    <select asp-for="ProjectId" class="form-control mt-2" asp-items="ViewBag.Projects"></select>
+
+    <label class="control-label mt-4">Email To</label>
+    <select asp-for="EmailId" class="form-control mt-2" asp-items="ViewBag.Users"></select>
+    
+    <button type="submit" class="btn-primary mt-2">Send Email</button>
+
+</form>

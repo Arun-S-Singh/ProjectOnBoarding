@@ -1,0 +1,35 @@
+﻿@model List<Document>
+
+@{
+    @if (Model.Count > 0)
+    {
+        <h6>Documents for the project</h6>
+        <table class="table table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <td>Document(s)</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <ol class="list-group list-group-numbered">
+
+                            @foreach (Document document in Model)
+                            {
+                                <li class="list-group-item"><a href="/documents/@document.UniqueFileName"> @document.FileName </a></li>
+                            }
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="bg-info text-center text-dark text-uppercase"> No document uploaded for the project.</p>
+       
+    }
+
+}
+

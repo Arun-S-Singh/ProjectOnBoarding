@@ -1,0 +1,560 @@
+2024-08-16 10:50:27.138 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 10:50:28.119 +05:30 [INF] HTTP GET / responded 200 in 988.2444 ms
+2024-08-16 10:50:28.191 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 13.9442 ms
+2024-08-16 10:50:28.191 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 39.6575 ms
+2024-08-16 10:50:28.191 +05:30 [INF] HTTP GET /css/site.css responded 304 in 14.0479 ms
+2024-08-16 10:50:28.191 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 14.1221 ms
+2024-08-16 10:50:28.191 +05:30 [INF] HTTP GET /js/site.js responded 304 in 13.6991 ms
+2024-08-16 10:50:28.191 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 13.8162 ms
+2024-08-16 10:50:28.416 +05:30 [INF] HTTP GET /favicon.ico responded 304 in 0.3920 ms
+2024-08-16 10:50:41.516 +05:30 [INF] HTTP GET /Project responded 200 in 4175.0131 ms
+2024-08-16 10:50:52.799 +05:30 [ERR] The view 'SendEmail' was not found. Searched locations: ["/Views/Project/SendEmail.cshtml","/Views/Shared/SendEmail.cshtml","/Pages/Shared/SendEmail.cshtml"]
+2024-08-16 10:50:52.849 +05:30 [ERR] HTTP GET /Project/SendEmail/7 responded 500 in 127.2633 ms
+System.InvalidOperationException: The view 'SendEmail' was not found. The following locations were searched:
+/Views/Project/SendEmail.cshtml
+/Views/Shared/SendEmail.cshtml
+/Pages/Shared/SendEmail.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-16 10:50:52.923 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'SendEmail' was not found. The following locations were searched:
+/Views/Project/SendEmail.cshtml
+/Views/Shared/SendEmail.cshtml
+/Pages/Shared/SendEmail.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-16 10:54:13.258 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 10:54:13.718 +05:30 [INF] HTTP GET / responded 200 in 465.4712 ms
+2024-08-16 10:54:18.263 +05:30 [INF] HTTP GET /Project responded 200 in 1211.2173 ms
+2024-08-16 10:54:23.758 +05:30 [ERR] The view 'SendEmail' was not found. Searched locations: ["/Views/Project/SendEmail.cshtml","/Views/Shared/SendEmail.cshtml","/Pages/Shared/SendEmail.cshtml"]
+2024-08-16 10:54:23.772 +05:30 [ERR] HTTP GET /Project/SendEmail/7 responded 500 in 40.8472 ms
+System.InvalidOperationException: The view 'SendEmail' was not found. The following locations were searched:
+/Views/Project/SendEmail.cshtml
+/Views/Shared/SendEmail.cshtml
+/Pages/Shared/SendEmail.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-16 10:54:23.838 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'SendEmail' was not found. The following locations were searched:
+/Views/Project/SendEmail.cshtml
+/Views/Shared/SendEmail.cshtml
+/Pages/Shared/SendEmail.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-16 10:55:49.364 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 10:55:49.809 +05:30 [INF] HTTP GET / responded 200 in 448.1265 ms
+2024-08-16 10:56:02.274 +05:30 [INF] HTTP GET /Project responded 200 in 3274.7644 ms
+2024-08-16 10:56:03.990 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 132.3530 ms
+2024-08-16 10:56:09.591 +05:30 [INF] HTTP GET /Project/SendEmail responded 404 in 7.6227 ms
+2024-08-16 10:56:46.287 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 10:56:47.013 +05:30 [INF] HTTP GET / responded 200 in 735.2254 ms
+2024-08-16 10:56:54.955 +05:30 [INF] HTTP GET /Project responded 200 in 3323.6148 ms
+2024-08-16 10:56:57.190 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 111.7933 ms
+2024-08-16 10:56:58.916 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 17.6376 ms
+2024-08-16 10:58:02.610 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 4.5432 ms
+2024-08-16 10:59:47.495 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 10:59:47.861 +05:30 [INF] HTTP GET / responded 200 in 369.0102 ms
+2024-08-16 11:00:07.579 +05:30 [INF] HTTP GET /Project responded 200 in 3362.5071 ms
+2024-08-16 11:00:10.801 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 121.2626 ms
+2024-08-16 11:00:37.555 +05:30 [INF] HTTP POST /Project/Email/7 responded 200 in 24837.5278 ms
+2024-08-16 12:08:25.394 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:08:25.892 +05:30 [INF] HTTP GET / responded 200 in 502.1851 ms
+2024-08-16 12:08:34.552 +05:30 [INF] HTTP GET /Project responded 200 in 2471.9616 ms
+2024-08-16 12:08:36.908 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 59.8136 ms
+2024-08-16 12:09:39.884 +05:30 [ERR] HTTP POST /Project/Email/7 responded 500 in 61058.5053 ms
+System.NotSupportedException:  This method may not be called when another read operation is pending.
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MailKit.Net.Smtp.SmtpStream.ReadAhead(CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpStream.ReadResponse(CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpStream.SendCommand(String command, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.Disconnect(Boolean quit, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Services.Email.EmailService.SendEmail(EmailDto emailRequest) in D:\Arun\Learn\Projects\ProjectOnBoarding\Services\Email\EmailService.cs:line 32
+   at ProjectOnBoarding.Controllers.ProjectController.Email() in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 235
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-16 12:09:39.924 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NotSupportedException:  This method may not be called when another read operation is pending.
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MailKit.Net.Smtp.SmtpStream.ReadAhead(CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpStream.ReadResponse(CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpStream.SendCommand(String command, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.Disconnect(Boolean quit, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Services.Email.EmailService.SendEmail(EmailDto emailRequest) in D:\Arun\Learn\Projects\ProjectOnBoarding\Services\Email\EmailService.cs:line 32
+   at ProjectOnBoarding.Controllers.ProjectController.Email() in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 235
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-16 12:10:17.838 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:10:18.178 +05:30 [INF] HTTP GET / responded 200 in 343.8203 ms
+2024-08-16 12:10:27.255 +05:30 [INF] HTTP GET /Project responded 200 in 1764.9393 ms
+2024-08-16 12:10:28.800 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 62.8875 ms
+2024-08-16 12:11:06.509 +05:30 [INF] HTTP POST /Project/Email/7 responded 200 in 36228.5076 ms
+2024-08-16 12:29:33.870 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:29:34.205 +05:30 [INF] HTTP GET / responded 200 in 336.7810 ms
+2024-08-16 12:29:53.476 +05:30 [INF] HTTP GET /Project responded 200 in 1672.7940 ms
+2024-08-16 12:30:28.844 +05:30 [ERR] HTTP GET /Project/Email/7 responded 500 in 32987.3844 ms
+System.ArgumentException: The name of an HTML field cannot be null or empty. Instead use methods Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper.Editor or Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper`1.EditorFor with a non-empty htmlFieldName argument value. (Parameter 'expression')
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.DefaultHtmlGenerator.GenerateSelect(ViewContext viewContext, ModelExplorer modelExplorer, String optionLabel, String expression, IEnumerable`1 selectList, ICollection`1 currentValues, Boolean allowMultiple, Object htmlAttributes)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Project_Email.<ExecuteAsync>b__14_0()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Project_Email.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-16 12:30:28.875 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: The name of an HTML field cannot be null or empty. Instead use methods Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper.Editor or Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper`1.EditorFor with a non-empty htmlFieldName argument value. (Parameter 'expression')
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.DefaultHtmlGenerator.GenerateSelect(ViewContext viewContext, ModelExplorer modelExplorer, String optionLabel, String expression, IEnumerable`1 selectList, ICollection`1 currentValues, Boolean allowMultiple, Object htmlAttributes)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Project_Email.<ExecuteAsync>b__14_0()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Project_Email.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-16 12:32:42.980 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:32:43.292 +05:30 [INF] HTTP GET / responded 200 in 316.8487 ms
+2024-08-16 12:32:47.029 +05:30 [INF] HTTP GET /Project responded 200 in 1164.5144 ms
+2024-08-16 12:35:05.808 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:35:06.155 +05:30 [INF] HTTP GET / responded 200 in 350.0642 ms
+2024-08-16 12:35:10.870 +05:30 [INF] HTTP GET /Project responded 200 in 1358.3827 ms
+2024-08-16 12:35:20.218 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 6759.4457 ms
+2024-08-16 12:36:50.595 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:36:50.914 +05:30 [INF] HTTP GET / responded 200 in 323.5101 ms
+2024-08-16 12:37:11.836 +05:30 [INF] HTTP GET /Project responded 200 in 1498.6077 ms
+2024-08-16 12:37:28.567 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 15172.9870 ms
+2024-08-16 12:45:05.530 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:45:05.870 +05:30 [INF] HTTP GET / responded 200 in 343.5255 ms
+2024-08-16 12:45:13.277 +05:30 [INF] HTTP GET /Project responded 200 in 1631.3545 ms
+2024-08-16 12:45:14.822 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 222.7180 ms
+2024-08-16 12:46:12.200 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 12:46:12.550 +05:30 [INF] HTTP GET / responded 200 in 352.6648 ms
+2024-08-16 12:46:16.206 +05:30 [INF] HTTP GET /Project responded 200 in 1020.3307 ms
+2024-08-16 12:46:17.838 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 268.1472 ms
+2024-08-16 13:04:53.506 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 13:04:53.891 +05:30 [INF] HTTP GET / responded 200 in 386.4005 ms
+2024-08-16 13:04:58.472 +05:30 [INF] HTTP GET /Project responded 200 in 1278.5198 ms
+2024-08-16 13:05:04.513 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 183.6901 ms
+2024-08-16 13:23:11.769 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 271.7666 ms
+2024-08-16 13:23:34.423 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 13:23:34.892 +05:30 [INF] HTTP GET / responded 200 in 475.5753 ms
+2024-08-16 13:23:56.279 +05:30 [INF] HTTP GET /Project responded 200 in 3314.4441 ms
+2024-08-16 13:23:58.860 +05:30 [INF] HTTP GET /Project/Email/7 responded 200 in 511.9659 ms
+2024-08-16 14:18:15.330 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 14:18:15.845 +05:30 [INF] HTTP GET / responded 200 in 532.4205 ms
+2024-08-16 14:18:38.043 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 3595.8346 ms
+2024-08-16 14:18:39.706 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 60.8427 ms
+2024-08-16 14:18:42.456 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 262.5111 ms
+2024-08-16 14:18:42.527 +05:30 [INF] HTTP GET /Identity/lib/jquery-validation/dist/jquery.validate.js responded 304 in 40.7438 ms
+2024-08-16 14:18:42.527 +05:30 [INF] HTTP GET /Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js responded 304 in 40.6538 ms
+2024-08-16 14:18:45.006 +05:30 [INF] User logged in.
+2024-08-16 14:18:45.015 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 856.0338 ms
+2024-08-16 14:18:45.059 +05:30 [INF] HTTP GET / responded 200 in 13.3753 ms
+2024-08-16 14:19:00.274 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 199.0495 ms
+2024-08-16 14:19:01.838 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 395.4014 ms
+2024-08-16 14:19:01.885 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 6.4252 ms
+2024-08-16 14:19:01.886 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 0.3885 ms
+2024-08-16 14:19:17.748 +05:30 [INF] HTTP POST /ProjectTask/Create responded 302 in 621.8687 ms
+2024-08-16 14:19:17.807 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 36.5228 ms
+2024-08-16 14:19:19.472 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 16.3217 ms
+2024-08-16 14:19:27.481 +05:30 [INF] HTTP POST /ProjectTask/Create responded 302 in 450.2972 ms
+2024-08-16 14:19:27.509 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 11.6742 ms
+2024-08-16 14:19:33.327 +05:30 [INF] HTTP GET /Document responded 200 in 105.1051 ms
+2024-08-16 14:19:37.616 +05:30 [INF] HTTP GET /Document/Create responded 200 in 61.0891 ms
+2024-08-16 14:19:48.645 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=bc66857e-29f7-4fd9-ad08-ce4f241bb504_Backlog.xlsx ] added by vivekm@augmenza.com for project [2]
+2024-08-16 14:19:48.657 +05:30 [INF] HTTP POST /Document/Create responded 302 in 252.3270 ms
+2024-08-16 14:19:48.686 +05:30 [INF] HTTP GET /Document responded 200 in 14.6625 ms
+2024-08-16 14:19:59.108 +05:30 [INF] HTTP GET /Project responded 200 in 62.8771 ms
+2024-08-16 14:20:09.806 +05:30 [INF] HTTP GET /Project/Completed responded 200 in 52.0130 ms
+2024-08-16 14:20:15.793 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 366.3388 ms
+2024-08-16 14:20:15.880 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 37.0089 ms
+2024-08-16 14:20:28.832 +05:30 [INF] HTTP GET /Project responded 200 in 8.9067 ms
+2024-08-16 14:20:40.419 +05:30 [INF] HTTP GET /Project/Edit/3 responded 200 in 2937.0973 ms
+2024-08-16 14:20:47.117 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-3,Name=July 25 Project 1 ] added by vivekm@augmenza.com
+2024-08-16 14:20:47.123 +05:30 [INF] HTTP POST /Project/Edit/3 responded 302 in 225.6544 ms
+2024-08-16 14:20:47.140 +05:30 [INF] HTTP GET /Project responded 200 in 3.6816 ms
+2024-08-16 14:20:51.777 +05:30 [INF] HTTP GET /Project/Completed responded 200 in 7.4981 ms
+2024-08-16 14:22:16.967 +05:30 [INF] HTTP GET /Project responded 200 in 5.7890 ms
+2024-08-16 14:22:57.049 +05:30 [INF] HTTP GET /Project responded 200 in 5.3723 ms
+2024-08-16 14:23:17.913 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 67.0389 ms
+2024-08-16 14:24:17.238 +05:30 [INF] HTTP GET /Project responded 200 in 4.5434 ms
+2024-08-16 14:25:07.671 +05:30 [INF] HTTP GET /Project responded 200 in 5.0050 ms
+2024-08-16 14:25:15.669 +05:30 [INF] HTTP GET /Project responded 200 in 75.2686 ms
+2024-08-16 14:25:32.004 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 20.7677 ms
+2024-08-16 14:29:07.763 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 14:29:08.042 +05:30 [INF] HTTP GET / responded 200 in 286.9039 ms
+2024-08-16 14:29:13.817 +05:30 [INF] User logged out.
+2024-08-16 14:29:13.824 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 148.9044 ms
+2024-08-16 14:29:13.878 +05:30 [INF] HTTP GET / responded 200 in 35.6226 ms
+2024-08-16 14:29:15.415 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 205.5544 ms
+2024-08-16 14:29:37.863 +05:30 [INF] User logged in.
+2024-08-16 14:29:37.867 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 3958.6175 ms
+2024-08-16 14:29:37.906 +05:30 [INF] HTTP GET / responded 200 in 3.5026 ms
+2024-08-16 14:29:49.969 +05:30 [INF] User logged out.
+2024-08-16 14:29:49.973 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 13.5928 ms
+2024-08-16 14:29:49.995 +05:30 [INF] HTTP GET / responded 200 in 4.1283 ms
+2024-08-16 14:29:51.399 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 75.7776 ms
+2024-08-16 14:30:44.713 +05:30 [INF] User created a new account with password.
+2024-08-16 14:30:44.729 +05:30 [INF] HTTP POST /Identity/Account/Register responded 302 in 1329.2698 ms
+2024-08-16 14:30:44.750 +05:30 [INF] HTTP GET / responded 200 in 3.3897 ms
+2024-08-16 14:31:09.245 +05:30 [INF] HTTP GET /Project responded 200 in 314.1064 ms
+2024-08-16 14:31:14.854 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 272.2905 ms
+2024-08-16 14:32:13.618 +05:30 [INF] HTTP POST /Project/Email/2 responded 200 in 30630.3518 ms
+2024-08-16 14:38:38.415 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 14:38:38.668 +05:30 [INF] HTTP GET / responded 200 in 258.4054 ms
+2024-08-16 14:38:50.448 +05:30 [INF] HTTP GET /Project responded 200 in 3296.2352 ms
+2024-08-16 14:38:56.842 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 464.8066 ms
+2024-08-16 14:39:07.864 +05:30 [INF] HTTP POST /Project/Email/2 responded 200 in 6423.3882 ms
+2024-08-16 14:47:03.692 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 14:47:03.968 +05:30 [INF] HTTP GET / responded 200 in 275.9825 ms
+2024-08-16 14:47:12.924 +05:30 [INF] HTTP GET /Project responded 200 in 3405.8824 ms
+2024-08-16 14:47:19.243 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 466.4888 ms
+2024-08-16 14:47:36.939 +05:30 [INF] HTTP POST /Project/Email/2 responded 200 in 13026.3083 ms
+2024-08-16 15:14:25.424 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 15:14:25.656 +05:30 [INF] HTTP GET / responded 200 in 233.8957 ms
+2024-08-16 15:14:32.403 +05:30 [INF] HTTP GET /Project responded 200 in 193.2167 ms
+2024-08-16 15:14:38.606 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 190.5089 ms
+2024-08-16 15:14:50.951 +05:30 [INF] HTTP POST /Project/Email/2 responded 200 in 7177.1755 ms
+2024-08-16 15:22:40.274 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 15:22:40.472 +05:30 [INF] HTTP GET / responded 200 in 199.4849 ms
+2024-08-16 15:22:49.636 +05:30 [INF] HTTP GET /Project responded 200 in 1816.4048 ms
+2024-08-16 15:22:53.537 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 261.7272 ms
+2024-08-16 15:23:05.344 +05:30 [INF] HTTP POST /Project/Email/2 responded 200 in 7808.7178 ms
+2024-08-16 15:29:24.186 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 15:29:24.390 +05:30 [INF] HTTP GET / responded 200 in 208.4837 ms
+2024-08-16 15:29:29.446 +05:30 [INF] HTTP GET /Project responded 200 in 1579.0187 ms
+2024-08-16 15:29:33.567 +05:30 [INF] HTTP GET /Project/Email/2 responded 200 in 239.5269 ms
+2024-08-16 15:30:09.072 +05:30 [INF] HTTP POST /Project/Email/2 responded 200 in 8937.7513 ms
+2024-08-16 15:52:25.319 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 15:52:25.516 +05:30 [INF] HTTP GET / responded 200 in 198.8475 ms
+2024-08-16 15:53:26.373 +05:30 [INF] HTTP GET /Project/Email responded 200 in 318.2134 ms
+2024-08-16 15:53:41.851 +05:30 [INF] HTTP POST /Project/Email responded 200 in 7900.9188 ms
+2024-08-16 15:54:17.295 +05:30 [ERR] HTTP POST /Project/Email responded 500 in 22652.2853 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ProjectOnBoarding.Controllers.ProjectController.GetCompanyName(Nullable`1 companyId) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 325
+   at ProjectOnBoarding.Controllers.ProjectController.FormatEmailBody(Int32 projectId) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 286
+   at ProjectOnBoarding.Controllers.ProjectController.Email(EmailViewModel viewModel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 239
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-16 15:54:17.332 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ProjectOnBoarding.Controllers.ProjectController.GetCompanyName(Nullable`1 companyId) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 325
+   at ProjectOnBoarding.Controllers.ProjectController.FormatEmailBody(Int32 projectId) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 286
+   at ProjectOnBoarding.Controllers.ProjectController.Email(EmailViewModel viewModel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 239
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-16 15:55:35.671 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 15:55:35.918 +05:30 [INF] HTTP GET / responded 200 in 248.6760 ms
+2024-08-16 15:55:46.985 +05:30 [INF] HTTP GET /Project responded 200 in 1668.5460 ms
+2024-08-16 16:27:50.127 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 16:27:50.340 +05:30 [INF] HTTP GET / responded 200 in 215.2221 ms
+2024-08-16 16:27:56.070 +05:30 [INF] HTTP GET /Project responded 200 in 142.4483 ms
+2024-08-16 16:28:05.468 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 198.5472 ms
+2024-08-16 16:28:05.541 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 34.8076 ms
+2024-08-16 16:28:17.189 +05:30 [INF] HTTP GET /Project responded 200 in 30.8663 ms
+2024-08-16 16:28:18.572 +05:30 [INF] HTTP GET /Project/Delete/7 responded 200 in 20.7264 ms
+2024-08-16 16:28:20.456 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-7,Name=Aug 08 Trimmed ] deleted by arun.s.singh@gmail.com
+2024-08-16 16:28:20.459 +05:30 [INF] HTTP POST /Project/Delete/7 responded 302 in 263.8993 ms
+2024-08-16 16:28:20.468 +05:30 [INF] HTTP GET /Project responded 200 in 2.0856 ms
+2024-08-16 16:28:21.972 +05:30 [INF] HTTP GET /Project/Delete/6 responded 200 in 4.9111 ms
+2024-08-16 16:28:23.389 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-6,Name=Aug 08 ] deleted by arun.s.singh@gmail.com
+2024-08-16 16:28:23.395 +05:30 [INF] HTTP POST /Project/Delete/6 responded 302 in 52.8740 ms
+2024-08-16 16:28:23.411 +05:30 [INF] HTTP GET /Project responded 200 in 3.9233 ms
+2024-08-16 16:28:24.805 +05:30 [INF] HTTP GET /Project/Delete/5 responded 200 in 3.6715 ms
+2024-08-16 16:28:26.593 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-5,Name=Testing User Id ] deleted by arun.s.singh@gmail.com
+2024-08-16 16:28:26.599 +05:30 [INF] HTTP POST /Project/Delete/5 responded 302 in 52.7535 ms
+2024-08-16 16:28:26.612 +05:30 [INF] HTTP GET /Project responded 200 in 1.9563 ms
+2024-08-16 16:28:30.056 +05:30 [INF] HTTP GET /Project/Delete/4 responded 200 in 3.4861 ms
+2024-08-16 16:28:31.843 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-4,Name=Aug 06 ] deleted by arun.s.singh@gmail.com
+2024-08-16 16:28:31.848 +05:30 [INF] HTTP POST /Project/Delete/4 responded 302 in 344.2242 ms
+2024-08-16 16:28:31.859 +05:30 [INF] HTTP GET /Project responded 200 in 2.5593 ms
+2024-08-16 16:28:41.532 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 7500.6610 ms
+2024-08-16 16:29:10.732 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-2,Name=Tested project on Aug 16 ] added by arun.s.singh@gmail.com
+2024-08-16 16:29:10.738 +05:30 [INF] HTTP POST /Project/Edit/2 responded 302 in 433.4129 ms
+2024-08-16 16:29:10.747 +05:30 [INF] HTTP GET /Project responded 200 in 2.4310 ms
+2024-08-16 16:29:14.022 +05:30 [INF] HTTP GET /Project/Add responded 200 in 21.7094 ms
+2024-08-16 16:29:14.111 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 50.2368 ms
+2024-08-16 16:29:14.111 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 47.3733 ms
+2024-08-16 16:29:29.661 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 7.3053 ms
+2024-08-16 16:29:31.174 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 2.0541 ms
+2024-08-16 16:31:06.271 +05:30 [INF] [APPEVENT] New project [ Code=AUG-2024-8,Name=Project Aug 16 ] added by arun.s.singh@gmail.com
+2024-08-16 16:31:06.274 +05:30 [INF] HTTP POST /Project/Add responded 302 in 468.8779 ms
+2024-08-16 16:31:06.284 +05:30 [INF] HTTP GET /Project responded 200 in 1.5235 ms
+2024-08-16 16:32:24.832 +05:30 [INF] HTTP GET /Project responded 200 in 26.8160 ms
+2024-08-16 16:32:44.132 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 70.5999 ms
+2024-08-16 16:32:49.023 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 66.4264 ms
+2024-08-16 16:33:02.027 +05:30 [INF] HTTP POST /ProjectTask/Create responded 302 in 139.6712 ms
+2024-08-16 16:33:02.051 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 4.3631 ms
+2024-08-16 16:33:03.264 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 3.5682 ms
+2024-08-16 16:33:20.255 +05:30 [INF] HTTP POST /ProjectTask/Create responded 302 in 337.7808 ms
+2024-08-16 16:33:20.271 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 6.2577 ms
+2024-08-16 16:33:35.052 +05:30 [INF] HTTP GET /ProjectTask/Edit/5 responded 200 in 62.0586 ms
+2024-08-16 16:33:41.356 +05:30 [INF] HTTP POST /ProjectTask/Edit/5 responded 302 in 113.5993 ms
+2024-08-16 16:33:41.387 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 11.4049 ms
+2024-08-16 16:33:43.431 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 2.8993 ms
+2024-08-16 16:33:58.446 +05:30 [INF] HTTP POST /ProjectTask/Create responded 302 in 112.6131 ms
+2024-08-16 16:33:58.467 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 7.4165 ms
+2024-08-16 16:34:05.096 +05:30 [INF] HTTP GET /Document/Create responded 200 in 46.4658 ms
+2024-08-16 16:34:16.064 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=a506df41-eba2-4058-85cf-a63ea20011cc_Backlog.xlsx ] added by arun.s.singh@gmail.com for project [2]
+2024-08-16 16:34:16.069 +05:30 [INF] HTTP POST /Document/Create responded 302 in 146.1267 ms
+2024-08-16 16:34:16.104 +05:30 [INF] HTTP GET /Document responded 200 in 27.4231 ms
+2024-08-16 16:34:19.315 +05:30 [INF] HTTP GET /Document/Create responded 200 in 6.0420 ms
+2024-08-16 16:34:28.741 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=f5fe5e6c-8478-4039-897b-889963006a9d_car_insurance.xlsx ] added by arun.s.singh@gmail.com for project [2]
+2024-08-16 16:34:28.746 +05:30 [INF] HTTP POST /Document/Create responded 302 in 343.0457 ms
+2024-08-16 16:34:28.758 +05:30 [INF] HTTP GET /Document responded 200 in 4.8745 ms
+2024-08-16 16:34:30.146 +05:30 [INF] HTTP GET /Document/Create responded 200 in 5.3291 ms
+2024-08-16 16:34:39.824 +05:30 [ERR] Failed executing DbCommand (3ms) [Parameters=[@p0='?' (Size = 10), @p1='?' (DbType = Int32), @p2='?', @p3='?' (Size = 47)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Documents" ("FileName", "ProjectId", "Type", "UniqueFileName")
+VALUES (@p0, @p1, @p2, @p3)
+RETURNING "Id";
+2024-08-16 16:34:39.967 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.Type'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.Type'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-08-16 16:34:40.084 +05:30 [ERR] Unable to upload document for project [2]
+2024-08-16 16:34:40.086 +05:30 [ERR] An error occurred while saving the entity changes. See the inner exception for details.
+2024-08-16 16:34:40.089 +05:30 [INF] HTTP POST /Document/Create responded 302 in 302.7526 ms
+2024-08-16 16:34:40.105 +05:30 [INF] HTTP GET /Document responded 200 in 5.9893 ms
+2024-08-16 16:34:46.454 +05:30 [INF] HTTP GET /Project/Email responded 200 in 30.4127 ms
+2024-08-16 16:34:57.202 +05:30 [INF] HTTP GET /Document responded 200 in 8.1615 ms
+2024-08-16 16:35:03.397 +05:30 [INF] HTTP GET /Document/Create responded 200 in 2.6800 ms
+2024-08-16 16:35:11.908 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=f1e228b6-4aae-4925-99bb-f9a905ac6cec_Backlog.xlsx ] added by arun.s.singh@gmail.com for project [8]
+2024-08-16 16:35:11.919 +05:30 [INF] HTTP POST /Document/Create responded 302 in 117.5050 ms
+2024-08-16 16:35:11.932 +05:30 [INF] HTTP GET /Document responded 200 in 4.1858 ms
+2024-08-16 16:35:13.053 +05:30 [INF] HTTP GET /Document/Create responded 200 in 2.4745 ms
+2024-08-16 16:35:26.094 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=3600103a-6eb5-4a08-b2f7-681b5f2ba5c4_nba_png.png ] added by arun.s.singh@gmail.com for project [8]
+2024-08-16 16:35:26.101 +05:30 [INF] HTTP POST /Document/Create responded 302 in 140.3636 ms
+2024-08-16 16:35:26.116 +05:30 [INF] HTTP GET /Document responded 200 in 4.9748 ms
+2024-08-16 16:35:28.023 +05:30 [INF] HTTP GET /Document/Create responded 200 in 2.9944 ms
+2024-08-16 16:35:44.296 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=6c544471-4417-408f-9cc0-f933530e8265_lakers.png ] added by arun.s.singh@gmail.com for project [8]
+2024-08-16 16:35:44.304 +05:30 [INF] HTTP POST /Document/Create responded 302 in 146.2576 ms
+2024-08-16 16:35:44.316 +05:30 [INF] HTTP GET /Document responded 200 in 4.6196 ms
+2024-08-16 16:35:53.011 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 11.5501 ms
+2024-08-16 16:36:02.006 +05:30 [INF] HTTP GET /ProjectTask/Edit/2 responded 200 in 3.4111 ms
+2024-08-16 16:36:05.530 +05:30 [INF] HTTP POST /ProjectTask/Edit/2 responded 302 in 114.4608 ms
+2024-08-16 16:36:05.552 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 8.0278 ms
+2024-08-16 16:36:07.879 +05:30 [INF] HTTP GET /ProjectTask/Edit/3 responded 200 in 4.7606 ms
+2024-08-16 16:36:13.913 +05:30 [INF] HTTP POST /ProjectTask/Edit/3 responded 302 in 99.4882 ms
+2024-08-16 16:36:13.931 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 8.2877 ms
+2024-08-16 16:36:24.061 +05:30 [INF] HTTP GET /ProjectTask/Edit/5 responded 200 in 2.7673 ms
+2024-08-16 16:36:27.484 +05:30 [INF] HTTP POST /ProjectTask/Edit/5 responded 302 in 22.7467 ms
+2024-08-16 16:36:27.506 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 6.3395 ms
+2024-08-16 16:36:28.746 +05:30 [INF] HTTP GET /ProjectTask/Edit/6 responded 200 in 5.1341 ms
+2024-08-16 16:36:33.169 +05:30 [INF] HTTP POST /ProjectTask/Edit/6 responded 302 in 103.6101 ms
+2024-08-16 16:36:33.190 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 5.5967 ms
+2024-08-16 16:36:35.997 +05:30 [INF] HTTP GET /ProjectTask/Edit/3 responded 200 in 2.5314 ms
+2024-08-16 16:36:39.055 +05:30 [INF] HTTP POST /ProjectTask/Edit/3 responded 302 in 363.5359 ms
+2024-08-16 16:36:39.075 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 6.1400 ms
+2024-08-16 16:36:46.619 +05:30 [INF] HTTP GET /Project/Email responded 200 in 4.9711 ms
+2024-08-16 16:38:55.374 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-16 16:38:55.560 +05:30 [INF] HTTP GET / responded 200 in 188.8579 ms
+2024-08-16 16:39:03.191 +05:30 [INF] HTTP GET /Project/Email responded 200 in 1696.9733 ms
+2024-08-16 16:39:14.604 +05:30 [INF] HTTP POST /Project/Email responded 200 in 6991.7449 ms

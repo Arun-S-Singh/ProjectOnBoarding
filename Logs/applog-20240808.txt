@@ -1,0 +1,1485 @@
+2024-08-08 10:27:08.267 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 10:27:09.719 +05:30 [INF] HTTP GET / responded 200 in 1461.6765 ms
+2024-08-08 10:27:09.785 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 6.0426 ms
+2024-08-08 10:27:09.785 +05:30 [INF] HTTP GET /css/site.css responded 304 in 27.2835 ms
+2024-08-08 10:27:09.786 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 6.4660 ms
+2024-08-08 10:27:09.786 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 34.6651 ms
+2024-08-08 10:27:09.785 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 6.1694 ms
+2024-08-08 10:27:09.786 +05:30 [INF] HTTP GET /js/site.js responded 304 in 1.4097 ms
+2024-08-08 10:27:17.481 +05:30 [INF] HTTP GET /Document responded 200 in 4730.5989 ms
+2024-08-08 10:27:19.499 +05:30 [INF] HTTP GET /Document/Create responded 200 in 73.0604 ms
+2024-08-08 10:27:22.095 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 290.7446 ms
+2024-08-08 10:27:24.593 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 94.0279 ms
+2024-08-08 10:27:26.490 +05:30 [INF] User logged in.
+2024-08-08 10:27:26.499 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 836.5731 ms
+2024-08-08 10:27:26.541 +05:30 [INF] HTTP GET / responded 200 in 12.3532 ms
+2024-08-08 10:27:28.418 +05:30 [INF] HTTP GET /Document responded 200 in 194.3700 ms
+2024-08-08 10:27:30.179 +05:30 [INF] HTTP GET /Document/Create responded 200 in 305.7715 ms
+2024-08-08 10:28:06.676 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=8aca34ab-d030-46e9-b630-49f897000310_Cover.docx ] added by vivekm@augmenza.com for project [5]
+2024-08-08 10:28:06.690 +05:30 [INF] HTTP POST /Document/Create responded 302 in 4886.3708 ms
+2024-08-08 10:28:06.722 +05:30 [INF] HTTP GET /Document responded 200 in 12.3975 ms
+2024-08-08 10:28:44.078 +05:30 [INF] HTTP GET /Document/Create responded 200 in 9.7199 ms
+2024-08-08 10:29:25.173 +05:30 [INF] HTTP GET /Document/Create responded 200 in 7.4241 ms
+2024-08-08 10:29:25.272 +05:30 [INF] HTTP GET /favicon.ico responded 304 in 0.3761 ms
+2024-08-08 10:29:30.225 +05:30 [INF] HTTP GET /Document responded 200 in 12.4036 ms
+2024-08-08 10:29:32.685 +05:30 [INF] HTTP GET /Document/Create responded 200 in 10.6366 ms
+2024-08-08 10:29:53.977 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 10:29:54.716 +05:30 [INF] HTTP GET / responded 200 in 749.1481 ms
+2024-08-08 10:30:02.313 +05:30 [INF] HTTP GET /Document responded 200 in 2365.9989 ms
+2024-08-08 10:30:05.280 +05:30 [INF] HTTP GET /Document/Create responded 200 in 42.6619 ms
+2024-08-08 10:30:07.584 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 200.8235 ms
+2024-08-08 10:30:12.639 +05:30 [INF] User logged in.
+2024-08-08 10:30:12.647 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 428.9648 ms
+2024-08-08 10:30:12.676 +05:30 [INF] HTTP GET / responded 200 in 7.0043 ms
+2024-08-08 10:30:16.791 +05:30 [INF] HTTP GET /Document responded 200 in 202.7493 ms
+2024-08-08 10:30:20.537 +05:30 [INF] HTTP GET /Document/Create responded 200 in 274.7809 ms
+2024-08-08 10:31:22.070 +05:30 [INF] HTTP GET /Document/Create responded 200 in 79.1429 ms
+2024-08-08 10:32:03.612 +05:30 [INF] HTTP GET /Document/Create responded 200 in 22.2322 ms
+2024-08-08 10:32:06.985 +05:30 [INF] HTTP GET /Document responded 200 in 54.1148 ms
+2024-08-08 10:33:13.627 +05:30 [INF] HTTP GET /Document responded 200 in 79.2254 ms
+2024-08-08 10:33:16.741 +05:30 [INF] HTTP GET /Document/Edit/6 responded 200 in 148.9200 ms
+2024-08-08 10:33:16.823 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 21.1965 ms
+2024-08-08 10:33:16.823 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 21.0830 ms
+2024-08-08 10:45:28.396 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 10:45:28.773 +05:30 [INF] HTTP GET / responded 200 in 379.7634 ms
+2024-08-08 10:45:32.568 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 150.6820 ms
+2024-08-08 10:45:35.389 +05:30 [INF] User logged in.
+2024-08-08 10:45:35.392 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1956.3260 ms
+2024-08-08 10:45:35.418 +05:30 [INF] HTTP GET / responded 200 in 6.1397 ms
+2024-08-08 10:45:36.954 +05:30 [INF] HTTP GET /Document responded 200 in 249.7455 ms
+2024-08-08 10:45:41.279 +05:30 [INF] HTTP GET /Document/Delete/6 responded 200 in 97.1581 ms
+2024-08-08 10:45:43.388 +05:30 [INF] [APPEVENT] New document [ Id=6,FileName=c6d6e64d-fbed-442c-ac97-3aeae4f0180b_HSC.jpg ] added by vivekm@augmenza.com for project [3]
+2024-08-08 10:45:43.396 +05:30 [INF] HTTP POST /Document/Delete/6 responded 302 in 303.3500 ms
+2024-08-08 10:45:43.421 +05:30 [INF] HTTP GET /Document responded 200 in 11.7499 ms
+2024-08-08 10:47:25.279 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 10:47:25.770 +05:30 [INF] HTTP GET / responded 200 in 493.1547 ms
+2024-08-08 10:47:29.360 +05:30 [INF] HTTP GET /Document responded 200 in 1300.7578 ms
+2024-08-08 10:47:37.523 +05:30 [INF] HTTP GET /Document/Delete/7 responded 200 in 151.9223 ms
+2024-08-08 10:47:40.149 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 104.5807 ms
+2024-08-08 10:47:41.766 +05:30 [INF] User logged in.
+2024-08-08 10:47:41.774 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 434.2259 ms
+2024-08-08 10:47:41.804 +05:30 [INF] HTTP GET / responded 200 in 7.0740 ms
+2024-08-08 10:47:43.752 +05:30 [INF] HTTP GET /Document responded 200 in 10.3048 ms
+2024-08-08 10:47:45.528 +05:30 [INF] HTTP GET /Document/Delete/7 responded 200 in 23.9757 ms
+2024-08-08 10:47:47.482 +05:30 [INF] [APPEVENT] Document [ Id=7,FileName=8aca34ab-d030-46e9-b630-49f897000310_Cover.docx ] deleted by vivekm@augmenza.com for project [5]
+2024-08-08 10:47:47.489 +05:30 [INF] HTTP POST /Document/Delete/7 responded 302 in 581.1610 ms
+2024-08-08 10:47:47.508 +05:30 [INF] HTTP GET /Document responded 200 in 4.6190 ms
+2024-08-08 10:48:16.411 +05:30 [INF] HTTP GET /Document/Create responded 200 in 135.6391 ms
+2024-08-08 10:48:49.487 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=119a6e3c-d84f-446e-8448-fcf95f29e017_Cover.docx ] added by vivekm@augmenza.com for project [1]
+2024-08-08 10:48:49.494 +05:30 [INF] HTTP POST /Document/Create responded 302 in 2409.7472 ms
+2024-08-08 10:48:49.505 +05:30 [INF] HTTP GET /Document responded 200 in 3.0635 ms
+2024-08-08 10:48:49.535 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=54886fc1-3712-45c6-8d2f-7cbb5104e7f2_Cover.docx ] added by vivekm@augmenza.com for project [1]
+2024-08-08 10:48:49.538 +05:30 [INF] HTTP POST /Document/Create responded 302 in 20531.7836 ms
+2024-08-08 10:49:00.223 +05:30 [ERR] HTTP GET /Document/Edit/8 responded 500 in 31.6335 ms
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method425(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 10:49:00.284 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method425(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 11:04:10.991 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:04:11.359 +05:30 [INF] HTTP GET / responded 200 in 372.0638 ms
+2024-08-08 11:04:14.355 +05:30 [INF] HTTP GET /Document responded 200 in 1327.8883 ms
+2024-08-08 11:04:18.404 +05:30 [ERR] HTTP GET /Document/Edit/8 responded 500 in 108.5916 ms
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method198(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 11:04:18.451 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method198(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 11:11:26.321 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:11:26.708 +05:30 [INF] HTTP GET / responded 200 in 389.6759 ms
+2024-08-08 11:11:29.275 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 125.4231 ms
+2024-08-08 11:11:32.415 +05:30 [INF] User logged in.
+2024-08-08 11:11:32.420 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1882.0794 ms
+2024-08-08 11:11:32.447 +05:30 [INF] HTTP GET / responded 200 in 4.4806 ms
+2024-08-08 11:11:34.424 +05:30 [INF] HTTP GET /Document responded 200 in 296.4638 ms
+2024-08-08 11:11:35.687 +05:30 [INF] HTTP GET /Document/Create responded 200 in 129.6588 ms
+2024-08-08 11:11:49.301 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=6ba9499f-7dfb-4e04-9a09-3fdefe07169b_Cover.docx ] added by vivekm@augmenza.com for project [5]
+2024-08-08 11:11:49.308 +05:30 [INF] HTTP POST /Document/Create responded 302 in 2662.9484 ms
+2024-08-08 11:11:49.327 +05:30 [INF] HTTP GET /Document responded 200 in 8.9703 ms
+2024-08-08 11:11:55.619 +05:30 [ERR] HTTP GET /Document/Edit/10 responded 500 in 44.9348 ms
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method402(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 11:11:55.673 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary..ctor(ViewDataDictionary source, Object model, Type declaredModelType)
+   at lambda_method402(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 11:12:28.924 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:12:29.328 +05:30 [INF] HTTP GET / responded 200 in 407.9327 ms
+2024-08-08 11:12:32.316 +05:30 [INF] HTTP GET /Document responded 200 in 1132.3272 ms
+2024-08-08 11:12:38.928 +05:30 [INF] HTTP GET /Document/Edit/10 responded 200 in 314.2527 ms
+2024-08-08 11:12:53.918 +05:30 [INF] HTTP GET /Document responded 200 in 141.6860 ms
+2024-08-08 11:12:59.632 +05:30 [INF] HTTP GET /Document/Edit/10 responded 200 in 17.3441 ms
+2024-08-08 11:13:03.871 +05:30 [INF] [APPEVENT] Document [Id=10, File=] edited by null
+2024-08-08 11:13:03.877 +05:30 [INF] HTTP POST /Document/Edit/10 responded 302 in 302.1428 ms
+2024-08-08 11:13:03.919 +05:30 [INF] HTTP GET /Document responded 200 in 29.2022 ms
+2024-08-08 11:13:27.078 +05:30 [INF] HTTP GET /Document/Edit/11 responded 200 in 8.7592 ms
+2024-08-08 11:13:33.156 +05:30 [INF] [APPEVENT] Document [Id=11, File=c77748ff-84e5-4b51-a3a3-c1d6622c609d_Arun-Bio.pdf] edited by null
+2024-08-08 11:13:33.162 +05:30 [INF] HTTP POST /Document/Edit/11 responded 302 in 164.6343 ms
+2024-08-08 11:13:33.182 +05:30 [INF] HTTP GET /Document responded 200 in 9.4504 ms
+2024-08-08 11:14:03.169 +05:30 [INF] HTTP GET /Document/Edit/11 responded 200 in 7.2309 ms
+2024-08-08 11:14:08.603 +05:30 [INF] [APPEVENT] Document [Id=11, File=] edited by null
+2024-08-08 11:14:08.605 +05:30 [INF] HTTP POST /Document/Edit/11 responded 302 in 38.5711 ms
+2024-08-08 11:14:08.624 +05:30 [INF] HTTP GET /Document responded 200 in 9.8494 ms
+2024-08-08 11:14:47.778 +05:30 [INF] HTTP GET /Document/Edit/13 responded 200 in 6.8674 ms
+2024-08-08 11:15:49.784 +05:30 [INF] [APPEVENT] Document [Id=13, File=b39ee52d-d0af-4817-a691-3cc289095b48_Cover_Short.pdf] edited by null
+2024-08-08 11:15:57.072 +05:30 [INF] HTTP POST /Document/Edit/13 responded 302 in 56983.0442 ms
+2024-08-08 11:15:57.098 +05:30 [INF] HTTP GET /Document responded 200 in 11.0361 ms
+2024-08-08 11:16:09.187 +05:30 [INF] HTTP GET /Document/Delete/11 responded 200 in 29.6671 ms
+2024-08-08 11:16:42.258 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 30845.2898 ms
+2024-08-08 11:16:45.062 +05:30 [INF] User logged in.
+2024-08-08 11:16:45.066 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 285.2644 ms
+2024-08-08 11:16:45.084 +05:30 [INF] HTTP GET / responded 200 in 3.5257 ms
+2024-08-08 11:16:46.711 +05:30 [INF] HTTP GET /Document responded 200 in 10.3589 ms
+2024-08-08 11:16:49.365 +05:30 [INF] HTTP GET /Document/Delete/11 responded 200 in 13.7190 ms
+2024-08-08 11:16:50.898 +05:30 [INF] [APPEVENT] Document [ Id=11,FileName= ] deleted by vivekm@augmenza.com for project [5]
+2024-08-08 11:16:50.907 +05:30 [INF] HTTP POST /Document/Delete/11 responded 302 in 149.7999 ms
+2024-08-08 11:16:50.932 +05:30 [INF] HTTP GET /Document responded 200 in 10.8112 ms
+2024-08-08 11:17:05.993 +05:30 [INF] HTTP GET /Document/Delete/13 responded 200 in 5.0880 ms
+2024-08-08 11:17:07.782 +05:30 [INF] [APPEVENT] Document [ Id=13,FileName= ] deleted by vivekm@augmenza.com for project [5]
+2024-08-08 11:17:07.793 +05:30 [INF] HTTP POST /Document/Delete/13 responded 302 in 364.4189 ms
+2024-08-08 11:17:07.819 +05:30 [INF] HTTP GET /Document responded 200 in 7.8560 ms
+2024-08-08 11:19:05.569 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:19:05.958 +05:30 [INF] HTTP GET / responded 200 in 393.2790 ms
+2024-08-08 11:19:08.770 +05:30 [INF] HTTP GET /Document responded 200 in 1227.3269 ms
+2024-08-08 11:19:11.081 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 149.9218 ms
+2024-08-08 11:19:12.777 +05:30 [INF] User logged in.
+2024-08-08 11:19:12.784 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 425.6066 ms
+2024-08-08 11:19:12.814 +05:30 [INF] HTTP GET / responded 200 in 6.1968 ms
+2024-08-08 11:19:14.326 +05:30 [INF] HTTP GET /Document responded 200 in 105.5689 ms
+2024-08-08 11:19:30.862 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 185.7929 ms
+2024-08-08 11:19:38.031 +05:30 [ERR] Failed executing DbCommand (10ms) [Parameters=[@p4='?' (DbType = Int32), @p0='?', @p1='?' (DbType = Int32), @p2='?' (Size = 5), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Documents" SET "FileName" = @p0, "ProjectId" = @p1, "Type" = @p2, "UniqueFileName" = @p3
+WHERE "Id" = @p4
+RETURNING 1;
+2024-08-08 11:19:38.158 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-08-08 11:19:38.216 +05:30 [ERR] HTTP POST /Document/Edit/14 responded 500 in 2287.1953 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.DocumentController.Edit(Int32 id, DocumentViewModel viewModel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\DocumentController.cs:line 175
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 11:19:38.256 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.DocumentController.Edit(Int32 id, DocumentViewModel viewModel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\DocumentController.cs:line 175
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 11:20:38.965 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:20:39.358 +05:30 [INF] HTTP GET / responded 200 in 398.7952 ms
+2024-08-08 11:20:42.053 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 86.8150 ms
+2024-08-08 11:20:45.662 +05:30 [INF] User logged in.
+2024-08-08 11:20:45.668 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1901.5844 ms
+2024-08-08 11:20:45.697 +05:30 [INF] HTTP GET / responded 200 in 10.8661 ms
+2024-08-08 11:20:47.405 +05:30 [INF] HTTP GET /Document responded 200 in 267.2887 ms
+2024-08-08 11:20:51.925 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 141.5125 ms
+2024-08-08 11:21:53.402 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:21:53.813 +05:30 [INF] HTTP GET / responded 200 in 416.2859 ms
+2024-08-08 11:21:56.007 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 108.9194 ms
+2024-08-08 11:21:58.926 +05:30 [INF] User logged in.
+2024-08-08 11:21:58.931 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1709.9579 ms
+2024-08-08 11:21:58.965 +05:30 [INF] HTTP GET / responded 200 in 8.7806 ms
+2024-08-08 11:22:00.764 +05:30 [INF] HTTP GET /Document responded 200 in 265.4623 ms
+2024-08-08 11:22:03.326 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 156.7934 ms
+2024-08-08 11:24:58.690 +05:30 [ERR] Failed executing DbCommand (6ms) [Parameters=[@p4='?' (DbType = Int32), @p0='?', @p1='?' (DbType = Int32), @p2='?' (Size = 5), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Documents" SET "FileName" = @p0, "ProjectId" = @p1, "Type" = @p2, "UniqueFileName" = @p3
+WHERE "Id" = @p4
+RETURNING 1;
+2024-08-08 11:24:58.740 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-08-08 11:24:58.811 +05:30 [ERR] HTTP POST /Document/Edit/14 responded 500 in 172441.8928 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.DocumentController.Edit(Int32 id, DocumentViewModel viewModel)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 11:24:58.828 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Documents.FileName'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.DocumentController.Edit(Int32 id, DocumentViewModel viewModel)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 11:25:10.597 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:25:10.993 +05:30 [INF] HTTP GET / responded 200 in 400.7553 ms
+2024-08-08 11:25:13.343 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 106.6026 ms
+2024-08-08 11:25:16.891 +05:30 [INF] User logged in.
+2024-08-08 11:25:16.895 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1812.2859 ms
+2024-08-08 11:25:16.923 +05:30 [INF] HTTP GET / responded 200 in 8.4351 ms
+2024-08-08 11:25:21.687 +05:30 [INF] HTTP GET /Document responded 200 in 271.3975 ms
+2024-08-08 11:25:24.349 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 209.0224 ms
+2024-08-08 11:28:10.394 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:28:10.813 +05:30 [INF] HTTP GET / responded 200 in 423.9332 ms
+2024-08-08 11:28:12.638 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 161.7671 ms
+2024-08-08 11:28:15.775 +05:30 [INF] User logged in.
+2024-08-08 11:28:15.779 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1729.1126 ms
+2024-08-08 11:28:15.799 +05:30 [INF] HTTP GET / responded 200 in 4.6806 ms
+2024-08-08 11:28:17.379 +05:30 [INF] HTTP GET /Document responded 200 in 270.4290 ms
+2024-08-08 11:28:19.956 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 196.1447 ms
+2024-08-08 11:28:45.689 +05:30 [ERR] HTTP POST /Document/Edit/14 responded 500 in 21016.8348 ms
+System.InvalidOperationException: The instance of entity type 'Document' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Update[TEntity](TEntity entity)
+   at ProjectOnBoarding.Controllers.DocumentController.Edit(Int32 id, DocumentViewModel viewModel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\DocumentController.cs:line 176
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 11:28:45.734 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The instance of entity type 'Document' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Update[TEntity](TEntity entity)
+   at ProjectOnBoarding.Controllers.DocumentController.Edit(Int32 id, DocumentViewModel viewModel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\DocumentController.cs:line 176
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 11:30:17.415 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:30:17.871 +05:30 [INF] HTTP GET / responded 200 in 461.7347 ms
+2024-08-08 11:34:28.836 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:34:29.297 +05:30 [INF] HTTP GET / responded 200 in 467.6004 ms
+2024-08-08 11:34:31.270 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 155.6247 ms
+2024-08-08 11:34:34.753 +05:30 [INF] User logged in.
+2024-08-08 11:34:34.758 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1802.8535 ms
+2024-08-08 11:34:34.787 +05:30 [INF] HTTP GET / responded 200 in 8.5681 ms
+2024-08-08 11:34:37.063 +05:30 [INF] HTTP GET /Document responded 200 in 227.5319 ms
+2024-08-08 11:34:42.538 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 227.1279 ms
+2024-08-08 11:34:49.172 +05:30 [INF] [APPEVENT] Document [Id=14, File=] edited by vivekm@augmenza.com
+2024-08-08 11:34:49.180 +05:30 [INF] HTTP POST /Document/Edit/14 responded 302 in 2474.1702 ms
+2024-08-08 11:34:49.203 +05:30 [INF] HTTP GET /Document responded 200 in 10.0790 ms
+2024-08-08 11:34:56.017 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 8.0604 ms
+2024-08-08 11:35:02.703 +05:30 [INF] [APPEVENT] Document [Id=14, File=] edited by vivekm@augmenza.com
+2024-08-08 11:35:02.711 +05:30 [INF] HTTP POST /Document/Edit/14 responded 302 in 1843.9971 ms
+2024-08-08 11:35:02.737 +05:30 [INF] HTTP GET /Document responded 200 in 11.5081 ms
+2024-08-08 11:35:09.652 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 7.8621 ms
+2024-08-08 11:35:19.171 +05:30 [INF] [APPEVENT] Document [Id=14, File=] edited by vivekm@augmenza.com
+2024-08-08 11:35:19.176 +05:30 [INF] HTTP POST /Document/Edit/14 responded 302 in 2092.3579 ms
+2024-08-08 11:35:19.199 +05:30 [INF] HTTP GET /Document responded 200 in 9.0259 ms
+2024-08-08 11:35:26.468 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 5.9888 ms
+2024-08-08 11:35:53.423 +05:30 [INF] [APPEVENT] Document [Id=14, File=e74c085c-11c7-4f4a-8860-1b6232e578e5_Arun-Right.JPG] edited by vivekm@augmenza.com
+2024-08-08 11:35:53.434 +05:30 [INF] HTTP POST /Document/Edit/14 responded 302 in 2290.9195 ms
+2024-08-08 11:35:53.464 +05:30 [INF] HTTP GET /Document responded 200 in 5.5198 ms
+2024-08-08 11:39:06.547 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:39:07.007 +05:30 [INF] HTTP GET / responded 200 in 469.4852 ms
+2024-08-08 11:39:09.806 +05:30 [INF] HTTP GET /Document responded 200 in 1391.0933 ms
+2024-08-08 11:39:12.109 +05:30 [INF] HTTP GET /Document/Edit/14 responded 200 in 205.5664 ms
+2024-08-08 11:39:45.247 +05:30 [INF] [APPEVENT] Document [Id=14, File=d43aa49a-49b9-4493-b19a-4d52610d2fd3_Links.txt] edited by null
+2024-08-08 11:39:45.254 +05:30 [INF] HTTP POST /Document/Edit/14 responded 302 in 8210.2770 ms
+2024-08-08 11:39:45.273 +05:30 [INF] HTTP GET /Document responded 200 in 7.1978 ms
+2024-08-08 11:40:12.509 +05:30 [INF] HTTP GET /Document/Details/14 responded 200 in 37.4016 ms
+2024-08-08 11:40:13.959 +05:30 [INF] HTTP GET /documents/d43aa49a-49b9-4493-b19a-4d52610d2fd3_Links.txt responded 200 in 31.4389 ms
+2024-08-08 11:40:23.476 +05:30 [INF] HTTP GET /Brand responded 200 in 37.5558 ms
+2024-08-08 11:40:28.376 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 44.9518 ms
+2024-08-08 11:40:30.136 +05:30 [INF] User logged in.
+2024-08-08 11:40:30.142 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 194.1043 ms
+2024-08-08 11:40:30.166 +05:30 [INF] HTTP GET / responded 200 in 4.4167 ms
+2024-08-08 11:40:31.620 +05:30 [INF] HTTP GET /Brand responded 200 in 10.8850 ms
+2024-08-08 11:40:36.872 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 35.0847 ms
+2024-08-08 11:40:39.040 +05:30 [INF] HTTP GET /Brand responded 200 in 6.8427 ms
+2024-08-08 11:40:40.237 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 17.0850 ms
+2024-08-08 11:40:44.877 +05:30 [INF] HTTP GET /Brand responded 200 in 5.7129 ms
+2024-08-08 11:40:46.241 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 15.5593 ms
+2024-08-08 11:40:47.803 +05:30 [INF] HTTP GET /Brand responded 200 in 15.8345 ms
+2024-08-08 11:40:49.724 +05:30 [INF] HTTP GET /Document responded 200 in 7.7391 ms
+2024-08-08 11:40:53.116 +05:30 [INF] HTTP GET /Document/Details/8 responded 200 in 5.1486 ms
+2024-08-08 11:41:45.490 +05:30 [INF] HTTP GET /Document/Details/8 responded 200 in 23.6427 ms
+2024-08-08 11:41:49.874 +05:30 [INF] HTTP GET /Document responded 200 in 10.5241 ms
+2024-08-08 11:41:54.676 +05:30 [INF] HTTP GET /Document/Details/8 responded 200 in 5.0556 ms
+2024-08-08 11:41:57.963 +05:30 [INF] HTTP GET /documents/119a6e3c-d84f-446e-8448-fcf95f29e017_Cover.docx responded 200 in 4.0401 ms
+2024-08-08 11:42:01.572 +05:30 [INF] HTTP GET /Document responded 200 in 6.0098 ms
+2024-08-08 11:42:05.116 +05:30 [INF] HTTP GET /Document/Delete/8 responded 200 in 23.6339 ms
+2024-08-08 11:42:06.633 +05:30 [INF] HTTP GET /Document responded 200 in 11.0254 ms
+2024-08-08 11:42:11.430 +05:30 [INF] HTTP GET /Document/Edit/8 responded 200 in 15.4023 ms
+2024-08-08 11:42:57.907 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:42:58.298 +05:30 [INF] HTTP GET / responded 200 in 392.6942 ms
+2024-08-08 11:43:01.760 +05:30 [INF] HTTP GET /Document responded 200 in 1398.0000 ms
+2024-08-08 11:43:06.445 +05:30 [INF] HTTP GET /Document/Details/8 responded 200 in 151.0984 ms
+2024-08-08 11:43:10.258 +05:30 [INF] HTTP GET /Document/Edit/8 responded 200 in 244.4112 ms
+2024-08-08 11:46:02.608 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:46:03.056 +05:30 [INF] HTTP GET / responded 200 in 455.1133 ms
+2024-08-08 11:56:47.511 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:56:48.006 +05:30 [INF] HTTP GET / responded 200 in 499.2106 ms
+2024-08-08 11:57:35.934 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:57:36.362 +05:30 [INF] HTTP GET / responded 200 in 433.7058 ms
+2024-08-08 11:57:46.738 +05:30 [INF] HTTP GET /Project responded 200 in 1504.2760 ms
+2024-08-08 11:57:51.420 +05:30 [INF] HTTP GET /Document responded 200 in 279.6423 ms
+2024-08-08 11:59:05.334 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 11:59:05.724 +05:30 [INF] HTTP GET / responded 200 in 399.6833 ms
+2024-08-08 11:59:13.659 +05:30 [INF] HTTP GET /Document responded 200 in 1798.2084 ms
+2024-08-08 11:59:17.495 +05:30 [INF] HTTP GET /Document/Edit/8 responded 200 in 156.3981 ms
+2024-08-08 11:59:24.299 +05:30 [INF] HTTP GET /Project responded 200 in 136.5618 ms
+2024-08-08 11:59:28.805 +05:30 [INF] HTTP GET /Company responded 200 in 50.4718 ms
+2024-08-08 11:59:29.503 +05:30 [INF] HTTP GET /Division responded 200 in 42.7978 ms
+2024-08-08 11:59:30.359 +05:30 [INF] HTTP GET /Brand responded 200 in 54.7166 ms
+2024-08-08 12:00:30.341 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:00:30.679 +05:30 [INF] HTTP GET / responded 200 in 344.7745 ms
+2024-08-08 12:01:07.238 +05:30 [INF] HTTP GET / responded 200 in 80.6957 ms
+2024-08-08 12:14:05.573 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:14:06.002 +05:30 [INF] HTTP GET / responded 200 in 437.9501 ms
+2024-08-08 12:27:19.433 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:27:19.799 +05:30 [INF] HTTP GET / responded 200 in 369.0841 ms
+2024-08-08 12:28:13.971 +05:30 [INF] HTTP GET / responded 200 in 71.8218 ms
+2024-08-08 12:28:54.808 +05:30 [INF] HTTP GET / responded 200 in 66.7186 ms
+2024-08-08 12:29:22.818 +05:30 [INF] HTTP GET / responded 200 in 56.1244 ms
+2024-08-08 12:30:34.531 +05:30 [INF] HTTP GET / responded 200 in 70.3218 ms
+2024-08-08 12:31:43.785 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:31:44.204 +05:30 [INF] HTTP GET / responded 200 in 421.8401 ms
+2024-08-08 12:39:50.514 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:39:50.925 +05:30 [INF] HTTP GET / responded 200 in 412.3920 ms
+2024-08-08 12:41:00.206 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:41:00.620 +05:30 [INF] HTTP GET / responded 200 in 424.9659 ms
+2024-08-08 12:41:19.006 +05:30 [INF] HTTP GET /Project responded 200 in 2991.0978 ms
+2024-08-08 12:41:33.596 +05:30 [INF] HTTP GET /Project/Add responded 200 in 266.4451 ms
+2024-08-08 12:41:35.268 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 252.6381 ms
+2024-08-08 12:41:37.775 +05:30 [INF] User logged in.
+2024-08-08 12:41:37.785 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1100.1496 ms
+2024-08-08 12:41:37.819 +05:30 [INF] HTTP GET / responded 200 in 10.3311 ms
+2024-08-08 12:41:45.596 +05:30 [INF] HTTP GET /Project responded 200 in 10.2262 ms
+2024-08-08 12:42:02.682 +05:30 [INF] HTTP GET /Project/Add responded 200 in 123.6195 ms
+2024-08-08 12:42:02.905 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 176.4335 ms
+2024-08-08 12:42:02.906 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 177.2863 ms
+2024-08-08 12:42:17.919 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 31.0562 ms
+2024-08-08 12:42:19.126 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 21.9848 ms
+2024-08-08 12:43:45.435 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:43:45.859 +05:30 [INF] HTTP GET / responded 200 in 429.0067 ms
+2024-08-08 12:44:04.282 +05:30 [INF] HTTP GET /Project responded 200 in 3010.3036 ms
+2024-08-08 12:44:09.779 +05:30 [INF] HTTP GET /Project/Add responded 200 in 257.3341 ms
+2024-08-08 12:44:11.242 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 235.2256 ms
+2024-08-08 12:44:13.584 +05:30 [INF] User logged in.
+2024-08-08 12:44:13.592 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1072.6683 ms
+2024-08-08 12:44:13.628 +05:30 [INF] HTTP GET / responded 200 in 9.5235 ms
+2024-08-08 12:44:17.047 +05:30 [INF] HTTP GET /Project responded 200 in 11.5034 ms
+2024-08-08 12:44:18.089 +05:30 [INF] HTTP GET /Project/Add responded 200 in 137.5324 ms
+2024-08-08 12:44:18.249 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 117.7006 ms
+2024-08-08 12:44:18.251 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 114.2289 ms
+2024-08-08 12:44:31.984 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 30.4358 ms
+2024-08-08 12:44:33.467 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 18.7152 ms
+2024-08-08 12:45:00.002 +05:30 [INF] [APPEVENT] New project [ Code=AUG-2024-6,Name=Aug 08 ] added by vivekm@augmenza.com
+2024-08-08 12:45:00.009 +05:30 [INF] HTTP POST /Project/Add responded 302 in 761.6928 ms
+2024-08-08 12:45:00.037 +05:30 [INF] HTTP GET /Project responded 200 in 10.0926 ms
+2024-08-08 12:45:13.401 +05:30 [INF] HTTP GET /Project/Edit/6 responded 200 in 214.8962 ms
+2024-08-08 12:45:27.777 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-6,Name=Aug 08 ] added by vivekm@augmenza.com
+2024-08-08 12:45:27.785 +05:30 [INF] HTTP POST /Project/Edit/6 responded 302 in 181.7013 ms
+2024-08-08 12:45:27.807 +05:30 [INF] HTTP GET /Project responded 200 in 4.1603 ms
+2024-08-08 12:45:35.869 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 68.4074 ms
+2024-08-08 12:45:38.746 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-1,Name=July 25 Project 1 ] deleted by vivekm@augmenza.com
+2024-08-08 12:45:38.754 +05:30 [INF] HTTP POST /Project/Delete/1 responded 302 in 371.5102 ms
+2024-08-08 12:45:38.773 +05:30 [INF] HTTP GET /Project responded 200 in 3.9201 ms
+2024-08-08 12:45:50.696 +05:30 [INF] HTTP GET /Project/Edit/5 responded 200 in 11.6426 ms
+2024-08-08 12:46:00.869 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-5,Name=Testing User Id ] added by vivekm@augmenza.com
+2024-08-08 12:46:00.878 +05:30 [INF] HTTP POST /Project/Edit/5 responded 302 in 124.6860 ms
+2024-08-08 12:46:00.903 +05:30 [INF] HTTP GET /Project responded 200 in 3.9289 ms
+2024-08-08 12:46:08.180 +05:30 [INF] HTTP GET /Project/Edit/5 responded 200 in 8.5673 ms
+2024-08-08 12:46:28.442 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-5,Name=Testing User Id ] added by vivekm@augmenza.com
+2024-08-08 12:46:28.448 +05:30 [INF] HTTP POST /Project/Edit/5 responded 302 in 128.9340 ms
+2024-08-08 12:46:28.465 +05:30 [INF] HTTP GET /Project responded 200 in 3.8389 ms
+2024-08-08 12:47:06.046 +05:30 [INF] HTTP GET /Project/Add responded 200 in 7.0767 ms
+2024-08-08 12:47:06.117 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 13.0333 ms
+2024-08-08 12:47:06.126 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 22.3045 ms
+2024-08-08 12:49:04.017 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:49:04.479 +05:30 [INF] HTTP GET / responded 200 in 464.3523 ms
+2024-08-08 12:49:11.001 +05:30 [INF] HTTP GET /Project responded 200 in 3051.1128 ms
+2024-08-08 12:49:19.297 +05:30 [INF] HTTP GET /Project/Create responded 404 in 6.8625 ms
+2024-08-08 12:49:30.878 +05:30 [INF] HTTP GET /Project/Add responded 200 in 269.9943 ms
+2024-08-08 12:49:52.304 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 12:49:52.755 +05:30 [INF] HTTP GET / responded 200 in 458.7700 ms
+2024-08-08 12:49:58.220 +05:30 [INF] HTTP GET /Project/Add responded 200 in 2214.0047 ms
+2024-08-08 12:50:00.053 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 290.6279 ms
+2024-08-08 12:50:02.605 +05:30 [INF] User logged in.
+2024-08-08 12:50:02.609 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 985.2737 ms
+2024-08-08 12:50:02.646 +05:30 [INF] HTTP GET / responded 200 in 13.7973 ms
+2024-08-08 12:50:05.225 +05:30 [INF] HTTP GET /Project/Add responded 200 in 289.7812 ms
+2024-08-08 12:50:05.384 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 89.5731 ms
+2024-08-08 12:50:05.386 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 90.7615 ms
+2024-08-08 14:02:16.805 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:02:17.226 +05:30 [INF] HTTP GET / responded 200 in 426.3503 ms
+2024-08-08 14:02:17.262 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 6.9935 ms
+2024-08-08 14:02:24.348 +05:30 [INF] HTTP GET /Project/Add responded 200 in 1248.6201 ms
+2024-08-08 14:02:25.797 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 132.1350 ms
+2024-08-08 14:02:27.844 +05:30 [INF] User logged in.
+2024-08-08 14:02:27.850 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 500.7732 ms
+2024-08-08 14:02:27.875 +05:30 [INF] HTTP GET / responded 200 in 8.0539 ms
+2024-08-08 14:02:31.512 +05:30 [INF] HTTP GET /Project/Add responded 200 in 97.4498 ms
+2024-08-08 14:02:31.618 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 59.3778 ms
+2024-08-08 14:02:31.618 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 61.0008 ms
+2024-08-08 14:02:50.071 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 14.9074 ms
+2024-08-08 14:02:51.625 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 16.5466 ms
+2024-08-08 14:03:07.702 +05:30 [ERR] Failed executing DbCommand (18ms) [Parameters=[@p0='?' (Size = 26), @p1='?' (DbType = Int32), @p2='?', @p3='?', @p4='?' (Size = 5), @p5='?' (DbType = Int32), @p6='?' (DbType = DateTime), @p7='?' (Size = 19), @p8='?' (Size = 14), @p9='?' (Size = 18), @p10='?' (DbType = Int32), @p11='?' (DbType = Boolean), @p12='?' (Size = 14), @p13='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Projects" ("Brand", "BrandId", "Brief", "Code", "Company", "CompanyId", "CreateDate", "CreatedBy", "Description", "Division", "DivisionId", "IsCompleted", "Name", "References")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13)
+RETURNING "Id";
+2024-08-08 14:03:07.779 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'table Projects has no column named IsCompleted'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'table Projects has no column named IsCompleted'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-08-08 14:03:08.190 +05:30 [ERR] HTTP POST /Project/Add responded 500 in 796.2155 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'table Projects has no column named IsCompleted'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 88
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 14:03:08.235 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'table Projects has no column named IsCompleted'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 88
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 14:04:35.185 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:04:35.626 +05:30 [INF] HTTP GET / responded 200 in 448.7681 ms
+2024-08-08 14:04:46.696 +05:30 [INF] HTTP GET /Project/Add responded 200 in 3005.0704 ms
+2024-08-08 14:04:48.322 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 334.2937 ms
+2024-08-08 14:04:51.106 +05:30 [INF] User logged in.
+2024-08-08 14:04:51.113 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1103.2013 ms
+2024-08-08 14:04:51.150 +05:30 [INF] HTTP GET / responded 200 in 11.1783 ms
+2024-08-08 14:04:56.206 +05:30 [INF] HTTP GET /Project/Add responded 200 in 309.2665 ms
+2024-08-08 14:04:56.345 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 93.2107 ms
+2024-08-08 14:04:56.345 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 91.5585 ms
+2024-08-08 14:05:08.321 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 29.9973 ms
+2024-08-08 14:05:09.462 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 23.0032 ms
+2024-08-08 14:05:15.289 +05:30 [INF] [APPEVENT] New project [ Code=AUG-2024-7,Name=Aug 08 Trimmed ] added by vivekm@augmenza.com
+2024-08-08 14:05:15.293 +05:30 [INF] HTTP POST /Project/Add responded 302 in 739.2574 ms
+2024-08-08 14:05:15.398 +05:30 [INF] HTTP GET /Project responded 200 in 75.1163 ms
+2024-08-08 14:05:23.808 +05:30 [INF] HTTP GET /Project/Edit/7 responded 200 in 186.4004 ms
+2024-08-08 14:05:36.066 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-7,Name=Aug 08 Trimmed ] added by vivekm@augmenza.com
+2024-08-08 14:05:36.073 +05:30 [INF] HTTP POST /Project/Edit/7 responded 302 in 107.2291 ms
+2024-08-08 14:05:36.102 +05:30 [INF] HTTP GET /Project responded 200 in 7.2786 ms
+2024-08-08 14:05:38.306 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 73.9646 ms
+2024-08-08 14:07:04.120 +05:30 [INF] HTTP GET /Project/Edit/Model.Id responded 200 in 21.3670 ms
+2024-08-08 14:07:26.743 +05:30 [INF] HTTP POST /Project/Edit/Model.Id responded 302 in 5.1916 ms
+2024-08-08 14:07:26.769 +05:30 [INF] HTTP GET /Project responded 200 in 6.8705 ms
+2024-08-08 14:07:32.232 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 7.2320 ms
+2024-08-08 14:07:53.016 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-2,Name=Test123 ] added by vivekm@augmenza.com
+2024-08-08 14:07:53.023 +05:30 [INF] HTTP POST /Project/Edit/2 responded 302 in 118.7203 ms
+2024-08-08 14:07:53.040 +05:30 [INF] HTTP GET /Project responded 200 in 5.0247 ms
+2024-08-08 14:09:05.648 +05:30 [INF] HTTP GET /Project responded 200 in 66.7769 ms
+2024-08-08 14:09:42.176 +05:30 [INF] HTTP GET /Project responded 200 in 61.9512 ms
+2024-08-08 14:11:39.512 +05:30 [INF] HTTP GET /Project responded 200 in 49.6979 ms
+2024-08-08 14:17:21.730 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:17:22.134 +05:30 [INF] HTTP GET / responded 200 in 413.0002 ms
+2024-08-08 14:17:31.125 +05:30 [INF] HTTP GET /Project responded 200 in 3397.9985 ms
+2024-08-08 14:19:00.566 +05:30 [INF] HTTP GET /Project responded 200 in 131.8103 ms
+2024-08-08 14:19:04.007 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 746.7080 ms
+2024-08-08 14:19:05.722 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 257.3585 ms
+2024-08-08 14:19:07.925 +05:30 [INF] User logged in.
+2024-08-08 14:19:07.934 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 742.0098 ms
+2024-08-08 14:19:07.999 +05:30 [INF] HTTP GET / responded 200 in 29.5740 ms
+2024-08-08 14:19:11.562 +05:30 [INF] HTTP GET /Project responded 200 in 7.8392 ms
+2024-08-08 14:19:13.401 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 261.0707 ms
+2024-08-08 14:19:51.576 +05:30 [ERR] HTTP GET /Project/Edit/2 responded 500 in 336.2682 ms
+2024-08-08 14:19:51.617 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+2024-08-08 14:19:51.641 +05:30 [ERR] An exception was thrown attempting to display the error page.
+System.TypeLoadException: Could not resolve type 'AspNetCoreGeneratedDocument.Views_Project_Edit' in assembly 'ProjectOnBoarding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.TypeNameParser.GetTypeFromDefaultAssemblies(String typeName, ReadOnlySpan`1 nestedTypeNames)
+   at System.Reflection.TypeNameParser.GetType(String typeName, ReadOnlySpan`1 nestedTypeNames, String assemblyNameIfAny)
+   at System.Reflection.TypeNameParser.NestedNamespaceTypeName.ResolveType(TypeNameParser& parser, String containingAssemblyIfAny)
+   at System.Reflection.TypeNameParser.GetTypeHelper(Char* pTypeName, RuntimeAssembly requestingAssembly, Boolean throwOnError, Boolean requireAssemblyQualifiedName)
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, RuntimeType type, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean inherit)
+   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+   at System.Reflection.CustomAttributeExtensions.GetCustomAttributes[T](MemberInfo element)
+   at Microsoft.Extensions.StackTrace.Sources.StackTraceHelper.TryResolveStateMachineMethod(MethodBase& method, Type& declaringType)
+   at Microsoft.Extensions.StackTrace.Sources.StackTraceHelper.GetMethodDisplayString(MethodBase method)
+   at Microsoft.Extensions.StackTrace.Sources.StackTraceHelper.GetFrames(Exception exception, AggregateException& error)
+   at Microsoft.Extensions.StackTrace.Sources.ExceptionDetailsProvider.GetStackFrames(Exception original)
+   at Microsoft.Extensions.StackTrace.Sources.ExceptionDetailsProvider.GetDetails(Exception exception)+MoveNext()
+   at Microsoft.AspNetCore.Diagnostics.RazorViews.ErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 14:19:51.664 +05:30 [ERR] Connection id "0HN5NGQRHPGJP", Request id "0HN5NGQRHPGJP:0000000D": An unhandled exception was thrown by the application.
+2024-08-08 14:19:55.635 +05:30 [ERR] HTTP GET /Project/Edit/2 responded 500 in 85.5602 ms
+2024-08-08 14:19:55.646 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+2024-08-08 14:19:55.659 +05:30 [ERR] An exception was thrown attempting to display the error page.
+System.TypeLoadException: Could not resolve type 'AspNetCoreGeneratedDocument.Views_Project_Edit' in assembly 'ProjectOnBoarding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.TypeNameParser.GetTypeFromDefaultAssemblies(String typeName, ReadOnlySpan`1 nestedTypeNames)
+   at System.Reflection.TypeNameParser.GetType(String typeName, ReadOnlySpan`1 nestedTypeNames, String assemblyNameIfAny)
+   at System.Reflection.TypeNameParser.NestedNamespaceTypeName.ResolveType(TypeNameParser& parser, String containingAssemblyIfAny)
+   at System.Reflection.TypeNameParser.GetTypeHelper(Char* pTypeName, RuntimeAssembly requestingAssembly, Boolean throwOnError, Boolean requireAssemblyQualifiedName)
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, RuntimeType type, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean inherit)
+   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+   at System.Reflection.CustomAttributeExtensions.GetCustomAttributes[T](MemberInfo element)
+   at Microsoft.Extensions.StackTrace.Sources.StackTraceHelper.TryResolveStateMachineMethod(MethodBase& method, Type& declaringType)
+   at Microsoft.Extensions.StackTrace.Sources.StackTraceHelper.GetMethodDisplayString(MethodBase method)
+   at Microsoft.Extensions.StackTrace.Sources.StackTraceHelper.GetFrames(Exception exception, AggregateException& error)
+   at Microsoft.Extensions.StackTrace.Sources.ExceptionDetailsProvider.GetStackFrames(Exception original)
+   at Microsoft.Extensions.StackTrace.Sources.ExceptionDetailsProvider.GetDetails(Exception exception)+MoveNext()
+   at Microsoft.AspNetCore.Diagnostics.RazorViews.ErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 14:20:10.670 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:20:11.094 +05:30 [INF] HTTP GET / responded 200 in 429.5488 ms
+2024-08-08 14:20:13.562 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 126.1869 ms
+2024-08-08 14:20:19.706 +05:30 [INF] User logged in.
+2024-08-08 14:20:19.713 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 4084.9289 ms
+2024-08-08 14:20:19.773 +05:30 [INF] HTTP GET / responded 200 in 12.5103 ms
+2024-08-08 14:20:25.120 +05:30 [INF] HTTP GET /Project responded 200 in 338.1502 ms
+2024-08-08 14:20:29.764 +05:30 [ERR] HTTP GET /Project/Edit/2 responded 500 in 1012.6180 ms
+System.InvalidOperationException: 'value' must not be null for <input> if 'type' is 'radio'.
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.GenerateRadio(ModelExplorer modelExplorer, IDictionary`2 htmlAttributes)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.<ExecuteAsync>b__20_0()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.ExecuteAsync() in D:\Arun\Learn\Projects\ProjectOnBoarding\Views\Project\Edit.cshtml:line 25
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 14:20:29.860 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: 'value' must not be null for <input> if 'type' is 'radio'.
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.GenerateRadio(ModelExplorer modelExplorer, IDictionary`2 htmlAttributes)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.<ExecuteAsync>b__20_0()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.ExecuteAsync() in D:\Arun\Learn\Projects\ProjectOnBoarding\Views\Project\Edit.cshtml:line 25
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 14:20:52.305 +05:30 [INF] HTTP GET /Project responded 200 in 9.5138 ms
+2024-08-08 14:20:54.719 +05:30 [ERR] HTTP GET /Project/Edit/7 responded 500 in 134.6489 ms
+System.InvalidOperationException: 'value' must not be null for <input> if 'type' is 'radio'.
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.GenerateRadio(ModelExplorer modelExplorer, IDictionary`2 htmlAttributes)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.<ExecuteAsync>b__20_0()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.ExecuteAsync() in D:\Arun\Learn\Projects\ProjectOnBoarding\Views\Project\Edit.cshtml:line 25
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 14:20:54.762 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: 'value' must not be null for <input> if 'type' is 'radio'.
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.GenerateRadio(ModelExplorer modelExplorer, IDictionary`2 htmlAttributes)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.<ExecuteAsync>b__20_0()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Project_Edit.ExecuteAsync() in D:\Arun\Learn\Projects\ProjectOnBoarding\Views\Project\Edit.cshtml:line 25
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 14:25:09.398 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:25:09.845 +05:30 [INF] HTTP GET / responded 200 in 453.6204 ms
+2024-08-08 14:25:12.192 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 123.9778 ms
+2024-08-08 14:25:17.989 +05:30 [INF] User logged in.
+2024-08-08 14:25:17.996 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 3697.0349 ms
+2024-08-08 14:25:18.064 +05:30 [INF] HTTP GET / responded 200 in 25.9801 ms
+2024-08-08 14:25:22.443 +05:30 [INF] HTTP GET /Project responded 200 in 343.0052 ms
+2024-08-08 14:25:27.584 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 569.1018 ms
+2024-08-08 14:26:08.335 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 153.9378 ms
+2024-08-08 14:26:33.391 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 118.7023 ms
+2024-08-08 14:26:37.646 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 16.1331 ms
+2024-08-08 14:26:42.348 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 6.7904 ms
+2024-08-08 14:32:56.500 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:32:56.951 +05:30 [INF] HTTP GET / responded 200 in 456.9757 ms
+2024-08-08 14:33:00.411 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 265.9057 ms
+2024-08-08 14:33:05.955 +05:30 [INF] User logged in.
+2024-08-08 14:33:05.965 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 4272.1091 ms
+2024-08-08 14:33:06.051 +05:30 [INF] HTTP GET / responded 200 in 20.2451 ms
+2024-08-08 14:33:09.560 +05:30 [INF] HTTP GET /Project responded 200 in 381.3921 ms
+2024-08-08 14:33:13.570 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 553.0663 ms
+2024-08-08 14:33:48.173 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 153.5900 ms
+2024-08-08 14:33:59.081 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 129.2232 ms
+2024-08-08 14:34:14.435 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 144.0628 ms
+2024-08-08 14:37:51.785 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:37:52.232 +05:30 [INF] HTTP GET / responded 200 in 450.3191 ms
+2024-08-08 14:38:11.407 +05:30 [INF] HTTP GET /Project responded 200 in 3058.2301 ms
+2024-08-08 14:38:22.549 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 671.2172 ms
+2024-08-08 14:38:24.831 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 204.3290 ms
+2024-08-08 14:38:26.762 +05:30 [INF] User logged in.
+2024-08-08 14:38:26.770 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 871.1816 ms
+2024-08-08 14:38:26.807 +05:30 [INF] HTTP GET / responded 200 in 10.9291 ms
+2024-08-08 14:38:38.012 +05:30 [INF] HTTP GET /Project responded 200 in 7.1144 ms
+2024-08-08 14:38:39.720 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 191.5422 ms
+2024-08-08 14:38:46.631 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-2,Name=Test123 ] added by vivekm@augmenza.com
+2024-08-08 14:38:46.642 +05:30 [INF] HTTP POST /Project/Edit/2 responded 302 in 258.6731 ms
+2024-08-08 14:38:46.670 +05:30 [INF] HTTP GET /Project responded 200 in 6.9667 ms
+2024-08-08 14:40:34.425 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:40:34.816 +05:30 [INF] HTTP GET / responded 200 in 399.2766 ms
+2024-08-08 14:40:37.592 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 143.5606 ms
+2024-08-08 14:40:42.799 +05:30 [INF] User logged in.
+2024-08-08 14:40:42.806 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 3759.6808 ms
+2024-08-08 14:40:42.851 +05:30 [INF] HTTP GET / responded 200 in 13.9594 ms
+2024-08-08 14:40:46.970 +05:30 [INF] HTTP GET /Project responded 200 in 345.6389 ms
+2024-08-08 14:40:50.366 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 515.3703 ms
+2024-08-08 14:40:55.811 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-2,Name=Test123 ] added by vivekm@augmenza.com
+2024-08-08 14:40:55.817 +05:30 [INF] HTTP POST /Project/Edit/2 responded 302 in 570.8788 ms
+2024-08-08 14:40:55.840 +05:30 [INF] HTTP GET /Project responded 200 in 6.0747 ms
+2024-08-08 14:41:02.785 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 118.1765 ms
+2024-08-08 14:42:58.310 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 140.9067 ms
+2024-08-08 14:43:16.696 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 14.3413 ms
+2024-08-08 14:43:50.394 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 136.7971 ms
+2024-08-08 14:43:56.865 +05:30 [INF] HTTP GET /Project responded 200 in 17.2983 ms
+2024-08-08 14:44:04.419 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 12.2269 ms
+2024-08-08 14:46:15.126 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:46:15.541 +05:30 [INF] HTTP GET / responded 200 in 420.9704 ms
+2024-08-08 14:46:25.678 +05:30 [INF] HTTP GET /Project responded 200 in 2992.2052 ms
+2024-08-08 14:46:30.078 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 871.4398 ms
+2024-08-08 14:46:42.668 +05:30 [INF] HTTP GET /Project responded 200 in 174.4617 ms
+2024-08-08 14:46:45.095 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 45.0053 ms
+2024-08-08 14:46:47.009 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 167.1118 ms
+2024-08-08 14:46:48.887 +05:30 [INF] User logged in.
+2024-08-08 14:46:48.897 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 668.6103 ms
+2024-08-08 14:46:48.929 +05:30 [INF] HTTP GET / responded 200 in 9.4404 ms
+2024-08-08 14:46:51.969 +05:30 [INF] HTTP GET /Project responded 200 in 11.2381 ms
+2024-08-08 14:46:54.067 +05:30 [INF] HTTP GET /Project/Edit/2 responded 200 in 67.8810 ms
+2024-08-08 14:47:04.956 +05:30 [INF] [APPEVENT] Project [ Code=AUG-2024-2,Name=Test123 ] added by vivekm@augmenza.com
+2024-08-08 14:47:04.962 +05:30 [INF] HTTP POST /Project/Edit/2 responded 302 in 216.9013 ms
+2024-08-08 14:47:04.991 +05:30 [INF] HTTP GET /Project responded 200 in 5.8760 ms
+2024-08-08 14:47:14.834 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 7.8918 ms
+2024-08-08 14:47:41.091 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 10.6968 ms
+2024-08-08 14:47:48.657 +05:30 [INF] HTTP GET /Project responded 200 in 4.9492 ms
+2024-08-08 14:47:50.336 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 8.6838 ms
+2024-08-08 14:50:00.356 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 31.1295 ms
+2024-08-08 14:50:09.582 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:50:09.994 +05:30 [INF] HTTP GET / responded 200 in 416.7398 ms
+2024-08-08 14:50:12.650 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 158.2871 ms
+2024-08-08 14:50:18.017 +05:30 [INF] User logged in.
+2024-08-08 14:50:18.023 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 3733.3655 ms
+2024-08-08 14:50:18.067 +05:30 [INF] HTTP GET / responded 200 in 12.4940 ms
+2024-08-08 14:50:21.719 +05:30 [INF] HTTP GET /Project responded 200 in 335.7646 ms
+2024-08-08 14:50:26.835 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 529.3551 ms
+2024-08-08 14:50:58.966 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:50:59.384 +05:30 [INF] HTTP GET / responded 200 in 422.3444 ms
+2024-08-08 14:51:45.690 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 342.4117 ms
+2024-08-08 14:51:50.452 +05:30 [INF] User logged in.
+2024-08-08 14:51:50.462 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 3750.4744 ms
+2024-08-08 14:51:50.519 +05:30 [INF] HTTP GET / responded 200 in 15.4054 ms
+2024-08-08 14:51:53.521 +05:30 [INF] HTTP GET /Project responded 200 in 367.2210 ms
+2024-08-08 14:51:56.804 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 1527.6099 ms
+2024-08-08 14:54:47.562 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:54:48.019 +05:30 [INF] HTTP GET / responded 200 in 461.3780 ms
+2024-08-08 14:54:55.356 +05:30 [INF] HTTP GET /Project responded 200 in 3469.9938 ms
+2024-08-08 14:58:38.563 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 14:58:39.233 +05:30 [INF] HTTP GET / responded 200 in 676.1430 ms
+2024-08-08 14:58:50.868 +05:30 [INF] HTTP GET /Project responded 200 in 3368.9701 ms
+2024-08-08 14:58:55.071 +05:30 [INF] HTTP GET /Project/Completed responded 200 in 109.9566 ms
+2024-08-08 14:58:58.543 +05:30 [INF] HTTP GET /Project/Details/2 responded 200 in 821.6424 ms
+2024-08-08 15:06:36.778 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:06:37.360 +05:30 [INF] HTTP GET / responded 200 in 587.6329 ms
+2024-08-08 15:06:43.930 +05:30 [INF] HTTP GET /Project responded 200 in 2486.2461 ms
+2024-08-08 15:29:17.546 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:29:17.954 +05:30 [INF] HTTP GET / responded 200 in 414.9107 ms
+2024-08-08 15:29:25.940 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1778.8911 ms
+2024-08-08 15:29:45.402 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 330.0358 ms
+2024-08-08 15:30:51.128 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:30:51.573 +05:30 [INF] HTTP GET / responded 200 in 449.2140 ms
+2024-08-08 15:31:00.862 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1660.3263 ms
+2024-08-08 15:31:23.106 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 321.0539 ms
+2024-08-08 15:34:58.861 +05:30 [INF] HTTP GET /Document responded 200 in 167.9831 ms
+2024-08-08 15:35:07.336 +05:30 [INF] HTTP GET /Document/Create responded 200 in 9.6049 ms
+2024-08-08 15:35:08.898 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 90.8677 ms
+2024-08-08 15:35:10.711 +05:30 [INF] User logged in.
+2024-08-08 15:35:10.715 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 357.7384 ms
+2024-08-08 15:35:10.732 +05:30 [INF] HTTP GET / responded 200 in 4.4916 ms
+2024-08-08 15:35:16.857 +05:30 [INF] HTTP GET /Document responded 200 in 9.6163 ms
+2024-08-08 15:35:24.218 +05:30 [INF] HTTP GET /Document/Create responded 200 in 33.7230 ms
+2024-08-08 15:36:15.094 +05:30 [INF] HTTP GET /Document/Create responded 200 in 19.6261 ms
+2024-08-08 15:36:41.888 +05:30 [INF] HTTP GET /Document responded 200 in 13.8615 ms
+2024-08-08 15:36:50.905 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 34.3546 ms
+2024-08-08 15:36:55.333 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 19.4972 ms
+2024-08-08 15:37:03.951 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 2.3429 ms
+2024-08-08 15:38:26.086 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 26.0830 ms
+2024-08-08 15:38:38.303 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:38:38.673 +05:30 [INF] HTTP GET / responded 200 in 376.1617 ms
+2024-08-08 15:38:42.140 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 146.9923 ms
+2024-08-08 15:38:45.260 +05:30 [INF] User logged in.
+2024-08-08 15:38:45.266 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1997.9155 ms
+2024-08-08 15:38:45.287 +05:30 [INF] HTTP GET / responded 200 in 6.5664 ms
+2024-08-08 15:38:49.909 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 126.1849 ms
+2024-08-08 15:38:52.241 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 244.5594 ms
+2024-08-08 15:47:59.508 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:47:59.899 +05:30 [INF] HTTP GET / responded 200 in 394.8309 ms
+2024-08-08 15:48:09.185 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1460.2943 ms
+2024-08-08 15:48:11.269 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 385.9896 ms
+2024-08-08 15:48:35.924 +05:30 [INF] HTTP POST /ProjectTask/Create responded 302 in 435.8916 ms
+2024-08-08 15:48:35.971 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 26.6749 ms
+2024-08-08 15:52:35.044 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:52:35.464 +05:30 [INF] HTTP GET / responded 200 in 424.7617 ms
+2024-08-08 15:52:42.605 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1798.1081 ms
+2024-08-08 15:56:14.991 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 49.3260 ms
+2024-08-08 15:56:25.529 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 103.8249 ms
+2024-08-08 15:56:36.944 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:56:37.352 +05:30 [INF] HTTP GET / responded 200 in 417.6465 ms
+2024-08-08 15:56:43.795 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1891.1298 ms
+2024-08-08 15:56:49.961 +05:30 [INF] HTTP GET /ProjectTask/Edit/1 responded 200 in 251.5556 ms
+2024-08-08 15:57:59.756 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:58:00.149 +05:30 [INF] HTTP GET / responded 200 in 397.6590 ms
+2024-08-08 15:58:04.208 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1395.6756 ms
+2024-08-08 15:58:12.606 +05:30 [INF] HTTP GET /ProjectTask/Edit/1 responded 200 in 340.0605 ms
+2024-08-08 15:59:54.119 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 15:59:54.492 +05:30 [INF] HTTP GET / responded 200 in 375.2491 ms
+2024-08-08 16:00:01.282 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1688.9522 ms
+2024-08-08 16:00:03.486 +05:30 [INF] HTTP GET /ProjectTask/Edit/1 responded 200 in 294.3638 ms
+2024-08-08 16:00:17.115 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 121.0761 ms
+2024-08-08 16:00:19.136 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 56.0607 ms
+2024-08-08 16:00:28.189 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 10.1451 ms
+2024-08-08 16:00:30.943 +05:30 [INF] HTTP GET /ProjectTask/Details/1 responded 200 in 36.1426 ms
+2024-08-08 16:00:47.310 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 5.9907 ms
+2024-08-08 16:01:00.209 +05:30 [INF] HTTP GET /ProjectTask/Edit/1 responded 200 in 11.1850 ms
+2024-08-08 16:03:39.763 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 16:03:40.218 +05:30 [INF] HTTP GET / responded 200 in 461.2648 ms
+2024-08-08 16:03:52.703 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1868.2772 ms
+2024-08-08 16:03:57.666 +05:30 [INF] HTTP GET /ProjectTask/Edit/1 responded 200 in 288.8964 ms
+2024-08-08 16:08:40.961 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 16:08:41.313 +05:30 [INF] HTTP GET / responded 200 in 355.0566 ms
+2024-08-08 16:08:47.420 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1953.6586 ms
+2024-08-08 16:08:58.883 +05:30 [INF] HTTP GET /ProjectTask/Edit/1 responded 200 in 331.7676 ms
+2024-08-08 16:09:14.300 +05:30 [INF] HTTP POST /ProjectTask/Edit/1 responded 302 in 352.9852 ms
+2024-08-08 16:09:14.333 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 13.7797 ms
+2024-08-08 16:10:23.670 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 56.4657 ms
+2024-08-08 16:10:43.178 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 104.4213 ms
+2024-08-08 16:10:45.673 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 8.0958 ms
+2024-08-08 16:10:47.312 +05:30 [INF] HTTP GET /ProjectTask/Details/1 responded 200 in 66.1321 ms
+2024-08-08 16:10:48.650 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 6.6274 ms
+2024-08-08 16:10:50.745 +05:30 [INF] HTTP GET /ProjectTask/Delete/1 responded 200 in 42.2251 ms
+2024-08-08 16:10:53.411 +05:30 [INF] HTTP POST /ProjectTask/Delete/1 responded 302 in 76.3627 ms
+2024-08-08 16:10:53.430 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 4.2646 ms
+2024-08-08 16:10:54.891 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 3.9486 ms
+2024-08-08 16:13:11.120 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 16:13:11.561 +05:30 [INF] HTTP GET / responded 200 in 456.1001 ms
+2024-08-08 16:13:27.768 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 1675.6172 ms
+2024-08-08 16:13:31.398 +05:30 [INF] HTTP GET /ProjectTask/Create responded 200 in 30.9472 ms
+2024-08-08 16:13:32.742 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 154.6708 ms
+2024-08-08 16:13:34.362 +05:30 [INF] User logged in.
+2024-08-08 16:13:34.369 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 431.8490 ms
+2024-08-08 16:13:34.400 +05:30 [INF] HTTP GET / responded 200 in 8.6558 ms
+2024-08-08 16:13:50.433 +05:30 [INF] User logged out.
+2024-08-08 16:13:50.436 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 30.4727 ms
+2024-08-08 16:13:50.448 +05:30 [INF] HTTP GET / responded 200 in 0.9245 ms
+2024-08-08 17:27:04.892 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 17:27:05.663 +05:30 [INF] HTTP GET / responded 200 in 774.2742 ms
+2024-08-08 17:27:17.852 +05:30 [INF] HTTP GET /Project responded 200 in 1939.5699 ms
+2024-08-08 17:27:22.278 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 307.7401 ms
+2024-08-08 17:27:47.416 +05:30 [INF] HTTP GET /Project responded 200 in 77.6091 ms
+2024-08-08 17:27:58.630 +05:30 [INF] HTTP GET /Project/Edit/7 responded 200 in 9386.6743 ms
+2024-08-08 17:28:01.386 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 109.4042 ms
+2024-08-08 17:28:03.266 +05:30 [INF] User logged in.
+2024-08-08 17:28:03.295 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 398.5238 ms
+2024-08-08 17:28:03.335 +05:30 [INF] HTTP GET / responded 200 in 24.9763 ms
+2024-08-08 17:28:07.852 +05:30 [INF] HTTP GET /Document responded 200 in 68.5125 ms
+2024-08-08 17:28:10.440 +05:30 [INF] HTTP GET /Document/Create responded 200 in 45.5068 ms
+2024-08-08 17:28:24.755 +05:30 [INF] [APPEVENT] New document [ Id=0,FileName=448b6784-63f2-4dec-afff-1ee970c909c3_Contacts.txt ] added by vivekm@augmenza.com for project [2]
+2024-08-08 17:28:24.761 +05:30 [INF] HTTP POST /Document/Create responded 302 in 337.4475 ms
+2024-08-08 17:28:24.779 +05:30 [INF] HTTP GET /Document responded 200 in 7.2026 ms
+2024-08-08 17:28:43.612 +05:30 [INF] HTTP GET /Document/Details/15 responded 200 in 37.9659 ms
+2024-08-08 17:28:43.672 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 13.7552 ms
+2024-08-08 17:28:43.681 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:29:09.925 +05:30 [INF] HTTP GET /documents/448b6784-63f2-4dec-afff-1ee970c909c3_Contacts.txt responded 200 in 13.4694 ms
+2024-08-08 17:29:15.596 +05:30 [INF] HTTP GET /Document/Details/15 responded 200 in 3.3441 ms
+2024-08-08 17:29:17.042 +05:30 [INF] HTTP GET /documents/d43aa49a-49b9-4493-b19a-4d52610d2fd3_Links.txt responded 200 in 126.2887 ms
+2024-08-08 17:29:19.050 +05:30 [INF] HTTP GET /Document/Details/15 responded 200 in 4.9031 ms
+2024-08-08 17:33:01.968 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 17:33:02.410 +05:30 [INF] HTTP GET / responded 200 in 443.9591 ms
+2024-08-08 17:33:10.712 +05:30 [INF] HTTP GET /Project responded 200 in 3217.3381 ms
+2024-08-08 17:33:19.381 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 772.2336 ms
+2024-08-08 17:33:19.706 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 258.6638 ms
+2024-08-08 17:33:19.717 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:33:47.284 +05:30 [INF] HTTP GET /Project/Details/6 responded 200 in 27.0155 ms
+2024-08-08 17:33:47.359 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 21.1424 ms
+2024-08-08 17:33:47.366 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:34:57.195 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 17:34:57.645 +05:30 [INF] HTTP GET / responded 200 in 455.7781 ms
+2024-08-08 17:35:06.425 +05:30 [INF] HTTP GET /ProjectTask responded 200 in 3249.5748 ms
+2024-08-08 17:35:12.308 +05:30 [INF] HTTP GET /Project responded 200 in 435.7647 ms
+2024-08-08 17:35:15.239 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 898.4907 ms
+2024-08-08 17:35:15.386 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 71.1586 ms
+2024-08-08 17:35:15.393 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:35:59.459 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 156.7546 ms
+2024-08-08 17:35:59.544 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 31.8939 ms
+2024-08-08 17:35:59.551 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:36:02.743 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 11.8368 ms
+2024-08-08 17:36:02.788 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 10.0768 ms
+2024-08-08 17:36:02.793 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:36:54.605 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 169.3584 ms
+2024-08-08 17:36:54.674 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 28.0646 ms
+2024-08-08 17:36:54.681 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:45:21.546 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 166.8703 ms
+2024-08-08 17:45:21.646 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 18.2760 ms
+2024-08-08 17:45:21.652 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:45:43.697 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 17:45:44.201 +05:30 [INF] HTTP GET / responded 200 in 507.1178 ms
+2024-08-08 17:45:55.417 +05:30 [INF] HTTP GET /Project responded 200 in 3423.3317 ms
+2024-08-08 17:45:58.146 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 801.7590 ms
+2024-08-08 17:45:58.456 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 251.1689 ms
+2024-08-08 17:45:58.467 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 17:46:19.867 +05:30 [INF] HTTP GET /Project responded 200 in 18.1508 ms
+2024-08-08 18:11:05.690 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 18:11:06.257 +05:30 [INF] HTTP GET / responded 200 in 571.6147 ms
+2024-08-08 18:11:06.323 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 20.7014 ms
+2024-08-08 18:11:14.783 +05:30 [INF] HTTP GET /Project responded 200 in 3212.1077 ms
+2024-08-08 18:11:17.039 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 748.8030 ms
+2024-08-08 18:11:21.619 +05:30 [ERR] HTTP GET /Project/DocumentListPartial responded 500 in 4533.4051 ms
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ProjectOnBoarding.Controllers.ProjectController.DocumentListPartial() in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 275
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-08 18:11:21.686 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ProjectOnBoarding.Controllers.ProjectController.DocumentListPartial() in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 275
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-08 18:11:49.584 +05:30 [INF] HTTP GET /Project responded 200 in 188.0574 ms
+2024-08-08 18:11:51.271 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 17.0998 ms
+2024-08-08 18:26:33.000 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 18:26:33.451 +05:30 [INF] HTTP GET / responded 200 in 453.5552 ms
+2024-08-08 18:26:42.155 +05:30 [INF] HTTP GET /Project responded 200 in 3407.9336 ms
+2024-08-08 18:26:44.670 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 849.9502 ms
+2024-08-08 18:26:44.959 +05:30 [INF] HTTP GET /Project/DocumentListPartial/7 responded 200 in 234.1456 ms
+2024-08-08 18:26:44.967 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 18:26:56.352 +05:30 [INF] HTTP GET /Project responded 200 in 53.8340 ms
+2024-08-08 18:27:07.201 +05:30 [INF] HTTP GET /Document responded 200 in 207.9646 ms
+2024-08-08 18:27:27.193 +05:30 [INF] HTTP GET /Project responded 200 in 7.0160 ms
+2024-08-08 18:27:32.217 +05:30 [INF] HTTP GET /Project/Details/5 responded 200 in 16.2272 ms
+2024-08-08 18:27:32.284 +05:30 [INF] HTTP GET /Project/DocumentListPartial/5 responded 200 in 18.5924 ms
+2024-08-08 18:27:32.287 +05:30 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-08-08 18:28:27.131 +05:30 [INF] HTTP GET /Project responded 200 in 6.2312 ms
+2024-08-08 18:28:29.200 +05:30 [INF] HTTP GET /Project/Details/4 responded 200 in 14.3289 ms
+2024-08-08 18:37:43.591 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 18:37:44.297 +05:30 [INF] HTTP GET / responded 200 in 711.7917 ms
+2024-08-08 18:37:55.826 +05:30 [INF] HTTP GET /Project responded 200 in 3500.1794 ms
+2024-08-08 18:37:58.329 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 777.7479 ms
+2024-08-08 18:37:58.397 +05:30 [INF] HTTP GET /Project/%2FProject%2FDocumentListPartial responded 404 in 6.5030 ms
+2024-08-08 18:49:25.375 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 18:49:25.818 +05:30 [INF] HTTP GET / responded 200 in 447.6410 ms
+2024-08-08 18:49:32.099 +05:30 [INF] HTTP GET /Project responded 200 in 3115.5026 ms
+2024-08-08 18:49:34.924 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 713.6301 ms
+2024-08-08 18:49:45.700 +05:30 [INF] HTTP GET /Project responded 200 in 200.6791 ms
+2024-08-08 18:49:53.322 +05:30 [INF] HTTP GET /Project/Details/5 responded 200 in 20.2615 ms
+2024-08-08 18:53:30.474 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-08 18:53:30.883 +05:30 [INF] HTTP GET / responded 200 in 415.8463 ms
+2024-08-08 18:53:37.221 +05:30 [INF] HTTP GET /Project responded 200 in 3105.9588 ms
+2024-08-08 18:53:39.867 +05:30 [INF] HTTP GET /Project/Details/7 responded 200 in 778.3760 ms

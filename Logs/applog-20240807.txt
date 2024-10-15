@@ -1,0 +1,312 @@
+2024-08-07 19:42:16.893 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 19:42:17.315 +05:30 [INF] HTTP GET / responded 200 in 426.0303 ms
+2024-08-07 19:42:17.369 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 21.1146 ms
+2024-08-07 19:43:29.812 +05:30 [INF] HTTP GET / responded 200 in 141.1161 ms
+2024-08-07 19:43:49.229 +05:30 [INF] HTTP GET / responded 200 in 130.8727 ms
+2024-08-07 19:43:55.880 +05:30 [INF] HTTP GET /Document responded 200 in 2818.8627 ms
+2024-08-07 19:44:02.050 +05:30 [INF] HTTP GET /Document/Create responded 200 in 752.0971 ms
+2024-08-07 19:44:34.544 +05:30 [INF] HTTP GET /Document/Create responded 200 in 186.4364 ms
+2024-08-07 19:44:44.702 +05:30 [INF] HTTP GET /Brand responded 200 in 184.3417 ms
+2024-08-07 19:44:46.004 +05:30 [INF] HTTP GET /Document responded 200 in 27.4955 ms
+2024-08-07 19:44:47.337 +05:30 [INF] HTTP GET /Document/Create responded 200 in 12.2733 ms
+2024-08-07 19:47:31.267 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 19:47:31.711 +05:30 [INF] HTTP GET / responded 200 in 444.5100 ms
+2024-08-07 19:47:35.453 +05:30 [INF] HTTP GET /Document responded 200 in 1793.5037 ms
+2024-08-07 19:47:37.514 +05:30 [INF] HTTP GET /Document/Create responded 200 in 679.1595 ms
+2024-08-07 19:49:01.571 +05:30 [INF] HTTP GET /Document/Create responded 200 in 306.1333 ms
+2024-08-07 19:49:05.336 +05:30 [INF] HTTP GET /Document/Create responded 200 in 16.0558 ms
+2024-08-07 19:51:23.089 +05:30 [INF] HTTP GET /Document/Create responded 200 in 117.2909 ms
+2024-08-07 19:59:56.931 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 19:59:57.353 +05:30 [INF] HTTP GET / responded 200 in 427.7510 ms
+2024-08-07 20:00:00.709 +05:30 [INF] HTTP GET /Document responded 200 in 1196.3193 ms
+2024-08-07 20:00:02.711 +05:30 [INF] HTTP GET /Document/Create responded 200 in 686.3807 ms
+2024-08-07 20:00:39.204 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:00:39.656 +05:30 [INF] HTTP GET / responded 200 in 453.7009 ms
+2024-08-07 20:00:42.265 +05:30 [INF] HTTP GET /Document responded 200 in 1166.3915 ms
+2024-08-07 20:00:43.936 +05:30 [INF] HTTP GET /Document/Create responded 200 in 644.6205 ms
+2024-08-07 20:00:55.767 +05:30 [ERR] HTTP POST /Document/Create responded 500 in 166.9129 ms
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method56(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-07 20:00:55.846 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'ProjectOnBoarding.Models.Document', but this ViewDataDictionary instance requires a model item of type 'ProjectOnBoarding.ViewModels.DocumentViewModel'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method56(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-07 20:12:54.180 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:12:54.537 +05:30 [INF] HTTP GET / responded 200 in 361.9298 ms
+2024-08-07 20:13:01.774 +05:30 [INF] HTTP GET /Document responded 200 in 3254.8199 ms
+2024-08-07 20:13:04.122 +05:30 [INF] HTTP GET /Document/Create responded 200 in 663.3557 ms
+2024-08-07 20:14:58.733 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:14:59.317 +05:30 [INF] HTTP GET / responded 200 in 590.9625 ms
+2024-08-07 20:15:03.989 +05:30 [INF] HTTP GET /Document responded 200 in 2038.2885 ms
+2024-08-07 20:15:05.758 +05:30 [INF] HTTP GET /Document/Create responded 200 in 663.0279 ms
+2024-08-07 20:16:55.808 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:16:56.219 +05:30 [INF] HTTP GET / responded 200 in 413.5312 ms
+2024-08-07 20:17:03.337 +05:30 [INF] HTTP GET /Document responded 200 in 3431.2815 ms
+2024-08-07 20:17:05.574 +05:30 [INF] HTTP GET /Document/Create responded 200 in 666.1445 ms
+2024-08-07 20:17:54.356 +05:30 [INF] HTTP POST /Document/Create responded 200 in 40281.3566 ms
+2024-08-07 20:20:10.389 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:20:10.785 +05:30 [INF] HTTP GET / responded 200 in 401.7738 ms
+2024-08-07 20:20:14.471 +05:30 [INF] HTTP GET /Document responded 200 in 1497.2196 ms
+2024-08-07 20:20:16.486 +05:30 [INF] HTTP GET /Document/Create responded 200 in 749.6432 ms
+2024-08-07 20:21:47.033 +05:30 [INF] HTTP POST /Document/Create responded 200 in 82237.0643 ms
+2024-08-07 20:23:22.212 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:23:22.696 +05:30 [INF] HTTP GET / responded 200 in 484.5953 ms
+2024-08-07 20:24:14.489 +05:30 [INF] HTTP GET /Document responded 200 in 3517.8315 ms
+2024-08-07 20:24:16.594 +05:30 [INF] HTTP GET /Document/Create responded 200 in 684.5091 ms
+2024-08-07 20:29:24.911 +05:30 [INF] HTTP POST /Document/Create responded 200 in 298340.0055 ms
+2024-08-07 20:30:16.420 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:30:16.913 +05:30 [INF] HTTP GET / responded 200 in 500.1672 ms
+2024-08-07 20:30:20.170 +05:30 [INF] HTTP GET /Document responded 200 in 1213.1304 ms
+2024-08-07 20:30:22.982 +05:30 [INF] HTTP GET /Document responded 200 in 87.6792 ms
+2024-08-07 20:30:27.465 +05:30 [INF] HTTP GET /Document/Create responded 200 in 701.3148 ms
+2024-08-07 20:31:06.991 +05:30 [INF] HTTP POST /Document/Create responded 200 in 29955.0050 ms
+2024-08-07 20:32:14.066 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:32:14.558 +05:30 [INF] HTTP GET / responded 200 in 498.3868 ms
+2024-08-07 20:32:20.511 +05:30 [INF] HTTP GET /Document responded 200 in 3203.4698 ms
+2024-08-07 20:32:22.711 +05:30 [INF] HTTP GET /Document/Create responded 200 in 755.9333 ms
+2024-08-07 20:33:15.479 +05:30 [INF] HTTP POST /Document/Create responded 200 in 45161.1147 ms
+2024-08-07 20:39:53.603 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 20:39:54.043 +05:30 [INF] HTTP GET / responded 200 in 441.3944 ms
+2024-08-07 20:40:00.978 +05:30 [INF] HTTP GET /Document responded 200 in 3070.9696 ms
+2024-08-07 20:40:02.907 +05:30 [INF] HTTP GET /Document/Create responded 200 in 662.7025 ms
+2024-08-07 20:40:37.403 +05:30 [INF] HTTP POST /Document/Create responded 302 in 23547.3276 ms
+2024-08-07 20:40:37.464 +05:30 [INF] HTTP GET /Document responded 200 in 43.3480 ms
+2024-08-07 21:22:03.562 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 21:22:03.996 +05:30 [INF] HTTP GET / responded 200 in 437.2502 ms
+2024-08-07 21:22:12.929 +05:30 [INF] HTTP GET /Document responded 200 in 3396.8639 ms
+2024-08-07 21:23:09.250 +05:30 [INF] HTTP GET /Project responded 200 in 120.2385 ms
+2024-08-07 21:23:38.747 +05:30 [INF] HTTP GET /Document responded 200 in 184.2621 ms
+2024-08-07 21:23:50.216 +05:30 [INF] HTTP GET /Division responded 200 in 128.8325 ms
+2024-08-07 21:27:24.311 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 21:27:24.682 +05:30 [INF] HTTP GET / responded 200 in 369.9970 ms
+2024-08-07 21:27:30.111 +05:30 [INF] HTTP GET /Document responded 200 in 2824.4350 ms
+2024-08-07 21:27:55.922 +05:30 [INF] HTTP GET /Document/Details/1 responded 200 in 268.9321 ms
+2024-08-07 21:28:26.762 +05:30 [INF] HTTP GET /Document/Details/1 responded 200 in 267.8527 ms
+2024-08-07 21:29:00.572 +05:30 [INF] HTTP GET /Document responded 200 in 27.0953 ms
+2024-08-07 21:31:12.757 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 21:31:13.174 +05:30 [INF] HTTP GET / responded 200 in 423.5134 ms
+2024-08-07 21:31:20.355 +05:30 [INF] HTTP GET /Document responded 200 in 3810.6002 ms
+2024-08-07 21:31:28.071 +05:30 [INF] HTTP GET /Document/Details/1 responded 200 in 235.2556 ms
+2024-08-07 21:32:22.514 +05:30 [INF] HTTP GET /Document/Details/1 responded 200 in 223.9411 ms
+2024-08-07 21:32:24.183 +05:30 [INF] HTTP GET /Document responded 200 in 55.3655 ms
+2024-08-07 21:38:08.374 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 21:38:08.990 +05:30 [INF] HTTP GET / responded 200 in 618.1948 ms
+2024-08-07 21:38:14.325 +05:30 [INF] HTTP GET /Document responded 200 in 2659.6757 ms
+2024-08-07 21:38:20.578 +05:30 [INF] HTTP GET /Document responded 200 in 87.3855 ms
+2024-08-07 21:38:28.321 +05:30 [INF] HTTP GET /Document/Create responded 200 in 489.5750 ms
+2024-08-07 21:39:00.477 +05:30 [INF] HTTP POST /Document/Create responded 302 in 15458.0352 ms
+2024-08-07 21:39:00.519 +05:30 [INF] HTTP GET /Document responded 200 in 12.7340 ms
+2024-08-07 21:39:14.466 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 114.8450 ms
+2024-08-07 21:39:40.390 +05:30 [INF] HTTP GET /Document responded 200 in 12.7219 ms
+2024-08-07 21:41:01.852 +05:30 [INF] HTTP GET /Document responded 200 in 77.4550 ms
+2024-08-07 21:41:08.181 +05:30 [INF] HTTP GET /Document/Delete/1 responded 200 in 76.7721 ms
+2024-08-07 21:41:15.062 +05:30 [INF] HTTP POST /Document/Delete/1 responded 302 in 143.9045 ms
+2024-08-07 21:41:15.083 +05:30 [INF] HTTP GET /Document responded 200 in 6.0265 ms
+2024-08-07 21:41:24.906 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 47.0637 ms
+2024-08-07 21:41:30.955 +05:30 [INF] HTTP GET /Document responded 200 in 7.5725 ms
+2024-08-07 21:43:29.354 +05:30 [INF] HTTP GET /Document responded 200 in 61.3467 ms
+2024-08-07 21:44:42.233 +05:30 [INF] HTTP GET /Document responded 200 in 65.6918 ms
+2024-08-07 21:44:57.612 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 20.2237 ms
+2024-08-07 21:45:03.648 +05:30 [INF] HTTP GET /Document responded 200 in 12.0747 ms
+2024-08-07 21:45:08.730 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 9.7002 ms
+2024-08-07 21:45:46.841 +05:30 [INF] HTTP GET /Brand responded 200 in 136.3182 ms
+2024-08-07 21:45:48.743 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 69.2028 ms
+2024-08-07 21:45:56.011 +05:30 [INF] HTTP GET /Document responded 200 in 8.0467 ms
+2024-08-07 21:45:57.570 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 10.4898 ms
+2024-08-07 21:46:23.660 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 36.7032 ms
+2024-08-07 21:48:24.812 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 54.4915 ms
+2024-08-07 21:48:59.387 +05:30 [INF] HTTP GET /Document/Details/Employment Application Form - Arun Singh.docx_177a1264-70ae-4639-8c3a-f08b919e7d76 responded 404 in 19.2630 ms
+2024-08-07 21:49:27.236 +05:30 [INF] HTTP GET /documents/Employment Application Form - Arun Singh.docx_177a1264-70ae-4639-8c3a-f08b919e7d76 responded 404 in 3.1138 ms
+2024-08-07 21:53:18.143 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 21:53:18.603 +05:30 [INF] HTTP GET / responded 200 in 467.9666 ms
+2024-08-07 21:53:18.656 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 12.3058 ms
+2024-08-07 21:53:27.847 +05:30 [INF] HTTP GET /Document responded 200 in 3401.6312 ms
+2024-08-07 21:53:33.052 +05:30 [INF] HTTP GET /Document/Details/2 responded 200 in 267.5579 ms
+2024-08-07 21:53:35.760 +05:30 [INF] HTTP GET /documents/Employment Application Form - Arun Singh.docx_177a1264-70ae-4639-8c3a-f08b919e7d76 responded 404 in 2.6857 ms
+2024-08-07 21:56:25.460 +05:30 [INF] HTTP GET /Document responded 200 in 256.3816 ms
+2024-08-07 21:56:26.881 +05:30 [INF] HTTP GET /Document/Delete/2 responded 200 in 123.8315 ms
+2024-08-07 21:56:29.196 +05:30 [INF] HTTP POST /Document/Delete/2 responded 302 in 754.9828 ms
+2024-08-07 21:56:29.223 +05:30 [INF] HTTP GET /Document responded 200 in 6.3113 ms
+2024-08-07 21:56:31.120 +05:30 [INF] HTTP GET /Document/Create responded 200 in 320.5238 ms
+2024-08-07 21:56:48.758 +05:30 [INF] HTTP POST /Document/Create responded 302 in 3157.0469 ms
+2024-08-07 21:56:48.787 +05:30 [INF] HTTP GET /Document responded 200 in 6.1715 ms
+2024-08-07 21:56:51.505 +05:30 [INF] HTTP GET /Document/Details/3 responded 200 in 10.2848 ms
+2024-08-07 21:56:52.970 +05:30 [INF] HTTP GET /documents/Employment Application Form - Arun Singh.pdf_4eebf5bb-48da-412b-a0b5-5ab7c7bba401 responded 404 in 0.1532 ms
+2024-08-07 21:57:38.479 +05:30 [INF] HTTP GET /Document responded 200 in 8.8734 ms
+2024-08-07 22:08:25.976 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 22:08:26.494 +05:30 [INF] HTTP GET / responded 200 in 524.2104 ms
+2024-08-07 22:08:32.968 +05:30 [INF] HTTP GET /Document responded 200 in 3648.8477 ms
+2024-08-07 22:08:34.988 +05:30 [INF] HTTP GET /Document/Delete/3 responded 200 in 371.7323 ms
+2024-08-07 22:08:38.571 +05:30 [INF] HTTP POST /Document/Delete/3 responded 302 in 656.2778 ms
+2024-08-07 22:08:38.609 +05:30 [INF] HTTP GET /Document responded 200 in 21.4583 ms
+2024-08-07 22:11:51.781 +05:30 [INF] HTTP GET /Document responded 200 in 27.0373 ms
+2024-08-07 22:11:56.567 +05:30 [INF] HTTP GET /Document/Create responded 200 in 251.9186 ms
+2024-08-07 22:12:14.382 +05:30 [INF] HTTP POST /Document/Create responded 302 in 3037.4094 ms
+2024-08-07 22:12:14.414 +05:30 [INF] HTTP GET /Document responded 200 in 8.2656 ms
+2024-08-07 22:12:22.618 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 38.6156 ms
+2024-08-07 22:12:22.795 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 200 in 135.9540 ms
+2024-08-07 22:12:26.858 +05:30 [INF] HTTP GET /documents/BE.jpg_cbbbf68f-b426-461a-905e-fc3d4d0bf948 responded 404 in 2.8116 ms
+2024-08-07 22:13:35.803 +05:30 [INF] HTTP GET /Document responded 200 in 30.3169 ms
+2024-08-07 22:13:37.427 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 28.2450 ms
+2024-08-07 22:13:39.069 +05:30 [INF] HTTP GET /Document/Details/documents/BE.jpg_cbbbf68f-b426-461a-905e-fc3d4d0bf948 responded 404 in 2.9027 ms
+2024-08-07 22:16:41.954 +05:30 [INF] HTTP GET /Document responded 200 in 20.0104 ms
+2024-08-07 22:16:43.530 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 34.6265 ms
+2024-08-07 22:16:45.157 +05:30 [INF] HTTP GET /documents/BE.jpg_cbbbf68f-b426-461a-905e-fc3d4d0bf948 responded 404 in 0.0500 ms
+2024-08-07 22:18:55.222 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 22:18:55.684 +05:30 [INF] HTTP GET / responded 200 in 467.4226 ms
+2024-08-07 22:18:59.172 +05:30 [INF] HTTP GET /Document responded 200 in 1858.7449 ms
+2024-08-07 22:19:01.129 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 210.4703 ms
+2024-08-07 22:19:05.252 +05:30 [INF] HTTP GET /documents/BE.jpg_cbbbf68f-b426-461a-905e-fc3d4d0bf948 responded 404 in 2.2476 ms
+2024-08-07 22:20:25.198 +05:30 [INF] HTTP GET /Document responded 200 in 162.5556 ms
+2024-08-07 22:20:26.458 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 61.3238 ms
+2024-08-07 22:20:33.220 +05:30 [INF] HTTP GET /documents/BE.jpg_cbbbf68f-b426-461a-905e-fc3d4d0bf948 responded 404 in 0.1090 ms
+2024-08-07 22:21:21.999 +05:30 [INF] HTTP GET /Document responded 200 in 9.6260 ms
+2024-08-07 22:21:23.572 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 10.3446 ms
+2024-08-07 22:21:25.582 +05:30 [INF] HTTP GET /documents/BE.jpg_cbbbf68f-b426-461a-905e-fc3d4d0bf948 responded 404 in 0.0600 ms
+2024-08-07 22:34:58.937 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 22:34:59.394 +05:30 [INF] HTTP GET / responded 200 in 464.8742 ms
+2024-08-07 22:35:13.897 +05:30 [INF] HTTP GET /documents/ responded 404 in 3.1817 ms
+2024-08-07 22:36:03.470 +05:30 [INF] HTTP GET /Document responded 200 in 1628.1391 ms
+2024-08-07 22:36:05.538 +05:30 [INF] HTTP GET /Document/Details/4 responded 200 in 182.2554 ms
+2024-08-07 22:36:26.943 +05:30 [INF] HTTP GET /Document responded 200 in 102.1746 ms
+2024-08-07 22:36:28.131 +05:30 [INF] HTTP GET /Document/Delete/4 responded 200 in 53.9718 ms
+2024-08-07 22:36:30.037 +05:30 [INF] HTTP POST /Document/Delete/4 responded 302 in 599.2377 ms
+2024-08-07 22:36:30.059 +05:30 [INF] HTTP GET /Document responded 200 in 5.9024 ms
+2024-08-07 22:37:13.490 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 22:37:13.900 +05:30 [INF] HTTP GET / responded 200 in 420.8282 ms
+2024-08-07 22:37:16.742 +05:30 [INF] HTTP GET /Document responded 200 in 1163.1807 ms
+2024-08-07 22:37:19.760 +05:30 [INF] HTTP GET /Document/Create responded 200 in 373.7297 ms
+2024-08-07 22:37:30.416 +05:30 [INF] HTTP POST /Document/Create responded 302 in 2745.8635 ms
+2024-08-07 22:37:30.452 +05:30 [INF] HTTP GET /Document responded 200 in 23.2765 ms
+2024-08-07 22:37:36.436 +05:30 [INF] HTTP GET /Document/Details/5 responded 200 in 70.9622 ms
+2024-08-07 22:37:37.940 +05:30 [INF] HTTP GET /documents/528a1c61-e93d-4380-a70b-5e16815eb602_BE.jpg responded 200 in 32.5473 ms
+2024-08-07 22:38:34.263 +05:30 [INF] HTTP GET /Document responded 200 in 15.5072 ms
+2024-08-07 22:38:35.513 +05:30 [INF] HTTP GET /Document/Delete/5 responded 200 in 26.4267 ms
+2024-08-07 22:38:37.532 +05:30 [ERR] HTTP POST /Document/Delete/5 responded 500 in 492.8598 ms
+System.IO.IOException: The process cannot access the file 'D:\Arun\Learn\Projects\ProjectOnBoarding\wwwroot\documents\528a1c61-e93d-4380-a70b-5e16815eb602_BE.jpg' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ProjectOnBoarding.Controllers.DocumentController.DeleteConfirmed(Int32 id) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\DocumentController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-07 22:38:37.588 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.IO.IOException: The process cannot access the file 'D:\Arun\Learn\Projects\ProjectOnBoarding\wwwroot\documents\528a1c61-e93d-4380-a70b-5e16815eb602_BE.jpg' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ProjectOnBoarding.Controllers.DocumentController.DeleteConfirmed(Int32 id) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\DocumentController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-07 22:43:57.292 +05:30 [INF] HTTP GET /Document/Delete/5 responded 200 in 10.5999 ms
+2024-08-07 22:44:11.345 +05:30 [INF] HTTP GET /Document/Delete/5 responded 200 in 4.3557 ms
+2024-08-07 22:44:11.476 +05:30 [INF] HTTP GET /css/site.css responded 200 in 2.0000 ms
+2024-08-07 22:44:11.499 +05:30 [INF] HTTP GET /js/site.js responded 200 in 21.5615 ms
+2024-08-07 22:44:11.503 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 19.5252 ms
+2024-08-07 22:44:11.540 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 52.0735 ms
+2024-08-07 22:44:11.550 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 72.0743 ms
+2024-08-07 22:44:11.557 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 119.7132 ms
+2024-08-07 22:44:11.644 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 3.0421 ms
+2024-08-07 22:44:13.751 +05:30 [INF] HTTP POST /Document/Delete/5 responded 302 in 66.1354 ms
+2024-08-07 22:44:13.766 +05:30 [INF] HTTP GET /Document responded 200 in 1.7059 ms
+2024-08-07 22:44:35.984 +05:30 [INF] HTTP GET /Document responded 200 in 4.0441 ms
+2024-08-07 22:44:39.518 +05:30 [INF] HTTP GET /Document/Create responded 200 in 9.9178 ms
+2024-08-07 22:44:53.386 +05:30 [INF] HTTP POST /Document/Create responded 302 in 3910.4712 ms
+2024-08-07 22:44:53.410 +05:30 [INF] HTTP GET /Document responded 200 in 5.2725 ms
+2024-08-07 22:45:26.555 +05:30 [INF] HTTP GET /Document responded 200 in 16.7283 ms
+2024-08-07 22:45:27.651 +05:30 [INF] HTTP GET /Document/Create responded 200 in 52.8258 ms
+2024-08-07 22:46:24.631 +05:30 [INF] HTTP GET /Document/Create responded 200 in 65.4181 ms
+2024-08-07 22:46:40.947 +05:30 [INF] HTTP GET /Document/Create responded 200 in 46.1329 ms
+2024-08-07 22:46:45.913 +05:30 [INF] HTTP GET /Document responded 200 in 18.8265 ms
+2024-08-07 22:46:47.645 +05:30 [INF] HTTP GET /Document/Delete/6 responded 200 in 11.1056 ms
+2024-08-07 22:47:33.106 +05:30 [INF] HTTP GET /Document/Delete/6 responded 200 in 38.0970 ms
+2024-08-07 22:47:56.851 +05:30 [INF] HTTP GET /Document/Delete/6 responded 200 in 29.1114 ms
+2024-08-07 22:48:28.959 +05:30 [INF] HTTP GET /Document/Delete/6 responded 200 in 33.5150 ms
+2024-08-07 22:48:33.854 +05:30 [INF] HTTP GET /Document responded 200 in 16.9924 ms
+2024-08-07 22:52:08.699 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 22:52:09.093 +05:30 [INF] HTTP GET / responded 200 in 400.9348 ms
+2024-08-07 22:52:12.192 +05:30 [INF] HTTP GET /Document responded 200 in 1152.5110 ms
+2024-08-07 22:52:19.962 +05:30 [INF] HTTP GET /Brand responded 200 in 123.6235 ms
+2024-08-07 22:52:23.425 +05:30 [INF] HTTP GET /Document responded 200 in 101.1351 ms
+2024-08-07 22:54:39.574 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-07 22:54:39.979 +05:30 [INF] HTTP GET / responded 200 in 407.0141 ms
+2024-08-07 22:54:43.698 +05:30 [INF] HTTP GET /Document responded 200 in 1086.8655 ms
+2024-08-07 22:54:47.376 +05:30 [INF] HTTP GET /Document/Delete/6 responded 200 in 130.4581 ms
+2024-08-07 22:54:52.358 +05:30 [INF] HTTP GET /Document responded 200 in 109.0439 ms
+2024-08-07 22:54:53.746 +05:30 [INF] HTTP GET /Document/Details/6 responded 200 in 39.4633 ms
+2024-08-07 22:54:56.218 +05:30 [INF] HTTP GET /documents/c6d6e64d-fbed-442c-ac97-3aeae4f0180b_HSC.jpg responded 200 in 32.3307 ms

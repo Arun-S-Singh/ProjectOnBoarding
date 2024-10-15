@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ProjectOnBoarding.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectOnBoarding.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\augmenza_logo.jpg",
+      "PackagePath": "staticwebassets\\augmenza_logo.jpg"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\119a6e3c-d84f-446e-8448-fcf95f29e017_Cover.docx",
+      "PackagePath": "staticwebassets\\documents\\119a6e3c-d84f-446e-8448-fcf95f29e017_Cover.docx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\31c141eb-74b9-4937-9942-9040db9bc6e6_lakers.png",
+      "PackagePath": "staticwebassets\\documents\\31c141eb-74b9-4937-9942-9040db9bc6e6_lakers.png"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\3600103a-6eb5-4a08-b2f7-681b5f2ba5c4_nba_png.png",
+      "PackagePath": "staticwebassets\\documents\\3600103a-6eb5-4a08-b2f7-681b5f2ba5c4_nba_png.png"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\448b6784-63f2-4dec-afff-1ee970c909c3_Contacts.txt",
+      "PackagePath": "staticwebassets\\documents\\448b6784-63f2-4dec-afff-1ee970c909c3_Contacts.txt"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\54886fc1-3712-45c6-8d2f-7cbb5104e7f2_Cover.docx",
+      "PackagePath": "staticwebassets\\documents\\54886fc1-3712-45c6-8d2f-7cbb5104e7f2_Cover.docx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\6ba9499f-7dfb-4e04-9a09-3fdefe07169b_Cover.docx",
+      "PackagePath": "staticwebassets\\documents\\6ba9499f-7dfb-4e04-9a09-3fdefe07169b_Cover.docx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\6c544471-4417-408f-9cc0-f933530e8265_lakers.png",
+      "PackagePath": "staticwebassets\\documents\\6c544471-4417-408f-9cc0-f933530e8265_lakers.png"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\a506df41-eba2-4058-85cf-a63ea20011cc_Backlog.xlsx",
+      "PackagePath": "staticwebassets\\documents\\a506df41-eba2-4058-85cf-a63ea20011cc_Backlog.xlsx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\b39ee52d-d0af-4817-a691-3cc289095b48_Cover_Short.pdf",
+      "PackagePath": "staticwebassets\\documents\\b39ee52d-d0af-4817-a691-3cc289095b48_Cover_Short.pdf"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\bc66857e-29f7-4fd9-ad08-ce4f241bb504_Backlog.xlsx",
+      "PackagePath": "staticwebassets\\documents\\bc66857e-29f7-4fd9-ad08-ce4f241bb504_Backlog.xlsx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\c77748ff-84e5-4b51-a3a3-c1d6622c609d_Arun-Bio.pdf",
+      "PackagePath": "staticwebassets\\documents\\c77748ff-84e5-4b51-a3a3-c1d6622c609d_Arun-Bio.pdf"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\d43aa49a-49b9-4493-b19a-4d52610d2fd3_Links.txt",
+      "PackagePath": "staticwebassets\\documents\\d43aa49a-49b9-4493-b19a-4d52610d2fd3_Links.txt"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\f1e228b6-4aae-4925-99bb-f9a905ac6cec_Backlog.xlsx",
+      "PackagePath": "staticwebassets\\documents\\f1e228b6-4aae-4925-99bb-f9a905ac6cec_Backlog.xlsx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\documents\\f5fe5e6c-8478-4039-897b-889963006a9d_car_insurance.xlsx",
+      "PackagePath": "staticwebassets\\documents\\f5fe5e6c-8478-4039-897b-889963006a9d_car_insurance.xlsx"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Arun\\Learn\\Projects\\ProjectOnBoarding\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ProjectOnBoarding.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ProjectOnBoarding.props",
+      "PackagePath": "build\\ProjectOnBoarding.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectOnBoarding.props",
+      "PackagePath": "buildMultiTargeting\\ProjectOnBoarding.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectOnBoarding.props",
+      "PackagePath": "buildTransitive\\ProjectOnBoarding.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

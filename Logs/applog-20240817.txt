@@ -1,0 +1,6 @@
+2024-08-17 12:12:28.065 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-17 12:12:28.899 +05:30 [INF] HTTP GET / responded 200 in 840.4891 ms
+2024-08-17 12:12:28.976 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 37.7638 ms
+2024-08-17 12:12:43.105 +05:30 [INF] HTTP GET /Project responded 200 in 1731.5481 ms
+2024-08-17 12:13:04.567 +05:30 [INF] HTTP GET /Project/Details/8 responded 200 in 308.4690 ms
+2024-08-17 12:13:04.748 +05:30 [INF] HTTP GET /Project/DocumentListPartial responded 200 in 132.9593 ms

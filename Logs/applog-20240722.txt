@@ -1,0 +1,815 @@
+2024-07-22 12:33:44.187 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:33:44.350 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:34:55.850 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:34:56.020 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:36:47.718 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:36:47.771 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.771 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.772 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.887 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:36:47.888 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:36:47.889 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.229 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:38:37.277 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.277 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.277 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.277 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.277 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.277 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.278 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.278 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.278 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.278 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.278 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.385 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:37.387 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.444 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 12:38:54.492 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.837 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:47.893 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.498 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 13:58:51.549 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:58:51.550 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:13.990 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 13:59:14.043 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.043 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.043 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.043 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.043 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.044 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.044 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.044 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.044 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.044 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:14.044 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.822 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 13:59:20.881 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.843 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:00:27.895 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:27.896 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.042 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:28.044 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.863 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.915 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.916 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.916 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.916 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:00:46.916 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.896 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:10:45.948 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:45.949 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.584 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:10:49.639 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.468 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:12:05.537 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.537 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.537 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.537 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.537 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.537 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.538 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.538 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.538 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.538 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.769 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:12:05.778 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.778 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.778 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.778 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.778 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.779 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.779 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.779 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.779 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:12:05.779 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.120 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:13:24.174 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.517 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:14:24.568 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.568 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.568 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:24.569 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.044 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:14:28.095 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.095 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:14:28.096 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:20.991 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.042 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.187 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.194 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.195 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.195 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:21.195 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.845 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 14:15:47.910 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.910 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 14:15:47.911 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:18:45.526 +05:30 [INF] HTTP GET / responded 200 in 572.4920 ms
+2024-07-22 15:18:45.594 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 13.7992 ms
+2024-07-22 15:18:45.597 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 13.6117 ms
+2024-07-22 15:18:45.597 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 27.8994 ms
+2024-07-22 15:18:45.586 +05:30 [INF] HTTP GET /css/site.css responded 304 in 20.4986 ms
+2024-07-22 15:18:45.586 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 20.4984 ms
+2024-07-22 15:18:45.597 +05:30 [INF] HTTP GET /js/site.js responded 304 in 10.7843 ms
+2024-07-22 15:18:51.222 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 337.9327 ms
+2024-07-22 15:20:36.393 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 65.9018 ms
+2024-07-22 15:20:36.480 +05:30 [INF] HTTP GET /favicon.ico responded 304 in 0.3328 ms
+2024-07-22 15:21:37.050 +05:30 [INF] HTTP GET / responded 200 in 371.8350 ms
+2024-07-22 15:21:39.197 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 178.9482 ms
+2024-07-22 15:22:10.030 +05:30 [INF] HTTP POST /Identity/Account/Register responded 200 in 177.3781 ms
+2024-07-22 15:22:28.521 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 15:22:28.616 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.624 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.629 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.633 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.638 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.643 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.654 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.662 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.670 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:28.676 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:22:30.893 +05:30 [INF] User created a new account with password.
+2024-07-22 15:22:30.914 +05:30 [INF] HTTP POST /Identity/Account/Register responded 302 in 4784.1403 ms
+2024-07-22 15:22:31.215 +05:30 [INF] HTTP GET /Identity/Account/RegisterConfirmation responded 200 in 280.0638 ms
+2024-07-22 15:22:52.691 +05:30 [INF] HTTP GET /Identity/Account/ConfirmEmail responded 200 in 249.2750 ms
+2024-07-22 15:22:55.722 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 102.9521 ms
+2024-07-22 15:22:59.892 +05:30 [INF] User logged in.
+2024-07-22 15:22:59.899 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 618.2137 ms
+2024-07-22 15:22:59.938 +05:30 [INF] HTTP GET / responded 200 in 10.6677 ms
+2024-07-22 15:23:03.762 +05:30 [INF] HTTP GET /Identity/Account/Manage responded 200 in 147.5295 ms
+2024-07-22 15:23:15.376 +05:30 [INF] HTTP GET / responded 200 in 3.1929 ms
+2024-07-22 15:23:54.881 +05:30 [INF] HTTP GET / responded 200 in 2.4785 ms
+2024-07-22 15:24:08.497 +05:30 [INF] HTTP GET /projects/add responded 200 in 87.3797 ms
+2024-07-22 15:24:28.490 +05:30 [INF] HTTP POST /projects/add responded 200 in 353.1311 ms
+2024-07-22 15:31:56.127 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 15:31:56.179 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.179 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.179 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.179 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.179 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.180 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.180 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.180 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.180 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.180 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.310 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:31:56.312 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.096 +05:30 [WRN] The foreign key property 'DivisionModel.CompanyId1' was created in shadow state because a conflicting property with the simple name 'CompanyId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:32:34.152 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.575 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.610 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.611 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.730 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.730 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:43:36.731 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.368 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 15:45:50.443 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.443 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.443 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.444 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.564 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:45:50.566 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.025 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:46:06.098 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.847 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 15:49:32.922 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:32.923 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.042 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:33.045 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.824 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.897 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 15:49:43.898 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.129 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 16:15:52.206 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.207 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.207 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.207 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.207 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.207 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.208 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.208 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.208 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.208 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.376 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 16:15:52.383 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.383 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.384 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.384 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.384 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.384 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.385 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.385 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.385 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:15:52.385 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.464 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 16:16:07.575 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 16:16:07.576 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.508 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:37.574 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.150 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 17:16:41.217 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:41.218 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.210 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 17:16:58.282 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.282 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.282 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:16:58.283 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.591 +05:30 [WRN] The entity type 'DivisionModel' has composite key '{'Id', 'CompanyId'}' which is configured to use generated values. SQLite does not support generated values on composite keys.
+2024-07-22 17:17:01.658 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.658 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'CompanyModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'DivisionModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:17:01.659 +05:30 [WRN] The entity type 'ProjectModel' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.290 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.324 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:29:07.449 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.269 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.296 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.297 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:30:53.718 +05:30 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Divisions" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Divisions" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "CompanyId" INTEGER NOT NULL,
+    "CompanyID" INTEGER NULL,
+    CONSTRAINT "FK_Divisions_Companies_CompanyID" FOREIGN KEY ("CompanyID") REFERENCES "Companies" ("Id")
+);
+2024-07-22 17:43:03.879 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:03.909 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:04.025 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:13.990 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.021 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:43:14.022 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.810 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.843 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:47:40.844 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.894 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:50:37.923 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:15.456 +05:30 [INF] HTTP GET / responded 200 in 312.1214 ms
+2024-07-22 17:56:15.505 +05:30 [INF] HTTP GET /css/site.css responded 304 in 16.5963 ms
+2024-07-22 17:56:15.505 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 17.0139 ms
+2024-07-22 17:56:15.505 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 16.6590 ms
+2024-07-22 17:56:15.505 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 17.7413 ms
+2024-07-22 17:56:15.505 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 11.0129 ms
+2024-07-22 17:56:15.505 +05:30 [INF] HTTP GET /js/site.js responded 304 in 6.8246 ms
+2024-07-22 17:56:20.010 +05:30 [INF] HTTP GET /Category responded 404 in 6.6351 ms
+2024-07-22 17:56:32.686 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.688 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.690 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.691 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.692 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.694 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.696 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.700 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.703 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:32.705 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:56:33.321 +05:30 [INF] HTTP GET /Division responded 200 in 1602.7490 ms
+2024-07-22 17:57:11.625 +05:30 [INF] HTTP GET / responded 200 in 404.3785 ms
+2024-07-22 17:57:16.751 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.755 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.757 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.759 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.761 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.762 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.764 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.766 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.768 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:16.772 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 17:57:17.382 +05:30 [INF] HTTP GET /Company responded 200 in 1627.3190 ms
+2024-07-22 17:57:19.098 +05:30 [INF] HTTP GET /Company/Create responded 200 in 114.3315 ms
+2024-07-22 17:57:19.158 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 200 in 46.4593 ms
+2024-07-22 17:57:19.172 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 200 in 59.8550 ms
+2024-07-22 17:57:37.254 +05:30 [INF] HTTP POST /Company/Create responded 302 in 528.3723 ms
+2024-07-22 17:57:37.384 +05:30 [INF] HTTP GET /Company responded 200 in 110.9604 ms
+2024-07-22 17:57:39.947 +05:30 [INF] HTTP GET /Company/Create responded 200 in 20.3740 ms
+2024-07-22 17:57:48.869 +05:30 [INF] HTTP POST /Company/Create responded 302 in 115.0933 ms
+2024-07-22 17:57:48.889 +05:30 [INF] HTTP GET /Company responded 200 in 6.7248 ms
+2024-07-22 17:57:55.068 +05:30 [INF] HTTP GET /Company/Create responded 200 in 9.6329 ms
+2024-07-22 17:57:58.870 +05:30 [INF] HTTP POST /Company/Create responded 302 in 41.1938 ms
+2024-07-22 17:57:58.886 +05:30 [INF] HTTP GET /Company responded 200 in 5.5774 ms
+2024-07-22 17:58:06.793 +05:30 [INF] HTTP GET /Company/Create responded 200 in 7.0475 ms
+2024-07-22 17:58:10.868 +05:30 [INF] HTTP POST /Company/Create responded 302 in 109.7960 ms
+2024-07-22 17:58:10.890 +05:30 [INF] HTTP GET /Company responded 200 in 9.1679 ms
+2024-07-22 17:58:13.029 +05:30 [INF] HTTP GET /Company/Edit/4 responded 200 in 181.1366 ms
+2024-07-22 17:58:16.144 +05:30 [INF] HTTP POST /Company/Edit/4 responded 302 in 137.0729 ms
+2024-07-22 17:58:16.184 +05:30 [INF] HTTP GET /Company responded 200 in 15.4060 ms
+2024-07-22 17:58:19.968 +05:30 [INF] HTTP GET /Company/Delete/4 responded 200 in 31.9984 ms
+2024-07-22 17:58:21.991 +05:30 [INF] HTTP POST /Company/Delete/4 responded 302 in 105.1348 ms
+2024-07-22 17:58:22.028 +05:30 [INF] HTTP GET /Company responded 200 in 13.4427 ms
+2024-07-22 17:58:25.660 +05:30 [INF] HTTP GET /Division responded 200 in 29.9192 ms
+2024-07-22 17:58:27.224 +05:30 [INF] HTTP GET /Division/Create responded 200 in 27.5499 ms
+2024-07-22 17:58:48.974 +05:30 [INF] HTTP POST /Division/Create responded 200 in 14.9991 ms
+2024-07-22 17:58:55.073 +05:30 [INF] HTTP POST /Division/Create responded 200 in 9.1043 ms
+2024-07-22 17:58:59.031 +05:30 [INF] HTTP GET /Division responded 200 in 4.2939 ms
+2024-07-22 17:59:01.117 +05:30 [INF] HTTP GET /Division/Create responded 200 in 6.3212 ms
+2024-07-22 18:04:42.462 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:42.493 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.419 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.451 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.451 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:04:46.452 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.003 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.035 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:27.151 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.914 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.948 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:39.949 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:05:58.459 +05:30 [INF] HTTP GET / responded 200 in 360.4578 ms
+2024-07-22 18:06:01.187 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.190 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.193 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.195 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.197 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.200 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.202 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.204 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.207 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.209 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:06:01.604 +05:30 [INF] HTTP GET /Company responded 200 in 1180.0786 ms
+2024-07-22 18:06:11.821 +05:30 [INF] HTTP GET /Company/Create responded 200 in 100.3184 ms
+2024-07-22 18:06:15.385 +05:30 [INF] HTTP POST /Company/Create responded 302 in 526.7598 ms
+2024-07-22 18:06:15.531 +05:30 [INF] HTTP GET /Company responded 200 in 127.1865 ms
+2024-07-22 18:06:17.766 +05:30 [INF] HTTP GET /Company/Create responded 200 in 29.0934 ms
+2024-07-22 18:06:27.088 +05:30 [INF] HTTP POST /Company/Create responded 302 in 53.9346 ms
+2024-07-22 18:06:27.112 +05:30 [INF] HTTP GET /Company responded 200 in 8.1533 ms
+2024-07-22 18:06:32.465 +05:30 [INF] HTTP GET /Company/Create responded 200 in 7.5999 ms
+2024-07-22 18:06:36.609 +05:30 [INF] HTTP POST /Company/Create responded 302 in 113.5688 ms
+2024-07-22 18:06:36.638 +05:30 [INF] HTTP GET /Company responded 200 in 11.5762 ms
+2024-07-22 18:06:42.501 +05:30 [INF] HTTP GET /Division responded 200 in 30.2192 ms
+2024-07-22 18:06:44.144 +05:30 [INF] HTTP GET /Division/Create responded 200 in 32.6387 ms
+2024-07-22 18:09:27.433 +05:30 [INF] HTTP POST /Division/Create responded 200 in 28.4770 ms
+2024-07-22 18:09:28.717 +05:30 [INF] HTTP POST /Division/Create responded 200 in 9.2333 ms
+2024-07-22 18:28:46.183 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.212 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.213 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:28:46.331 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.804 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:00.832 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:01.056 +05:30 [ERR] Failed executing DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Companies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Companies" PRIMARY KEY AUTOINCREMENT,
+    "CompanyName" TEXT NOT NULL
+);
+2024-07-22 18:29:15.305 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.335 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:15.336 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.448 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:29:21.481 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.732 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.763 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.877 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.877 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.877 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:30:45.878 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.741 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.771 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.771 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.771 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.772 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.772 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.772 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.772 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.772 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:00.772 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:11.489 +05:30 [INF] HTTP GET / responded 200 in 346.2780 ms
+2024-07-22 18:31:16.673 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.679 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.686 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.692 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.695 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.696 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.697 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.699 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.700 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:16.701 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-07-22 18:31:17.307 +05:30 [INF] HTTP GET /Company responded 200 in 1530.5894 ms
+2024-07-22 18:31:18.868 +05:30 [INF] HTTP GET /Company/Create responded 200 in 81.0526 ms
+2024-07-22 18:31:23.187 +05:30 [INF] HTTP POST /Company/Create responded 200 in 83.8580 ms
+2024-07-22 18:31:30.077 +05:30 [INF] HTTP GET /Company responded 200 in 19.2021 ms
+2024-07-22 18:31:31.874 +05:30 [INF] HTTP GET /Company/Create responded 200 in 25.0021 ms
+2024-07-22 18:31:36.998 +05:30 [INF] HTTP POST /Company/Create responded 200 in 11.2352 ms

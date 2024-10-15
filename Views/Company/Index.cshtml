@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ProjectOnBoarding.Models.Company>
+
+@{
+    ViewData["Title"] = "List of Company";
+}
+
+<h1>Manage Companies</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-warning" style="color:black">Create New Company</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CompanyName)
+            </td>
+            <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

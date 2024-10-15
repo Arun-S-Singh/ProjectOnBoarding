@@ -1,0 +1,1049 @@
+2024-07-23 09:56:04.131 +05:30 [INF] HTTP GET / responded 200 in 817.7546 ms
+2024-07-23 09:56:04.185 +05:30 [INF] HTTP GET /css/site.css responded 304 in 8.4959 ms
+2024-07-23 09:56:04.185 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 8.4926 ms
+2024-07-23 09:56:04.185 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 3.4597 ms
+2024-07-23 09:56:04.186 +05:30 [INF] HTTP GET /js/site.js responded 304 in 4.0692 ms
+2024-07-23 09:56:04.185 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 3.4369 ms
+2024-07-23 09:56:04.222 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 40.1909 ms
+2024-07-23 09:56:07.847 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 297.5906 ms
+2024-07-23 09:56:14.298 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 132.6310 ms
+2024-07-23 09:56:23.016 +05:30 [ERR] Failed executing DbCommand (207ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[AccessFailedCount], [u].[ConcurrencyStamp], [u].[Email], [u].[EmailConfirmed], [u].[FirstName], [u].[LastName], [u].[LockoutEnabled], [u].[LockoutEnd], [u].[NormalizedEmail], [u].[NormalizedUserName], [u].[PasswordHash], [u].[PhoneNumber], [u].[PhoneNumberConfirmed], [u].[SecurityStamp], [u].[TwoFactorEnabled], [u].[UserName]
+FROM [dbo].[Users] AS [u]
+WHERE [u].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-23 09:56:23.116 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.Users'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e5e73cc5-e332-422f-8acb-29e48d442ba6
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.Users'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e5e73cc5-e332-422f-8acb-29e48d442ba6
+Error Number:208,State:1,Class:16
+2024-07-23 09:56:23.366 +05:30 [ERR] HTTP POST /Identity/Account/Login responded 500 in 7273.4673 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.Users'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.FindByNameAsync(String userName)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.PasswordSignInAsync(String userName, String password, Boolean isPersistent, Boolean lockoutOnFailure)
+   at ProjectOnBoarding.Areas.Identity.Pages.Account.LoginModel.OnPostAsync(String returnUrl) in D:\Arun\Learn\Projects\ProjectOnBoarding\Areas\Identity\Pages\Account\Login.cshtml.cs:line 115
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:e5e73cc5-e332-422f-8acb-29e48d442ba6
+Error Number:208,State:1,Class:16
+2024-07-23 09:56:23.447 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.Users'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.FindByNameAsync(String userName)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.PasswordSignInAsync(String userName, String password, Boolean isPersistent, Boolean lockoutOnFailure)
+   at ProjectOnBoarding.Areas.Identity.Pages.Account.LoginModel.OnPostAsync(String returnUrl) in D:\Arun\Learn\Projects\ProjectOnBoarding\Areas\Identity\Pages\Account\Login.cshtml.cs:line 115
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:e5e73cc5-e332-422f-8acb-29e48d442ba6
+Error Number:208,State:1,Class:16
+2024-07-23 10:09:19.441 +05:30 [INF] HTTP GET / responded 200 in 583.3294 ms
+2024-07-23 10:09:27.796 +05:30 [INF] HTTP GET /Company responded 200 in 5424.5133 ms
+2024-07-23 10:09:30.868 +05:30 [INF] HTTP GET /Company/Create responded 200 in 192.7185 ms
+2024-07-23 10:09:30.886 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 17.9550 ms
+2024-07-23 10:09:30.886 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 17.9433 ms
+2024-07-23 10:09:36.329 +05:30 [INF] HTTP POST /Company/Create responded 200 in 151.6773 ms
+2024-07-23 10:18:29.777 +05:30 [INF] HTTP GET / responded 200 in 373.7575 ms
+2024-07-23 10:18:31.467 +05:30 [INF] HTTP GET / responded 200 in 31.4904 ms
+2024-07-23 10:18:32.636 +05:30 [INF] HTTP GET /Home/Privacy responded 200 in 17.0988 ms
+2024-07-23 10:18:37.884 +05:30 [INF] HTTP GET /Company responded 200 in 3837.4224 ms
+2024-07-23 10:18:39.938 +05:30 [INF] HTTP GET /Company/Create responded 200 in 160.6565 ms
+2024-07-23 10:18:46.404 +05:30 [INF] HTTP POST /Company/Create responded 302 in 844.3113 ms
+2024-07-23 10:18:46.645 +05:30 [INF] HTTP GET /Company responded 200 in 218.2894 ms
+2024-07-23 10:18:49.899 +05:30 [INF] HTTP GET /Company/Create responded 200 in 21.0250 ms
+2024-07-23 10:18:53.626 +05:30 [INF] HTTP POST /Company/Create responded 302 in 19.3051 ms
+2024-07-23 10:18:53.667 +05:30 [INF] HTTP GET /Company responded 200 in 22.1769 ms
+2024-07-23 10:18:56.935 +05:30 [INF] HTTP GET /Division responded 200 in 61.3605 ms
+2024-07-23 10:18:58.855 +05:30 [INF] HTTP GET /Division/Create responded 200 in 36.8117 ms
+2024-07-23 10:19:12.478 +05:30 [INF] HTTP POST /Division/Create responded 200 in 31.3952 ms
+2024-07-23 10:19:14.570 +05:30 [INF] HTTP POST /Division/Create responded 200 in 8.9896 ms
+2024-07-23 10:19:16.085 +05:30 [INF] HTTP POST /Division/Create responded 200 in 14.9743 ms
+2024-07-23 10:22:56.826 +05:30 [INF] HTTP GET / responded 200 in 402.0604 ms
+2024-07-23 10:23:04.965 +05:30 [INF] HTTP GET /Company responded 200 in 3996.7657 ms
+2024-07-23 10:23:10.328 +05:30 [INF] HTTP GET /Division responded 200 in 478.5158 ms
+2024-07-23 10:23:12.424 +05:30 [INF] HTTP GET /Division/Create responded 200 in 487.2364 ms
+2024-07-23 10:23:29.340 +05:30 [INF] HTTP POST /Division/Create responded 200 in 134.6463 ms
+2024-07-23 10:23:39.272 +05:30 [INF] HTTP GET /Division responded 200 in 25.7604 ms
+2024-07-23 10:26:09.611 +05:30 [INF] HTTP GET / responded 200 in 366.8948 ms
+2024-07-23 10:26:28.357 +05:30 [INF] HTTP GET /Division responded 200 in 4117.7662 ms
+2024-07-23 10:26:30.960 +05:30 [INF] HTTP GET /Division/Create responded 200 in 736.1849 ms
+2024-07-23 10:28:23.012 +05:30 [INF] HTTP GET / responded 200 in 411.0965 ms
+2024-07-23 10:28:30.089 +05:30 [INF] HTTP GET /Division responded 200 in 4302.9342 ms
+2024-07-23 10:28:32.573 +05:30 [INF] HTTP GET /Division/Create responded 200 in 581.4383 ms
+2024-07-23 10:28:46.908 +05:30 [INF] HTTP POST /Division/Create responded 302 in 6334.3717 ms
+2024-07-23 10:28:46.990 +05:30 [INF] HTTP GET /Division responded 200 in 51.8333 ms
+2024-07-23 10:29:10.383 +05:30 [INF] HTTP GET / responded 200 in 4.6339 ms
+2024-07-23 10:36:47.143 +05:30 [INF] HTTP GET / responded 200 in 383.7957 ms
+2024-07-23 10:36:49.657 +05:30 [INF] HTTP GET /Project responded 404 in 2.3070 ms
+2024-07-23 10:37:50.805 +05:30 [INF] HTTP GET / responded 200 in 404.5005 ms
+2024-07-23 10:37:56.372 +05:30 [INF] HTTP GET /Company responded 200 in 3480.2646 ms
+2024-07-23 10:40:17.739 +05:30 [INF] HTTP GET / responded 200 in 352.5570 ms
+2024-07-23 10:40:31.402 +05:30 [INF] HTTP GET /Company responded 200 in 4398.6021 ms
+2024-07-23 10:40:40.774 +05:30 [INF] HTTP GET /Division responded 200 in 598.6927 ms
+2024-07-23 10:40:42.485 +05:30 [INF] HTTP GET /Project responded 404 in 1.3992 ms
+2024-07-23 10:55:16.859 +05:30 [INF] HTTP GET / responded 200 in 308.1991 ms
+2024-07-23 10:55:22.478 +05:30 [INF] HTTP GET /Company responded 200 in 3306.4176 ms
+2024-07-23 10:55:26.774 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 750.9815 ms
+2024-07-23 10:55:29.729 +05:30 [INF] HTTP POST /Company/Edit/1 responded 302 in 551.2642 ms
+2024-07-23 10:55:29.766 +05:30 [INF] HTTP GET /Company responded 200 in 21.8512 ms
+2024-07-23 10:55:31.925 +05:30 [INF] HTTP GET /Company/Details/1 responded 200 in 60.3300 ms
+2024-07-23 10:55:35.165 +05:30 [INF] HTTP GET /Company responded 200 in 20.4736 ms
+2024-07-23 10:55:41.305 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 68.4739 ms
+2024-07-23 10:55:49.377 +05:30 [INF] HTTP GET /Company responded 200 in 18.1080 ms
+2024-07-23 11:27:14.237 +05:30 [INF] HTTP GET / responded 200 in 347.6046 ms
+2024-07-23 11:27:24.144 +05:30 [INF] HTTP GET /Project responded 200 in 5039.2510 ms
+2024-07-23 11:28:33.580 +05:30 [INF] HTTP GET /Project responded 200 in 22847.7773 ms
+2024-07-23 11:28:44.857 +05:30 [INF] HTTP GET /Project/Add responded 200 in 94.8569 ms
+2024-07-23 11:28:44.945 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 60.2519 ms
+2024-07-23 11:29:07.191 +05:30 [INF] HTTP POST /Project/Add responded 200 in 994.0742 ms
+2024-07-23 11:29:27.910 +05:30 [INF] HTTP GET /Project responded 200 in 6936.9968 ms
+2024-07-23 11:30:03.051 +05:30 [INF] HTTP GET /Project responded 200 in 2839.4887 ms
+2024-07-23 11:30:03.166 +05:30 [INF] HTTP GET /favicon.ico responded 304 in 0.9661 ms
+2024-07-23 12:20:05.875 +05:30 [INF] HTTP GET / responded 200 in 490.0318 ms
+2024-07-23 12:20:05.935 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 18.2050 ms
+2024-07-23 12:20:05.935 +05:30 [INF] HTTP GET /css/site.css responded 304 in 20.3119 ms
+2024-07-23 12:20:05.935 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 20.3166 ms
+2024-07-23 12:20:05.935 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 20.1481 ms
+2024-07-23 12:20:05.935 +05:30 [INF] HTTP GET /js/site.js responded 304 in 9.0306 ms
+2024-07-23 12:20:13.413 +05:30 [INF] HTTP GET /Project responded 200 in 3183.4565 ms
+2024-07-23 12:22:01.820 +05:30 [INF] HTTP GET / responded 200 in 379.0559 ms
+2024-07-23 12:22:06.387 +05:30 [INF] HTTP GET /Project responded 200 in 1674.0604 ms
+2024-07-23 12:22:11.360 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 456.9704 ms
+2024-07-23 12:22:30.564 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Code', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:90307a04-78d7-40cd-8922-fbe68456599f
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Code', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:90307a04-78d7-40cd-8922-fbe68456599f
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-07-23 12:22:30.716 +05:30 [ERR] HTTP POST /Project/Edit/1 responded 500 in 521.0851 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Code', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:90307a04-78d7-40cd-8922-fbe68456599f
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Edit(Project viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-23 12:22:30.740 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Code', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:90307a04-78d7-40cd-8922-fbe68456599f
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Edit(Project viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-23 12:23:49.369 +05:30 [INF] HTTP GET / responded 200 in 348.6718 ms
+2024-07-23 12:23:54.503 +05:30 [INF] HTTP GET /Project responded 200 in 2634.7264 ms
+2024-07-23 12:25:05.854 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 325.9454 ms
+2024-07-23 12:29:12.510 +05:30 [INF] HTTP GET / responded 200 in 342.9539 ms
+2024-07-23 12:29:15.904 +05:30 [INF] HTTP GET /Project responded 200 in 1572.2637 ms
+2024-07-23 12:29:17.745 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 356.7849 ms
+2024-07-23 12:29:27.159 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'CreatedBy', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:6a18d864-3286-416f-b729-be7e98183ebf
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'CreatedBy', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:6a18d864-3286-416f-b729-be7e98183ebf
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-07-23 12:29:27.240 +05:30 [ERR] HTTP POST /Project/Edit/1 responded 500 in 2479.6535 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'CreatedBy', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:6a18d864-3286-416f-b729-be7e98183ebf
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Edit(Project viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-23 12:29:27.259 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'CreatedBy', table 'ProjectDB.dbo.Projects'; column does not allow nulls. UPDATE fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:6a18d864-3286-416f-b729-be7e98183ebf
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Edit(Project viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-23 12:30:33.716 +05:30 [INF] HTTP GET / responded 200 in 349.9748 ms
+2024-07-23 12:30:37.245 +05:30 [INF] HTTP GET /Project responded 200 in 1539.6294 ms
+2024-07-23 12:30:39.301 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 372.0458 ms
+2024-07-23 12:30:51.161 +05:30 [INF] HTTP POST /Project/Edit/1 responded 302 in 2039.2869 ms
+2024-07-23 12:30:51.182 +05:30 [INF] HTTP GET /Project responded 200 in 10.8612 ms
+2024-07-23 12:40:36.677 +05:30 [INF] HTTP GET / responded 200 in 346.1470 ms
+2024-07-23 12:40:40.680 +05:30 [INF] HTTP GET /Company responded 200 in 2510.9218 ms
+2024-07-23 12:50:29.629 +05:30 [INF] HTTP GET / responded 200 in 346.1406 ms
+2024-07-23 12:50:33.760 +05:30 [INF] HTTP GET /Company responded 200 in 2775.4777 ms
+2024-07-23 12:50:45.618 +05:30 [INF] HTTP GET /Project responded 200 in 139.8113 ms
+2024-07-23 12:50:56.984 +05:30 [INF] HTTP GET /Project responded 200 in 126.0793 ms
+2024-07-23 12:51:01.779 +05:30 [INF] HTTP GET /Company responded 200 in 14.7677 ms
+2024-07-23 12:51:06.662 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 196.6158 ms
+2024-07-23 13:06:56.973 +05:30 [INF] HTTP GET / responded 200 in 319.5913 ms
+2024-07-23 13:07:02.763 +05:30 [INF] HTTP GET /Project responded 200 in 2916.2254 ms
+2024-07-23 13:09:45.645 +05:30 [INF] HTTP GET / responded 200 in 380.3715 ms
+2024-07-23 13:09:50.139 +05:30 [INF] HTTP GET /Project responded 200 in 1629.5885 ms
+2024-07-23 13:10:02.448 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 323.2194 ms
+2024-07-23 13:13:38.335 +05:30 [INF] HTTP GET / responded 200 in 363.0844 ms
+2024-07-23 13:13:38.376 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 4.5215 ms
+2024-07-23 13:13:41.884 +05:30 [INF] HTTP GET /Project responded 200 in 1549.9211 ms
+2024-07-23 13:13:46.623 +05:30 [INF] HTTP GET /Company responded 200 in 99.6912 ms
+2024-07-23 13:14:03.465 +05:30 [INF] HTTP GET /Company/Details/1 responded 200 in 271.6494 ms
+2024-07-23 13:14:58.390 +05:30 [INF] HTTP GET /Company responded 200 in 13.9643 ms
+2024-07-23 13:16:15.762 +05:30 [INF] HTTP GET / responded 200 in 464.7402 ms
+2024-07-23 13:16:20.271 +05:30 [INF] HTTP GET /Project responded 200 in 2044.0308 ms
+2024-07-23 13:16:22.640 +05:30 [INF] HTTP GET /Project/Add responded 200 in 105.2006 ms
+2024-07-23 13:16:39.281 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Division', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:50f3bb07-0963-496d-bbb5-4b3d1eb040a0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Division', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:50f3bb07-0963-496d-bbb5-4b3d1eb040a0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-07-23 13:16:39.467 +05:30 [ERR] HTTP POST /Project/Add responded 500 in 533.7613 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Division', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:50f3bb07-0963-496d-bbb5-4b3d1eb040a0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 37
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-23 13:16:39.505 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Division', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:50f3bb07-0963-496d-bbb5-4b3d1eb040a0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 37
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-23 13:18:03.513 +05:30 [INF] HTTP GET / responded 200 in 315.0638 ms
+2024-07-23 13:18:21.422 +05:30 [INF] HTTP GET /Company responded 200 in 2120.0230 ms
+2024-07-23 13:18:24.430 +05:30 [INF] HTTP GET /Project responded 200 in 131.8703 ms
+2024-07-23 13:18:33.869 +05:30 [INF] HTTP GET /Project/Add responded 200 in 46.2120 ms
+2024-07-23 13:19:48.482 +05:30 [INF] HTTP POST /Project/Add responded 200 in 8871.6873 ms
+2024-07-23 13:19:59.708 +05:30 [INF] HTTP GET /Project responded 200 in 13.3616 ms
+2024-07-23 13:21:07.943 +05:30 [INF] HTTP GET / responded 200 in 354.7157 ms
+2024-07-23 13:21:11.840 +05:30 [INF] HTTP GET /Project responded 200 in 1578.8053 ms
+2024-07-23 13:21:13.600 +05:30 [INF] HTTP GET /Project/Add responded 200 in 90.5169 ms
+2024-07-23 13:21:29.241 +05:30 [INF] HTTP POST /Project/Add responded 302 in 2254.1685 ms
+2024-07-23 13:21:29.349 +05:30 [INF] HTTP GET /Project responded 200 in 96.2487 ms
+2024-07-23 13:21:36.449 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 229.4952 ms
+2024-07-23 13:21:45.872 +05:30 [INF] HTTP POST /Project/Edit/1 responded 302 in 2280.1585 ms
+2024-07-23 13:21:45.903 +05:30 [INF] HTTP GET /Project responded 200 in 13.8387 ms
+2024-07-23 13:21:55.135 +05:30 [INF] HTTP GET /Project/Delete/4 responded 200 in 45.6408 ms
+2024-07-23 13:22:11.033 +05:30 [INF] HTTP POST /Project/Delete/4 responded 302 in 32.6861 ms
+2024-07-23 13:22:11.056 +05:30 [INF] HTTP GET /Project responded 200 in 11.3166 ms
+2024-07-23 13:28:29.077 +05:30 [INF] HTTP GET / responded 200 in 334.9965 ms
+2024-07-23 13:28:33.578 +05:30 [INF] HTTP GET /Project responded 200 in 2273.1012 ms
+2024-07-23 13:28:39.456 +05:30 [INF] HTTP GET /Project/Add responded 200 in 3795.4111 ms
+2024-07-23 16:08:44.182 +05:30 [INF] HTTP GET / responded 200 in 408.5794 ms
+2024-07-23 16:08:44.240 +05:30 [INF] HTTP GET /css/site.css responded 304 in 19.7592 ms
+2024-07-23 16:08:44.239 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 18.8565 ms
+2024-07-23 16:08:44.239 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 18.9634 ms
+2024-07-23 16:08:44.239 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 15.9922 ms
+2024-07-23 16:08:44.270 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 25.9533 ms
+2024-07-23 16:08:44.307 +05:30 [INF] HTTP GET /js/site.js responded 304 in 30.2231 ms
+2024-07-23 16:08:52.373 +05:30 [INF] HTTP GET /Project responded 200 in 5756.5383 ms
+2024-07-23 16:08:57.832 +05:30 [INF] HTTP GET /Project/Add responded 200 in 3448.6976 ms
+2024-07-23 16:10:02.508 +05:30 [INF] HTTP GET / responded 200 in 511.0919 ms
+2024-07-23 16:10:08.624 +05:30 [INF] HTTP GET /Project responded 200 in 4016.9694 ms
+2024-07-23 16:10:10.798 +05:30 [INF] HTTP GET /Project/Add responded 200 in 498.6640 ms
+2024-07-23 16:34:18.246 +05:30 [INF] HTTP GET / responded 200 in 368.9004 ms
+2024-07-23 16:34:26.320 +05:30 [INF] HTTP GET /Project responded 200 in 5349.3098 ms
+2024-07-23 16:34:28.436 +05:30 [INF] HTTP GET /Project/Add responded 200 in 465.9794 ms
+2024-07-23 16:34:29.149 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 654.7196 ms
+2024-07-23 16:34:33.681 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 15.5822 ms
+2024-07-23 16:44:28.592 +05:30 [INF] HTTP GET / responded 200 in 391.6022 ms
+2024-07-23 16:44:33.410 +05:30 [INF] HTTP GET /Project responded 200 in 2909.9823 ms
+2024-07-23 16:44:35.490 +05:30 [INF] HTTP GET /Project/Add responded 200 in 484.8887 ms
+2024-07-23 16:44:36.192 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 629.3763 ms
+2024-07-23 16:44:42.925 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 12.9552 ms
+2024-07-23 16:45:18.601 +05:30 [INF] HTTP GET / responded 200 in 402.3807 ms
+2024-07-23 16:45:28.152 +05:30 [INF] HTTP GET /Company responded 200 in 4051.4254 ms
+2024-07-23 16:45:30.700 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 545.7145 ms
+2024-07-23 16:45:32.822 +05:30 [INF] HTTP POST /Company/Delete/1 responded 302 in 634.2661 ms
+2024-07-23 16:45:32.881 +05:30 [INF] HTTP GET /Company responded 200 in 24.8315 ms
+2024-07-23 16:45:34.300 +05:30 [INF] HTTP GET /Company/Delete/2 responded 200 in 33.4228 ms
+2024-07-23 16:45:35.654 +05:30 [INF] HTTP POST /Company/Delete/2 responded 302 in 26.0982 ms
+2024-07-23 16:45:35.689 +05:30 [INF] HTTP GET /Company responded 200 in 14.5935 ms
+2024-07-23 16:45:37.596 +05:30 [INF] HTTP GET /Company/Create responded 200 in 73.2993 ms
+2024-07-23 16:45:37.665 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 31.0579 ms
+2024-07-23 16:45:37.665 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 31.1385 ms
+2024-07-23 16:45:52.703 +05:30 [INF] HTTP POST /Company/Create responded 302 in 178.3411 ms
+2024-07-23 16:45:52.753 +05:30 [INF] HTTP GET /Company responded 200 in 22.9543 ms
+2024-07-23 16:45:54.652 +05:30 [INF] HTTP GET /Company/Create responded 200 in 15.3284 ms
+2024-07-23 16:46:01.843 +05:30 [INF] HTTP POST /Company/Create responded 302 in 15.9473 ms
+2024-07-23 16:46:01.885 +05:30 [INF] HTTP GET /Company responded 200 in 21.9787 ms
+2024-07-23 16:46:07.678 +05:30 [INF] HTTP GET /Company/Create responded 200 in 14.8455 ms
+2024-07-23 16:46:12.017 +05:30 [INF] HTTP POST /Company/Create responded 302 in 18.3705 ms
+2024-07-23 16:46:12.069 +05:30 [INF] HTTP GET /Company responded 200 in 22.1220 ms
+2024-07-23 16:46:14.854 +05:30 [INF] HTTP GET /Division responded 200 in 252.5272 ms
+2024-07-23 16:46:16.264 +05:30 [INF] HTTP GET /Division/Create responded 200 in 300.4699 ms
+2024-07-23 16:46:29.192 +05:30 [INF] HTTP POST /Division/Create responded 302 in 94.8216 ms
+2024-07-23 16:46:29.263 +05:30 [INF] HTTP GET /Division responded 200 in 47.0790 ms
+2024-07-23 16:46:30.843 +05:30 [INF] HTTP GET /Division/Create responded 200 in 17.6900 ms
+2024-07-23 16:46:40.750 +05:30 [INF] HTTP POST /Division/Create responded 302 in 13.7795 ms
+2024-07-23 16:46:40.809 +05:30 [INF] HTTP GET /Division responded 200 in 31.2541 ms
+2024-07-23 16:46:42.376 +05:30 [INF] HTTP GET /Division/Create responded 200 in 13.6214 ms
+2024-07-23 16:46:48.203 +05:30 [INF] HTTP POST /Division/Create responded 302 in 13.9714 ms
+2024-07-23 16:46:48.255 +05:30 [INF] HTTP GET /Division responded 200 in 26.0729 ms
+2024-07-23 16:47:05.045 +05:30 [INF] HTTP GET /Division/Create responded 200 in 15.6703 ms
+2024-07-23 16:47:21.801 +05:30 [INF] HTTP POST /Division/Create responded 302 in 14.8481 ms
+2024-07-23 16:47:21.856 +05:30 [INF] HTTP GET /Division responded 200 in 28.7430 ms
+2024-07-23 16:47:50.020 +05:30 [INF] HTTP GET /Division/Create responded 200 in 22.1724 ms
+2024-07-23 16:47:56.235 +05:30 [INF] HTTP POST /Division/Create responded 302 in 14.7884 ms
+2024-07-23 16:47:56.293 +05:30 [INF] HTTP GET /Division responded 200 in 32.1854 ms
+2024-07-23 16:48:06.767 +05:30 [INF] HTTP GET /Division/Create responded 200 in 14.3792 ms
+2024-07-23 16:48:27.009 +05:30 [INF] HTTP POST /Division/Create responded 302 in 18.0718 ms
+2024-07-23 16:48:27.068 +05:30 [INF] HTTP GET /Division responded 200 in 34.3755 ms
+2024-07-23 16:48:30.106 +05:30 [INF] HTTP GET /Project responded 200 in 149.4314 ms
+2024-07-23 16:48:38.598 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 73.3577 ms
+2024-07-23 16:48:40.301 +05:30 [INF] HTTP POST /Project/Delete/1 responded 302 in 60.1674 ms
+2024-07-23 16:48:40.342 +05:30 [INF] HTTP GET /Project responded 200 in 19.2534 ms
+2024-07-23 16:48:41.777 +05:30 [INF] HTTP GET /Project/Delete/3 responded 200 in 23.3858 ms
+2024-07-23 16:48:43.212 +05:30 [INF] HTTP POST /Project/Delete/3 responded 302 in 20.8109 ms
+2024-07-23 16:48:43.262 +05:30 [INF] HTTP GET /Project responded 200 in 19.1132 ms
+2024-07-23 16:48:44.851 +05:30 [INF] HTTP GET /Project/Add responded 200 in 84.8920 ms
+2024-07-23 16:48:45.024 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 124.7771 ms
+2024-07-23 16:49:19.377 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 19.6916 ms
+2024-07-23 16:50:02.661 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js.map responded 200 in 439.3503 ms
+2024-07-23 16:50:02.682 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css.map responded 200 in 447.4375 ms
+2024-07-23 16:50:16.177 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 4.2960 ms
+2024-07-23 16:51:43.543 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 15226.7822 ms
+2024-07-23 16:52:38.262 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 9559.1921 ms
+2024-07-23 16:54:22.574 +05:30 [INF] HTTP GET / responded 200 in 397.2323 ms
+2024-07-23 16:54:26.990 +05:30 [INF] HTTP GET /Project responded 200 in 2239.4104 ms
+2024-07-23 16:56:22.911 +05:30 [INF] HTTP GET /Project/Add responded 200 in 114303.4077 ms
+2024-07-23 16:56:33.170 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 10219.0601 ms
+2024-07-23 16:57:08.926 +05:30 [INF] HTTP GET /Project/Add responded 200 in 5415.9200 ms
+2024-07-23 17:00:03.638 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 2312.0038 ms
+2024-07-23 17:02:32.559 +05:30 [INF] HTTP GET / responded 200 in 537.7709 ms
+2024-07-23 17:02:38.586 +05:30 [INF] HTTP GET /Project responded 200 in 3853.3761 ms
+2024-07-23 17:02:55.057 +05:30 [INF] HTTP GET /Project/Add responded 200 in 11499.9821 ms
+2024-07-23 17:02:58.491 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 3343.6302 ms
+2024-07-23 17:03:05.068 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1873.4976 ms
+2024-07-23 17:03:14.986 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 2010.0177 ms
+2024-07-23 17:05:16.006 +05:30 [INF] HTTP GET / responded 200 in 495.8649 ms
+2024-07-23 17:05:20.213 +05:30 [INF] HTTP GET /Project responded 200 in 2755.6927 ms
+2024-07-23 17:05:32.099 +05:30 [INF] HTTP GET /Project/Add responded 200 in 10409.9516 ms
+2024-07-23 17:05:34.538 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 2335.1796 ms
+2024-07-23 17:05:47.852 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1828.4738 ms
+2024-07-23 17:05:54.858 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1876.2136 ms
+2024-07-23 17:06:02.029 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1455.3043 ms
+2024-07-23 17:06:46.646 +05:30 [INF] HTTP GET / responded 200 in 448.1126 ms
+2024-07-23 17:06:55.498 +05:30 [INF] HTTP GET /Project responded 200 in 4001.1608 ms
+2024-07-23 17:06:59.846 +05:30 [INF] HTTP GET /Project/Add responded 200 in 2984.0241 ms
+2024-07-23 17:07:01.529 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1588.8268 ms
+2024-07-23 17:07:16.848 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 11716.3226 ms
+2024-07-23 17:10:29.343 +05:30 [INF] HTTP GET / responded 200 in 539.6033 ms
+2024-07-23 17:10:37.196 +05:30 [INF] HTTP GET /Project responded 200 in 3998.7805 ms
+2024-07-23 17:10:47.117 +05:30 [INF] HTTP GET /Project/Add responded 200 in 7864.6376 ms
+2024-07-23 17:10:48.682 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1448.3541 ms
+2024-07-23 17:11:21.371 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 23959.1378 ms
+2024-07-23 17:16:28.725 +05:30 [INF] HTTP GET / responded 200 in 387.8635 ms
+2024-07-23 17:16:37.565 +05:30 [INF] HTTP GET /Project responded 200 in 3995.8424 ms
+2024-07-23 17:16:44.402 +05:30 [INF] HTTP GET /Project/Add responded 200 in 5389.2643 ms
+2024-07-23 17:16:45.991 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1467.0954 ms
+2024-07-23 17:20:46.948 +05:30 [INF] HTTP GET / responded 200 in 584.4739 ms
+2024-07-23 17:20:58.004 +05:30 [INF] HTTP GET /Project responded 200 in 3557.7418 ms
+2024-07-23 17:21:09.765 +05:30 [INF] HTTP GET /Project/Add responded 200 in 10366.5577 ms
+2024-07-23 17:21:11.487 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1626.1283 ms
+2024-07-23 17:28:28.851 +05:30 [INF] HTTP GET / responded 200 in 396.2987 ms
+2024-07-23 17:28:34.139 +05:30 [INF] HTTP GET /Project responded 200 in 3628.4116 ms
+2024-07-23 17:28:39.584 +05:30 [INF] HTTP GET /Project/Add responded 200 in 3857.7781 ms
+2024-07-23 17:28:44.193 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 4532.5203 ms
+2024-07-23 17:31:36.655 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 168709.7569 ms
+2024-07-23 17:35:34.959 +05:30 [INF] HTTP GET / responded 200 in 453.8168 ms
+2024-07-23 17:35:48.685 +05:30 [INF] HTTP GET /Project responded 200 in 3819.6687 ms
+2024-07-23 17:36:19.339 +05:30 [INF] HTTP GET /Project/Add responded 200 in 29215.7543 ms
+2024-07-23 17:36:24.471 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 5048.6922 ms
+2024-07-23 17:36:35.148 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 6729.4704 ms
+2024-07-23 17:36:41.265 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 1667.9798 ms
+2024-07-23 17:38:15.221 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Company', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:ccced1cf-1a5c-4fc6-ba12-79e0d3068642
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Company', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:ccced1cf-1a5c-4fc6-ba12-79e0d3068642
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-07-23 17:38:15.432 +05:30 [ERR] HTTP POST /Project/Add responded 500 in 689.5321 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Company', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:ccced1cf-1a5c-4fc6-ba12-79e0d3068642
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 55
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-23 17:38:15.469 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Company', table 'ProjectDB.dbo.Projects'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:ccced1cf-1a5c-4fc6-ba12-79e0d3068642
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 55
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-23 17:38:59.492 +05:30 [INF] HTTP GET /Project/Add responded 200 in 21.5551 ms
+2024-07-23 17:39:02.494 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 2923.1637 ms
+2024-07-23 18:17:14.578 +05:30 [INF] HTTP GET / responded 200 in 306.8030 ms
+2024-07-23 18:17:17.987 +05:30 [INF] HTTP GET /Project responded 200 in 1572.1462 ms
+2024-07-23 18:17:19.760 +05:30 [INF] HTTP GET /Project/Add responded 200 in 192.9546 ms
+2024-07-23 18:18:19.256 +05:30 [INF] HTTP GET / responded 200 in 365.2215 ms
+2024-07-23 18:18:22.896 +05:30 [INF] HTTP GET /Project responded 200 in 1674.6954 ms
+2024-07-23 18:18:24.710 +05:30 [INF] HTTP GET /Project/Add responded 200 in 313.8244 ms
+2024-07-23 18:18:26.830 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 2081.3872 ms
+2024-07-23 18:18:34.162 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 3733.1205 ms
+2024-07-23 18:19:03.348 +05:30 [INF] HTTP POST /Project/Add responded 302 in 10688.4920 ms
+2024-07-23 18:19:03.381 +05:30 [INF] HTTP GET /Project responded 200 in 18.9551 ms
+2024-07-23 18:19:03.419 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 17.9097 ms
+2024-07-23 18:19:44.295 +05:30 [INF] HTTP GET /Project/Edit/6 responded 200 in 467.3568 ms
+2024-07-23 18:30:06.764 +05:30 [INF] HTTP GET / responded 200 in 296.2223 ms
+2024-07-23 18:30:11.314 +05:30 [INF] HTTP GET /Project responded 200 in 1571.5568 ms
+2024-07-23 18:30:13.813 +05:30 [INF] HTTP GET /Project/Delete/6 responded 200 in 256.1873 ms
+2024-07-23 18:30:15.648 +05:30 [INF] HTTP POST /Project/Delete/6 responded 302 in 298.6186 ms
+2024-07-23 18:30:15.672 +05:30 [INF] HTTP GET /Project responded 200 in 9.6843 ms
+2024-07-23 18:30:17.132 +05:30 [INF] HTTP GET /Project/Add responded 200 in 177.3945 ms
+2024-07-23 18:30:17.251 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 79.7770 ms
+2024-07-23 18:30:28.478 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 19.8111 ms
+2024-07-23 18:30:37.259 +05:30 [INF] HTTP POST /Project/Add responded 302 in 105.1047 ms
+2024-07-23 18:30:37.274 +05:30 [INF] HTTP GET /Project responded 200 in 6.2712 ms
+2024-07-23 18:34:38.941 +05:30 [INF] HTTP GET / responded 200 in 327.5796 ms
+2024-07-23 18:34:42.406 +05:30 [INF] HTTP GET /Project responded 200 in 1389.9155 ms
+2024-07-23 18:34:48.674 +05:30 [INF] HTTP GET /Project/Delete/7 responded 200 in 279.0222 ms
+2024-07-23 18:34:50.565 +05:30 [INF] HTTP POST /Project/Delete/7 responded 302 in 328.0293 ms
+2024-07-23 18:34:50.585 +05:30 [INF] HTTP GET /Project responded 200 in 7.8098 ms
+2024-07-23 18:34:52.287 +05:30 [INF] HTTP GET /Project/Add responded 200 in 149.4429 ms
+2024-07-23 18:34:52.411 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 74.9054 ms
+2024-07-23 18:34:58.513 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 20.2084 ms
+2024-07-23 18:35:04.299 +05:30 [INF] HTTP POST /Project/Add responded 302 in 86.3339 ms
+2024-07-23 18:35:04.316 +05:30 [INF] HTTP GET /Project responded 200 in 6.5665 ms
+2024-07-23 18:35:19.354 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 47.8956 ms
+2024-07-23 18:46:10.542 +05:30 [INF] HTTP GET / responded 200 in 356.3391 ms
+2024-07-23 18:46:14.119 +05:30 [INF] HTTP GET /Project responded 200 in 1241.2811 ms
+2024-07-23 18:46:16.759 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 329.9821 ms
+2024-07-23 18:46:20.408 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 254.2314 ms
+2024-07-23 18:46:20.427 +05:30 [INF] HTTP GET /Project responded 200 in 7.6025 ms
+2024-07-23 18:55:32.760 +05:30 [INF] HTTP GET / responded 200 in 295.3545 ms
+2024-07-23 18:55:35.931 +05:30 [INF] HTTP GET /Project responded 200 in 1431.1562 ms
+2024-07-23 18:55:37.827 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 425.6470 ms
+2024-07-23 18:56:59.303 +05:30 [INF] HTTP GET / responded 200 in 293.8350 ms
+2024-07-23 18:57:03.530 +05:30 [INF] HTTP GET /Project responded 200 in 1493.0377 ms
+2024-07-23 18:57:07.076 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 474.8474 ms
+2024-07-23 18:58:16.871 +05:30 [INF] HTTP GET / responded 200 in 280.8383 ms
+2024-07-23 18:58:22.179 +05:30 [INF] HTTP GET /Project responded 200 in 1874.8588 ms
+2024-07-23 18:58:38.621 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 505.3145 ms
+2024-07-23 18:58:38.667 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 14.0320 ms
+2024-07-23 18:58:38.667 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 14.0942 ms
+2024-07-23 18:58:38.667 +05:30 [INF] HTTP GET /js/site.js responded 304 in 14.0290 ms
+2024-07-23 18:58:38.667 +05:30 [INF] HTTP GET /css/site.css responded 304 in 14.1651 ms
+2024-07-23 18:58:38.667 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 14.0594 ms
+2024-07-23 19:01:02.559 +05:30 [INF] HTTP GET / responded 200 in 341.5946 ms
+2024-07-23 19:01:08.685 +05:30 [INF] HTTP GET /Project responded 200 in 1914.3927 ms
+2024-07-23 19:01:10.479 +05:30 [INF] HTTP GET /Project/Add responded 200 in 247.4753 ms
+2024-07-23 19:01:10.870 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 337.0839 ms
+2024-07-23 19:01:15.809 +05:30 [INF] HTTP GET /Project responded 200 in 19.8478 ms
+2024-07-23 19:01:17.689 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 115.1047 ms
+2024-07-23 19:02:00.245 +05:30 [INF] HTTP GET / responded 200 in 299.6331 ms
+2024-07-23 19:02:03.665 +05:30 [INF] HTTP GET /Project responded 200 in 1529.7497 ms
+2024-07-23 19:02:06.017 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 478.5949 ms
+2024-07-23 19:06:19.982 +05:30 [INF] HTTP GET / responded 200 in 319.5286 ms
+2024-07-23 19:06:23.303 +05:30 [INF] HTTP GET /Project responded 200 in 1495.2792 ms
+2024-07-23 19:06:30.176 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 497.0750 ms
+2024-07-23 19:06:45.436 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 304.8710 ms
+2024-07-23 19:06:45.456 +05:30 [INF] HTTP GET /Project responded 200 in 7.2771 ms
+2024-07-23 19:09:47.119 +05:30 [INF] HTTP GET / responded 200 in 413.6416 ms
+2024-07-23 19:09:52.333 +05:30 [INF] HTTP GET /Project responded 200 in 3250.0337 ms
+2024-07-23 19:09:57.099 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 1026.2245 ms
+2024-07-23 19:09:57.541 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 371.7396 ms
+2024-07-23 19:10:12.103 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 14.3316 ms
+2024-07-23 19:10:19.511 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 419.0306 ms
+2024-07-23 19:10:19.584 +05:30 [INF] HTTP GET /Project responded 200 in 53.7047 ms
+2024-07-23 19:10:22.262 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 35.8969 ms
+2024-07-23 19:10:22.315 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 11.0725 ms
+2024-07-23 19:10:31.384 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 29.9977 ms
+2024-07-23 19:10:31.417 +05:30 [INF] HTTP GET /Project responded 200 in 14.3665 ms
+2024-07-23 21:09:24.207 +05:30 [INF] HTTP GET / responded 200 in 441.8405 ms
+2024-07-23 21:09:24.249 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 15.5667 ms
+2024-07-23 21:09:35.225 +05:30 [INF] HTTP GET /Project responded 200 in 6203.2303 ms
+2024-07-23 21:09:40.694 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 966.4116 ms
+2024-07-23 21:09:41.107 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 343.8721 ms
+2024-07-23 21:09:46.245 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 17.4120 ms
+2024-07-23 21:09:51.961 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 375.0172 ms
+2024-07-23 21:09:52.001 +05:30 [INF] HTTP GET /Project responded 200 in 19.9634 ms
+2024-07-23 21:11:12.295 +05:30 [INF] HTTP GET / responded 200 in 391.4072 ms
+2024-07-23 21:11:18.771 +05:30 [INF] HTTP GET /Project responded 200 in 3943.2632 ms
+2024-07-23 21:11:23.708 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 1027.6535 ms
+2024-07-23 21:11:24.182 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 392.5518 ms
+2024-07-23 21:11:27.439 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 15.8295 ms
+2024-07-23 21:11:32.050 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 524.9708 ms
+2024-07-23 21:11:32.104 +05:30 [INF] HTTP GET /Project responded 200 in 29.0918 ms
+2024-07-23 21:11:41.926 +05:30 [INF] HTTP GET /Company responded 200 in 69.3980 ms
+2024-07-23 21:11:44.402 +05:30 [INF] HTTP GET /Division responded 200 in 227.7736 ms
+2024-07-23 21:11:48.352 +05:30 [INF] HTTP GET /Project responded 200 in 17.9456 ms
+2024-07-23 21:12:01.654 +05:30 [INF] HTTP GET /Project/Edit/8 responded 200 in 32.2716 ms
+2024-07-23 21:12:01.709 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 11.5824 ms
+2024-07-23 21:12:13.084 +05:30 [INF] HTTP POST /Project/Edit/8 responded 302 in 26.9919 ms
+2024-07-23 21:12:13.129 +05:30 [INF] HTTP GET /Project responded 200 in 23.6073 ms
+2024-07-23 21:12:56.738 +05:30 [INF] HTTP GET /Company responded 200 in 33.3518 ms
+2024-07-23 21:12:58.178 +05:30 [INF] HTTP GET /Division responded 200 in 35.2761 ms

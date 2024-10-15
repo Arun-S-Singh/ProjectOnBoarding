@@ -1,0 +1,12 @@
+﻿1. Add upload folder path to configuration and inject the path
+2. Logging for company , divion, brand , project task
+==============
+1. Add partial view to for files uploaded
+2. Tasks for project
+3. task status table and view in project details view
+4. role based usage - admin control
+
+5. hover effect on navbar
+6. selected/active effect on navbar
+
+7. Project cleanup - remove dead code

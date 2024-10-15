@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ProjectOnboarding</_PublishTargetUrl>
+    <History>True|2024-08-17T06:47:03.2308773Z||;False|2024-08-17T12:15:29.5932479+05:30||;False|2024-08-09T11:40:01.3189282+05:30||;False|2024-08-09T11:35:10.8040035+05:30||;False|2024-08-09T11:32:30.6010707+05:30||;False|2024-08-09T11:28:02.1071704+05:30||;True|2024-08-09T11:10:36.7801284+05:30||;False|2024-08-09T11:08:08.7767794+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProjectDB">
+      <Value>Data Source=ProjectDB.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

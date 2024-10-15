@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Arun\Learn\Projects\ProjectOnBoarding\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-08-07T07:21:54.6126096Z||;False|2024-07-27T13:43:12.9572265+05:30||;True|2024-07-27T13:42:33.2539420+05:30||;False|2024-07-27T13:41:49.8907867+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProjectDB">
+      <Value>Data Source=ProjectDB.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

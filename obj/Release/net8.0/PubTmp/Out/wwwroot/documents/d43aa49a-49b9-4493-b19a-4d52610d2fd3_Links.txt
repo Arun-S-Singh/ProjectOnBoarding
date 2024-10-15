@@ -1,0 +1,75 @@
+Distributed system
+https://www.youtube.com/watch?v=MbjObHmDbZo
+https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d
+
+https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
+https://jraphael.medium.com/an-introduction-to-distributed-systems-fa2e727c52f4
+https://jraphael.medium.com/architectures-for-distributed-systems-2ba4d191ffff
+
+Event driven architecture
+https://microservices.io/patterns/data/event-driven-architecture.html
+https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/
+https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/
+https://medium.com/swlh/the-6-things-you-need-to-know-about-event-driven-architectures-38e11fdcb5a
+https://medium.com/swlh/the-engineers-guide-to-event-driven-architectures-benefits-and-challenges-3e96ded8568b
+
+Kafka - https://timothystepro.medium.com/visualizing-kafka-20bc384803e7
+
+Technical Leadership - https://manish-katoch.medium.com/towards-technical-leadership-5ee410f6a88c
+
+Leadership - https://blog.vantagecircle.com/leadership-qualities/
+
+Digital Transformation
+https://www.redhat.com/en/topics/digital-transformation/what-is-digital-transformation
+https://www.bmc.com/blogs/what-is-digital-transformation/
+https://hbr.org/2020/05/digital-transformation-comes-down-to-talent-in-4-key-areas
+https://www.cio.com/article/3211428/what-is-digital-transformation-a-necessary-disruption.html
+https://economictimes.indiatimes.com/tech/information-tech/digital-transformation-automation-and-industrialization-of-ai-driving-it-growth-nasscoms-rekha-menon/articleshow/83914887.cms
+https://enterprisersproject.com/what-is-digital-transformation
+https://www.i-scoop.eu/digital-transformation/
+
+=======
+CLOUD
+=========
+Job - https://www.linkedin.com/jobs/view/2612688396/?refId=f9550161-125d-47b9-9ed8-108fe392e71f
+
+Interview
+https://www.guru99.com/cloud-computing-interview-questions.html
+https://intellipaat.com/blog/interview-question/cloud-computing-interview-questions/
+https://analyticsindiamag.com/top-interview-questions-to-land-a-cloud-architect-job/
+
+Resources
+https://www.youtube.com/watch?v=Fca32siG9FQ
+https://cloud.netapp.com/blog/azure-migration-strategy-four-steps-to-the-cloud#H1_a
+https://cloudacademy.com/course/cloud-migration-strategy-considerations/optimization-cost-management-cloud-migration-plan/
+https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
+https://www.codica.com/blog/saas-paas-iass-choosing-the-best-cloud-computing-model/
+https://www.infosys.com/Oracle/white-papers/Documents/cloud-migration-assessment-framework.pdf
+https://hub.packtpub.com/designing-a-multi-cloud-environment-with-iaas-paas-and-saas-tutorial/
+https://www.leanix.net/en/use-cases/cloud-migration
+
+
+Videos
+https://www.youtube.com/watch?v=WbiGFTyodUQ
+https://app.pluralsight.com/library/courses/cloud-technologies-executive-briefing/table-of-contents
+
+Articles
+https://hbr.org/2021/03/what-ceos-need-to-know-about-the-cloud-in-2021
+
+
+https://docs.newrelic.com/docs/new-relic-solutions/new-relic-solutions/plan-your-cloud-adoption/optimize-customer-experience/
+https://hbr.org/2017/05/whats-your-data-strategy
+https://www.apptio.com/blog/ultimate-guide-cloud-migration/
+https://www.hvr-software.com/blog/steps-to-cloud-data-migration/
+https://cloud.netapp.com/blog/cloud-migration-strategy-challenges-and-steps
+https://www.cisco.com/c/en_in/solutions/cloud/what-is-a-cloud-migration-strategy.html#~process
+https://www.talend.com/resources/understanding-data-migration-strategies-best-practices/
+https://acloudguru.com/blog/business/what-is-cloud-migration
+https://newrelic.com/blog/best-practices/cloud-migration-checklist
+https://searchcloudcomputing.techtarget.com/definition/cloud-migration
+https://www.cio.com/native/be-ready/collection/cloud-operations-and-management/article/defining-your-data-strategy-for-a-multi-cloud-world
+
+
+Executive Director-Cloud Architecture
+
+https://www.linkedin.com/jobs/view/2612688396/

@@ -1,0 +1,1371 @@
+2024-08-06 09:11:51.489 +05:30 [INF] HTTP GET /Project responded 200 in 426.3046 ms
+2024-08-06 09:11:57.669 +05:30 [INF] HTTP GET /Project responded 200 in 13.7001 ms
+2024-08-06 09:11:58.734 +05:30 [INF] HTTP GET /Company responded 200 in 11.2991 ms
+2024-08-06 09:12:01.801 +05:30 [INF] HTTP GET /Division responded 200 in 28.2999 ms
+2024-08-06 09:12:03.250 +05:30 [INF] HTTP GET /Brand responded 200 in 20.1592 ms
+2024-08-06 09:27:09.348 +05:30 [INF] HTTP GET /css/site.css responded 200 in 19.7674 ms
+2024-08-06 09:27:09.370 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 21.5365 ms
+2024-08-06 09:27:09.407 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 79.5520 ms
+2024-08-06 09:27:15.069 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 2.8187 ms
+2024-08-06 09:27:24.314 +05:30 [INF] HTTP GET /Brand responded 200 in 28.8906 ms
+2024-08-06 09:27:26.935 +05:30 [INF] HTTP GET /Project responded 200 in 7.5215 ms
+2024-08-06 09:27:28.088 +05:30 [INF] HTTP GET /Project responded 200 in 7.9038 ms
+2024-08-06 09:27:52.447 +05:30 [INF] HTTP GET / responded 200 in 434.3835 ms
+2024-08-06 09:27:52.597 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 111.7028 ms
+2024-08-06 09:27:52.598 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 112.9438 ms
+2024-08-06 09:27:52.594 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 99.5606 ms
+2024-08-06 09:27:52.563 +05:30 [INF] HTTP GET /js/site.js responded 200 in 59.2948 ms
+2024-08-06 09:27:52.559 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 73.4494 ms
+2024-08-06 09:27:52.559 +05:30 [INF] HTTP GET /css/site.css responded 200 in 73.1571 ms
+2024-08-06 09:28:12.784 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 5.8949 ms
+2024-08-06 09:28:12.785 +05:30 [INF] HTTP GET /css/site.css responded 200 in 6.7234 ms
+2024-08-06 09:28:12.796 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 17.3090 ms
+2024-08-06 09:28:41.137 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 1.6430 ms
+2024-08-06 09:28:47.417 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.423 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.428 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.432 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.437 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.442 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.446 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.452 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.457 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.467 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:47.470 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:28:49.139 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 36.1368 ms
+2024-08-06 09:28:49.139 +05:30 [INF] HTTP GET /Brand responded 200 in 3184.0769 ms
+2024-08-06 09:28:51.178 +05:30 [INF] HTTP GET /Division responded 200 in 172.9357 ms
+2024-08-06 09:28:52.315 +05:30 [INF] HTTP GET /Company responded 200 in 250.1922 ms
+2024-08-06 09:28:52.342 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 0.5932 ms
+2024-08-06 09:28:56.289 +05:30 [INF] HTTP GET /Project responded 200 in 201.6874 ms
+2024-08-06 09:28:56.320 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 0.5362 ms
+2024-08-06 09:30:40.526 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 26.8466 ms
+2024-08-06 09:30:40.527 +05:30 [INF] HTTP GET /css/site.css responded 200 in 29.9541 ms
+2024-08-06 09:30:40.549 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 52.1836 ms
+2024-08-06 09:30:49.428 +05:30 [INF] HTTP GET /Project responded 200 in 42.4925 ms
+2024-08-06 09:30:49.465 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 6.4554 ms
+2024-08-06 09:30:49.615 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 93.1202 ms
+2024-08-06 09:30:59.147 +05:30 [INF] HTTP GET /Brand responded 200 in 34.2262 ms
+2024-08-06 09:30:59.177 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 4.3435 ms
+2024-08-06 09:32:44.218 +05:30 [INF] HTTP GET /css/site.css responded 200 in 20.8486 ms
+2024-08-06 09:32:44.222 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 23.8950 ms
+2024-08-06 09:32:44.229 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 32.6026 ms
+2024-08-06 09:38:55.206 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 4.0864 ms
+2024-08-06 09:39:04.432 +05:30 [INF] HTTP GET /Brand responded 200 in 48.7953 ms
+2024-08-06 09:39:04.449 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 9.5775 ms
+2024-08-06 09:39:04.532 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 4.8497 ms
+2024-08-06 09:39:05.623 +05:30 [INF] HTTP GET /Brand responded 200 in 22.4504 ms
+2024-08-06 09:39:05.641 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 0.6235 ms
+2024-08-06 09:39:07.268 +05:30 [INF] HTTP GET /Company responded 200 in 19.6019 ms
+2024-08-06 09:39:07.296 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 0.2351 ms
+2024-08-06 09:39:08.177 +05:30 [INF] HTTP GET /Division responded 200 in 23.8873 ms
+2024-08-06 09:39:08.207 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 1.1647 ms
+2024-08-06 09:39:08.849 +05:30 [INF] HTTP GET /Brand responded 200 in 33.9068 ms
+2024-08-06 09:39:08.873 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 0.3344 ms
+2024-08-06 09:39:18.180 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 6.0002 ms
+2024-08-06 09:39:18.180 +05:30 [INF] HTTP GET /css/site.css responded 200 in 5.9937 ms
+2024-08-06 09:39:18.186 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 14.6004 ms
+2024-08-06 09:45:46.438 +05:30 [INF] HTTP GET / responded 200 in 359.7705 ms
+2024-08-06 09:45:46.545 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 80.8990 ms
+2024-08-06 09:45:46.521 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 56.2771 ms
+2024-08-06 09:45:46.521 +05:30 [INF] HTTP GET /css/site.css responded 200 in 51.5255 ms
+2024-08-06 09:45:46.542 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 77.3127 ms
+2024-08-06 09:45:46.521 +05:30 [INF] HTTP GET /js/site.js responded 200 in 52.2424 ms
+2024-08-06 09:45:46.549 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 79.8245 ms
+2024-08-06 09:45:59.532 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.539 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.544 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.549 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.554 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.560 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.567 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.571 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.575 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.580 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:45:59.585 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 09:46:00.843 +05:30 [INF] HTTP GET /Company responded 200 in 2034.9374 ms
+2024-08-06 09:46:00.888 +05:30 [INF] HTTP GET /Project responded 200 in 3087.6506 ms
+2024-08-06 09:46:01.217 +05:30 [INF] HTTP GET /Division responded 200 in 762.2357 ms
+2024-08-06 09:46:02.545 +05:30 [INF] HTTP GET /Brand responded 200 in 133.4586 ms
+2024-08-06 09:46:11.468 +05:30 [INF] HTTP GET /Project responded 200 in 23.7449 ms
+2024-08-06 09:46:22.722 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 777.6146 ms
+2024-08-06 11:41:27.710 +05:30 [INF] HTTP GET / responded 200 in 392.2691 ms
+2024-08-06 11:41:27.801 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 200 in 51.1004 ms
+2024-08-06 11:41:27.754 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 3.5694 ms
+2024-08-06 11:41:36.933 +05:30 [INF] HTTP GET / responded 200 in 33.4578 ms
+2024-08-06 11:42:51.197 +05:30 [INF] HTTP GET / responded 200 in 31.1064 ms
+2024-08-06 11:42:51.235 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 4.7354 ms
+2024-08-06 11:42:51.294 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 4.4235 ms
+2024-08-06 11:42:59.213 +05:30 [INF] HTTP GET / responded 200 in 5.4251 ms
+2024-08-06 11:43:00.410 +05:30 [INF] HTTP GET / responded 200 in 5.8652 ms
+2024-08-06 11:43:28.351 +05:30 [INF] HTTP GET / responded 200 in 99.1769 ms
+2024-08-06 11:43:28.430 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 0.9840 ms
+2024-08-06 11:43:37.245 +05:30 [INF] HTTP GET / responded 200 in 3.7058 ms
+2024-08-06 11:52:48.062 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.069 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.073 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.084 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.088 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.092 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.101 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.106 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.109 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.114 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:48.121 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 11:52:49.542 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 0.2772 ms
+2024-08-06 11:52:49.549 +05:30 [INF] HTTP GET /Project responded 200 in 3772.1252 ms
+2024-08-06 11:52:52.208 +05:30 [INF] HTTP GET /Company responded 200 in 161.1381 ms
+2024-08-06 11:52:54.064 +05:30 [INF] HTTP GET /Division responded 200 in 589.0592 ms
+2024-08-06 11:52:55.218 +05:30 [INF] HTTP GET /Brand responded 200 in 131.3898 ms
+2024-08-06 11:53:04.111 +05:30 [INF] HTTP GET /Project responded 200 in 12.3646 ms
+2024-08-06 11:56:53.476 +05:30 [INF] HTTP GET / responded 200 in 372.3653 ms
+2024-08-06 11:56:53.526 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 14.1054 ms
+2024-08-06 11:56:53.527 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 14.7122 ms
+2024-08-06 11:57:21.700 +05:30 [INF] HTTP GET / responded 200 in 126.9470 ms
+2024-08-06 11:57:49.081 +05:30 [INF] HTTP GET / responded 200 in 118.9612 ms
+2024-08-06 12:01:15.357 +05:30 [ERR] HTTP GET / responded 500 in 404.4296 ms
+System.InvalidOperationException: Cannot override the 'href' attribute for <a>. An <a> with a specified 'href' must not have attributes starting with 'asp-route-' or an 'asp-action', 'asp-controller', 'asp-area', 'asp-route', 'asp-protocol', 'asp-host', 'asp-fragment', 'asp-page' or 'asp-page-handler' attribute.
+   at Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__35_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-06 12:01:15.455 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot override the 'href' attribute for <a>. An <a> with a specified 'href' must not have attributes starting with 'asp-route-' or an 'asp-action', 'asp-controller', 'asp-area', 'asp-route', 'asp-protocol', 'asp-host', 'asp-fragment', 'asp-page' or 'asp-page-handler' attribute.
+   at Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__35_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-06 12:02:43.360 +05:30 [INF] HTTP GET / responded 200 in 320.5996 ms
+2024-08-06 12:02:43.419 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 15.8508 ms
+2024-08-06 12:05:04.417 +05:30 [INF] HTTP GET / responded 200 in 107.2216 ms
+2024-08-06 12:05:07.784 +05:30 [INF] HTTP GET / responded 200 in 32.7609 ms
+2024-08-06 12:06:14.836 +05:30 [INF] HTTP GET / responded 200 in 94.9348 ms
+2024-08-06 12:06:14.907 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 3.2765 ms
+2024-08-06 12:08:48.837 +05:30 [INF] HTTP GET / responded 200 in 75.3901 ms
+2024-08-06 12:08:54.303 +05:30 [INF] HTTP GET / responded 200 in 3.1210 ms
+2024-08-06 12:08:56.013 +05:30 [INF] HTTP GET / responded 200 in 2.1474 ms
+2024-08-06 12:08:59.245 +05:30 [INF] HTTP GET / responded 200 in 2.7490 ms
+2024-08-06 12:09:00.055 +05:30 [INF] HTTP GET / responded 200 in 2.2042 ms
+2024-08-06 12:10:16.297 +05:30 [INF] HTTP GET / responded 200 in 108.2859 ms
+2024-08-06 12:10:16.326 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 0.2928 ms
+2024-08-06 12:11:05.644 +05:30 [INF] HTTP GET / responded 200 in 88.8207 ms
+2024-08-06 12:11:05.691 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 0.2744 ms
+2024-08-06 12:11:39.882 +05:30 [INF] HTTP GET / responded 200 in 83.4092 ms
+2024-08-06 12:12:07.254 +05:30 [INF] HTTP GET / responded 200 in 4.2964 ms
+2024-08-06 12:12:11.813 +05:30 [INF] HTTP GET / responded 200 in 98.0129 ms
+2024-08-06 12:12:28.333 +05:30 [INF] HTTP GET / responded 200 in 84.8596 ms
+2024-08-06 12:17:40.183 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.189 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.195 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.200 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.205 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.211 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.216 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.221 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.226 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.232 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:40.238 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:17:41.663 +05:30 [INF] HTTP GET /Project responded 200 in 3441.3570 ms
+2024-08-06 12:17:41.676 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 0.3298 ms
+2024-08-06 12:19:31.036 +05:30 [INF] HTTP GET /Project responded 200 in 53.0030 ms
+2024-08-06 12:19:32.566 +05:30 [INF] HTTP GET /Project responded 200 in 187.3301 ms
+2024-08-06 12:20:11.454 +05:30 [INF] HTTP GET / responded 200 in 399.4528 ms
+2024-08-06 12:20:42.311 +05:30 [INF] HTTP GET / responded 200 in 133.4141 ms
+2024-08-06 12:20:46.078 +05:30 [INF] HTTP GET / responded 200 in 35.4960 ms
+2024-08-06 12:21:07.885 +05:30 [INF] HTTP GET / responded 200 in 111.9864 ms
+2024-08-06 12:26:43.629 +05:30 [INF] HTTP GET / responded 200 in 420.8284 ms
+2024-08-06 12:26:43.667 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 9.0897 ms
+2024-08-06 12:26:43.652 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 14.1342 ms
+2024-08-06 12:26:52.891 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.901 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.912 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.922 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.930 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.936 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.942 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.947 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.956 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.964 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:52.971 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:26:54.375 +05:30 [INF] HTTP GET /Project responded 200 in 3289.6029 ms
+2024-08-06 12:27:16.378 +05:30 [INF] HTTP GET /Project responded 200 in 81.4405 ms
+2024-08-06 12:27:22.802 +05:30 [INF] HTTP GET /Project responded 200 in 293.1369 ms
+2024-08-06 12:28:47.531 +05:30 [INF] HTTP GET /Project responded 200 in 118.9251 ms
+2024-08-06 12:28:57.006 +05:30 [INF] HTTP GET /Project responded 200 in 19.1750 ms
+2024-08-06 12:30:24.746 +05:30 [INF] HTTP GET /Project responded 200 in 104.5199 ms
+2024-08-06 12:30:37.542 +05:30 [INF] HTTP GET / responded 200 in 435.1324 ms
+2024-08-06 12:31:45.487 +05:30 [INF] HTTP GET / responded 200 in 186.8324 ms
+2024-08-06 12:31:45.554 +05:30 [INF] HTTP GET /augmenza_logo.jpg responded 304 in 11.7714 ms
+2024-08-06 12:32:26.996 +05:30 [INF] HTTP GET / responded 200 in 410.6812 ms
+2024-08-06 12:32:54.050 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.062 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.069 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.077 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.084 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.089 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.097 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.108 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.116 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.126 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:54.131 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:32:55.556 +05:30 [INF] HTTP GET /Project responded 200 in 3321.9493 ms
+2024-08-06 12:32:57.247 +05:30 [INF] HTTP GET /Company responded 200 in 180.4732 ms
+2024-08-06 12:32:58.954 +05:30 [INF] HTTP GET /Division responded 200 in 620.7472 ms
+2024-08-06 12:33:00.084 +05:30 [INF] HTTP GET /Brand responded 200 in 105.7347 ms
+2024-08-06 12:34:17.028 +05:30 [INF] HTTP GET /Brand responded 200 in 160.3511 ms
+2024-08-06 12:36:03.149 +05:30 [INF] HTTP GET / responded 200 in 427.9420 ms
+2024-08-06 12:36:31.346 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.354 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.359 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.362 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.365 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.369 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.377 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.381 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.385 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.390 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:31.394 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:36:32.173 +05:30 [INF] HTTP GET /Company responded 200 in 1970.1663 ms
+2024-08-06 12:36:35.225 +05:30 [INF] HTTP GET /Division responded 200 in 364.0385 ms
+2024-08-06 12:36:36.739 +05:30 [INF] HTTP GET /Brand responded 200 in 172.9164 ms
+2024-08-06 12:36:38.157 +05:30 [INF] HTTP GET /Project responded 200 in 145.0662 ms
+2024-08-06 12:36:39.711 +05:30 [INF] HTTP GET /Project/Add responded 200 in 318.7231 ms
+2024-08-06 12:36:39.984 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 185.4767 ms
+2024-08-06 12:36:39.984 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 185.4764 ms
+2024-08-06 12:37:46.841 +05:30 [INF] HTTP GET / responded 200 in 567.1741 ms
+2024-08-06 12:37:59.190 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.196 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.200 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.205 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.208 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.210 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.212 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.213 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.214 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.216 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.218 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:37:59.902 +05:30 [INF] HTTP GET /Project responded 200 in 1888.6522 ms
+2024-08-06 12:38:01.699 +05:30 [INF] HTTP GET /Project/Add responded 200 in 333.3271 ms
+2024-08-06 12:38:02.195 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 421.8606 ms
+2024-08-06 12:38:02.195 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 421.8596 ms
+2024-08-06 12:38:13.234 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 31.5147 ms
+2024-08-06 12:38:14.929 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 18.8658 ms
+2024-08-06 12:38:42.325 +05:30 [INF] HTTP POST /Project/Add responded 302 in 7753.3174 ms
+2024-08-06 12:38:42.396 +05:30 [INF] HTTP GET /Project responded 200 in 22.7492 ms
+2024-08-06 12:41:41.319 +05:30 [INF] HTTP GET /Project responded 200 in 22.5049 ms
+2024-08-06 12:41:43.470 +05:30 [INF] HTTP GET /Company responded 200 in 51.0619 ms
+2024-08-06 12:41:47.406 +05:30 [INF] HTTP GET /Division responded 200 in 169.4778 ms
+2024-08-06 12:41:48.301 +05:30 [INF] HTTP GET /Brand responded 200 in 52.1464 ms
+2024-08-06 12:41:55.112 +05:30 [INF] HTTP GET /Project responded 200 in 11.4928 ms
+2024-08-06 12:42:01.112 +05:30 [INF] HTTP GET /Company responded 200 in 14.0386 ms
+2024-08-06 12:42:08.572 +05:30 [INF] HTTP GET /Project responded 200 in 11.2238 ms
+2024-08-06 12:46:08.827 +05:30 [INF] HTTP GET / responded 200 in 563.5761 ms
+2024-08-06 12:46:08.884 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 20.3254 ms
+2024-08-06 12:46:13.295 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.301 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.303 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.305 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.307 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.309 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.311 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.312 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.314 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.318 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:13.322 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:46:14.126 +05:30 [INF] HTTP GET /Company responded 200 in 1895.2277 ms
+2024-08-06 12:46:35.966 +05:30 [INF] HTTP GET /Division responded 200 in 398.4966 ms
+2024-08-06 12:46:38.222 +05:30 [INF] HTTP GET /Brand responded 200 in 168.9495 ms
+2024-08-06 12:46:39.894 +05:30 [INF] HTTP GET /Project responded 200 in 138.9823 ms
+2024-08-06 12:48:48.382 +05:30 [INF] HTTP GET / responded 200 in 659.2123 ms
+2024-08-06 12:48:53.341 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.348 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.353 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.356 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.360 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.365 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.367 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.369 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.371 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.372 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:53.374 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 12:48:54.070 +05:30 [INF] HTTP GET /Company responded 200 in 1784.6815 ms
+2024-08-06 12:48:56.368 +05:30 [INF] HTTP GET /Division responded 200 in 347.7384 ms
+2024-08-06 12:49:02.092 +05:30 [INF] HTTP GET /Brand responded 200 in 202.9844 ms
+2024-08-06 13:08:08.645 +05:30 [INF] HTTP GET / responded 200 in 386.6598 ms
+2024-08-06 13:08:08.689 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 9.1117 ms
+2024-08-06 13:08:14.007 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.011 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.013 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.014 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.015 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.016 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.017 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.018 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.020 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.022 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.023 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:08:14.454 +05:30 [INF] HTTP GET /Project responded 200 in 994.5277 ms
+2024-08-06 13:08:20.119 +05:30 [INF] HTTP GET /Project responded 200 in 29.4026 ms
+2024-08-06 13:08:22.722 +05:30 [INF] HTTP GET /Company responded 200 in 87.4059 ms
+2024-08-06 13:08:28.101 +05:30 [INF] HTTP GET /Project responded 200 in 9.1221 ms
+2024-08-06 13:28:22.848 +05:30 [INF] HTTP GET / responded 200 in 306.5588 ms
+2024-08-06 13:28:25.768 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.772 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.774 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.775 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.776 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.777 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.778 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.779 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.780 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.781 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:25.783 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:28:26.348 +05:30 [INF] HTTP GET /Project responded 200 in 1259.2130 ms
+2024-08-06 13:28:44.043 +05:30 [INF] HTTP GET /Project responded 200 in 53.0659 ms
+2024-08-06 13:28:50.495 +05:30 [INF] HTTP GET /Project responded 200 in 131.4492 ms
+2024-08-06 13:29:05.827 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 193.2218 ms
+2024-08-06 13:29:05.868 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 24.5232 ms
+2024-08-06 13:29:13.825 +05:30 [INF] HTTP GET /Project responded 200 in 10.9577 ms
+2024-08-06 13:29:57.791 +05:30 [INF] HTTP GET /Project responded 200 in 15.3777 ms
+2024-08-06 13:30:04.548 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 37.0746 ms
+2024-08-06 13:31:13.808 +05:30 [INF] HTTP GET / responded 200 in 457.3779 ms
+2024-08-06 13:31:16.655 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.659 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.661 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.662 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.664 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.666 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.668 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.669 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.670 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.671 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:16.672 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:31:17.096 +05:30 [INF] HTTP GET /Project responded 200 in 991.6334 ms
+2024-08-06 13:31:21.188 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 242.7030 ms
+2024-08-06 13:31:49.631 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 156.2278 ms
+2024-08-06 13:32:15.695 +05:30 [INF] HTTP GET /Project responded 200 in 15.6318 ms
+2024-08-06 13:32:30.184 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 16.4588 ms
+2024-08-06 13:32:33.945 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 428.8702 ms
+2024-08-06 13:35:01.853 +05:30 [INF] HTTP GET / responded 200 in 300.3062 ms
+2024-08-06 13:35:04.435 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.439 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.440 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.442 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.443 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.444 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.446 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.447 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.448 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.449 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.450 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:35:04.863 +05:30 [INF] HTTP GET /Project responded 200 in 1147.9369 ms
+2024-08-06 13:35:06.528 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 251.4242 ms
+2024-08-06 13:37:56.992 +05:30 [INF] HTTP GET / responded 200 in 302.4692 ms
+2024-08-06 13:37:59.422 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.427 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.429 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.430 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.431 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.432 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.434 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.436 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.438 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.440 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.442 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:37:59.850 +05:30 [INF] HTTP GET /Project responded 200 in 961.9483 ms
+2024-08-06 13:38:04.174 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 465.2128 ms
+2024-08-06 13:41:01.325 +05:30 [INF] HTTP GET / responded 200 in 326.7070 ms
+2024-08-06 13:41:03.723 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.725 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.726 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.728 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.729 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.730 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.731 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.733 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.734 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.735 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:03.737 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:41:04.167 +05:30 [INF] HTTP GET /Project responded 200 in 1183.5702 ms
+2024-08-06 13:41:08.551 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 492.4896 ms
+2024-08-06 13:42:18.660 +05:30 [INF] HTTP GET / responded 200 in 401.3860 ms
+2024-08-06 13:42:21.050 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.054 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.057 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.058 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.060 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.061 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.062 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.063 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.064 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.065 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.066 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:42:21.478 +05:30 [INF] HTTP GET /Project responded 200 in 1064.9318 ms
+2024-08-06 13:42:23.512 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 543.8460 ms
+2024-08-06 13:44:17.673 +05:30 [INF] HTTP GET / responded 200 in 333.7179 ms
+2024-08-06 13:44:20.106 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.110 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.111 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.113 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.114 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.115 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.117 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.118 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.119 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.120 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.121 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:44:20.553 +05:30 [INF] HTTP GET /Project responded 200 in 1143.2972 ms
+2024-08-06 13:44:22.417 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 452.0627 ms
+2024-08-06 13:44:47.115 +05:30 [INF] HTTP GET /Project responded 200 in 99.0252 ms
+2024-08-06 13:44:48.985 +05:30 [INF] HTTP GET /Project/Details/3 responded 200 in 19.8211 ms
+2024-08-06 13:49:25.664 +05:30 [INF] HTTP GET / responded 200 in 298.7651 ms
+2024-08-06 13:49:28.213 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.216 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.219 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.221 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.222 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.224 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.226 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.227 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.229 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.230 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.232 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:49:28.676 +05:30 [INF] HTTP GET /Project responded 200 in 1072.6557 ms
+2024-08-06 13:49:30.891 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 463.7176 ms
+2024-08-06 13:49:36.842 +05:30 [INF] HTTP GET /Project/Edit/Model.Id responded 200 in 171.9649 ms
+2024-08-06 13:49:47.150 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 54.6500 ms
+2024-08-06 13:49:52.336 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 17.6413 ms
+2024-08-06 13:49:54.593 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 3.7505 ms
+2024-08-06 13:50:02.917 +05:30 [INF] HTTP POST /Project/Edit/Model.Id responded 302 in 2320.3340 ms
+2024-08-06 13:50:02.938 +05:30 [INF] HTTP GET /Project responded 200 in 5.6094 ms
+2024-08-06 13:50:13.877 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 12.6212 ms
+2024-08-06 13:50:17.585 +05:30 [INF] HTTP GET /Project responded 200 in 10.1690 ms
+2024-08-06 13:50:21.352 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 8.4938 ms
+2024-08-06 13:50:40.559 +05:30 [INF] HTTP GET /Company responded 200 in 47.1505 ms
+2024-08-06 13:50:44.541 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 69.0956 ms
+2024-08-06 13:50:44.607 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 200 in 31.9779 ms
+2024-08-06 13:50:44.607 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 200 in 33.8099 ms
+2024-08-06 13:54:40.118 +05:30 [INF] HTTP GET / responded 200 in 318.2856 ms
+2024-08-06 13:54:40.204 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 11.6367 ms
+2024-08-06 13:54:42.570 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.573 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.575 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.577 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.578 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.579 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.580 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.581 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.582 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.583 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:42.584 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:54:43.078 +05:30 [INF] HTTP GET /Brand responded 200 in 1224.2123 ms
+2024-08-06 13:54:51.872 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 269.3289 ms
+2024-08-06 13:55:04.541 +05:30 [INF] HTTP GET /Brand responded 200 in 102.4283 ms
+2024-08-06 13:55:06.641 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 146.5703 ms
+2024-08-06 13:55:13.113 +05:30 [INF] HTTP GET /Brand responded 200 in 13.7042 ms
+2024-08-06 13:55:14.379 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 31.1831 ms
+2024-08-06 13:56:12.082 +05:30 [INF] HTTP GET / responded 200 in 279.3352 ms
+2024-08-06 13:56:15.143 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.150 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.152 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.154 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.156 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.157 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.158 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.159 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.160 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.161 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.162 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 13:56:15.648 +05:30 [INF] HTTP GET /Division responded 200 in 1087.3123 ms
+2024-08-06 13:56:19.828 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 287.3393 ms
+2024-08-06 13:57:07.888 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 187.2564 ms
+2024-08-06 13:57:41.212 +05:30 [INF] HTTP GET /Division responded 200 in 27.3742 ms
+2024-08-06 13:57:43.696 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 10.9721 ms
+2024-08-06 13:57:53.254 +05:30 [INF] HTTP GET /Division responded 200 in 14.4614 ms
+2024-08-06 13:57:54.676 +05:30 [INF] HTTP GET /Division/Details/1 responded 200 in 60.0104 ms
+2024-08-06 13:58:03.157 +05:30 [INF] HTTP GET /Division responded 200 in 13.8094 ms
+2024-08-06 13:58:07.297 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 8.5107 ms
+2024-08-06 13:58:09.285 +05:30 [INF] HTTP GET /Division responded 200 in 8.2659 ms
+2024-08-06 13:58:10.752 +05:30 [INF] HTTP GET /Division/Details/2 responded 200 in 9.5739 ms
+2024-08-06 13:58:13.721 +05:30 [INF] HTTP GET /Brand responded 200 in 48.8729 ms
+2024-08-06 13:58:15.817 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 91.0110 ms
+2024-08-06 13:58:18.675 +05:30 [INF] HTTP GET /Brand responded 200 in 15.5415 ms
+2024-08-06 13:58:20.440 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 38.4439 ms
+2024-08-06 13:58:32.544 +05:30 [INF] HTTP GET /Brand responded 200 in 15.8976 ms
+2024-08-06 13:58:34.569 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 47.4639 ms
+2024-08-06 13:58:41.126 +05:30 [INF] HTTP GET /Company responded 200 in 31.0838 ms
+2024-08-06 13:58:45.973 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 52.8743 ms
+2024-08-06 14:00:02.515 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 49.8179 ms
+2024-08-06 14:00:12.789 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 9.8340 ms
+2024-08-06 14:00:17.323 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 5.5116 ms
+2024-08-06 14:00:54.695 +05:30 [INF] HTTP GET / responded 200 in 339.8570 ms
+2024-08-06 14:00:56.966 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.971 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.973 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.975 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.976 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.977 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.978 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.980 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.981 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.982 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:56.984 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:00:57.406 +05:30 [INF] HTTP GET /Company responded 200 in 1072.9338 ms
+2024-08-06 14:00:59.630 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 289.6507 ms
+2024-08-06 14:01:16.532 +05:30 [INF] HTTP GET /Company responded 200 in 98.0848 ms
+2024-08-06 14:01:43.686 +05:30 [INF] HTTP GET /Company responded 200 in 18.2453 ms
+2024-08-06 14:01:47.875 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 58.8328 ms
+2024-08-06 14:01:53.454 +05:30 [INF] HTTP GET /Company responded 200 in 7.8797 ms
+2024-08-06 14:01:55.247 +05:30 [INF] HTTP GET /Company/Details/1 responded 200 in 55.9139 ms
+2024-08-06 14:02:23.306 +05:30 [INF] HTTP GET /Company/Details/1 responded 200 in 35.9058 ms
+2024-08-06 14:02:29.923 +05:30 [INF] HTTP GET /Company responded 200 in 13.0500 ms
+2024-08-06 14:02:30.952 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 48.8106 ms
+2024-08-06 14:02:56.137 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 26.5063 ms
+2024-08-06 14:03:08.756 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 25.2607 ms
+2024-08-06 14:03:14.355 +05:30 [INF] HTTP GET /Company responded 200 in 26.7712 ms
+2024-08-06 14:03:21.423 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 16.5805 ms
+2024-08-06 14:03:23.924 +05:30 [INF] HTTP GET /Company responded 200 in 8.9997 ms
+2024-08-06 14:03:25.283 +05:30 [INF] HTTP GET /Company/Details/1 responded 200 in 13.6581 ms
+2024-08-06 14:03:26.991 +05:30 [INF] HTTP GET /Company responded 200 in 8.7768 ms
+2024-08-06 14:03:27.959 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 7.4482 ms
+2024-08-06 14:03:29.292 +05:30 [INF] HTTP GET /Company responded 200 in 8.6030 ms
+2024-08-06 14:03:31.488 +05:30 [INF] HTTP GET /Division responded 200 in 118.6713 ms
+2024-08-06 14:03:48.590 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 138.9636 ms
+2024-08-06 14:05:00.200 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 15.9479 ms
+2024-08-06 14:05:15.048 +05:30 [INF] HTTP GET / responded 200 in 332.7780 ms
+2024-08-06 14:05:17.983 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.985 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.986 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.988 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.991 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.992 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.993 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.994 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.995 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.997 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:17.998 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:05:18.551 +05:30 [INF] HTTP GET /Division responded 200 in 1132.6263 ms
+2024-08-06 14:05:21.226 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 254.0567 ms
+2024-08-06 14:05:25.556 +05:30 [INF] HTTP GET /Division responded 200 in 115.6712 ms
+2024-08-06 14:05:26.905 +05:30 [INF] HTTP GET /Division/Details/1 responded 200 in 48.5643 ms
+2024-08-06 14:05:50.993 +05:30 [INF] HTTP GET /Division/Details/1 responded 200 in 31.9627 ms
+2024-08-06 14:05:58.856 +05:30 [INF] HTTP GET /Division responded 200 in 23.0055 ms
+2024-08-06 14:06:02.440 +05:30 [INF] HTTP GET /Division/Delete/1 responded 200 in 31.7758 ms
+2024-08-06 14:06:22.164 +05:30 [INF] HTTP GET /Division/Delete/1 responded 200 in 34.6649 ms
+2024-08-06 14:06:27.935 +05:30 [INF] HTTP GET /Division responded 200 in 21.3808 ms
+2024-08-06 14:06:30.635 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 19.7294 ms
+2024-08-06 14:06:32.036 +05:30 [INF] HTTP GET /Division responded 200 in 10.1486 ms
+2024-08-06 14:06:33.040 +05:30 [INF] HTTP GET /Division/Details/1 responded 200 in 13.7074 ms
+2024-08-06 14:06:34.269 +05:30 [INF] HTTP GET /Division responded 200 in 11.6665 ms
+2024-08-06 14:06:35.797 +05:30 [INF] HTTP GET /Division/Delete/1 responded 200 in 7.3578 ms
+2024-08-06 14:06:37.048 +05:30 [INF] HTTP GET /Division responded 200 in 8.4289 ms
+2024-08-06 14:06:38.950 +05:30 [INF] HTTP GET /Brand responded 200 in 53.1929 ms
+2024-08-06 14:06:42.212 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 73.7047 ms
+2024-08-06 14:07:30.072 +05:30 [INF] HTTP GET /Brand responded 200 in 16.2288 ms
+2024-08-06 14:07:31.658 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 42.9431 ms
+2024-08-06 14:07:34.495 +05:30 [INF] HTTP GET /Brand responded 200 in 13.3798 ms
+2024-08-06 14:07:35.701 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 29.3564 ms
+2024-08-06 14:08:03.710 +05:30 [INF] HTTP GET / responded 200 in 302.7457 ms
+2024-08-06 14:08:06.002 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.005 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.006 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.007 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.008 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.009 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.010 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.012 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.013 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.015 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.017 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:08:06.522 +05:30 [INF] HTTP GET /Brand responded 200 in 1180.1286 ms
+2024-08-06 14:08:08.306 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 285.4704 ms
+2024-08-06 14:08:09.654 +05:30 [INF] HTTP GET /Brand responded 200 in 89.8376 ms
+2024-08-06 14:08:10.916 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 68.3592 ms
+2024-08-06 14:08:12.113 +05:30 [INF] HTTP GET /Brand responded 200 in 19.5190 ms
+2024-08-06 14:08:13.594 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 29.2762 ms
+2024-08-06 14:08:17.742 +05:30 [INF] HTTP GET /Brand responded 200 in 14.9998 ms
+2024-08-06 14:09:10.355 +05:30 [INF] HTTP GET /Brand responded 200 in 32.0505 ms
+2024-08-06 14:09:12.808 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 39.3021 ms
+2024-08-06 14:09:15.055 +05:30 [INF] HTTP GET /Brand responded 200 in 11.6665 ms
+2024-08-06 14:09:16.383 +05:30 [INF] HTTP GET /Brand/Details/1 responded 200 in 10.7122 ms
+2024-08-06 14:09:17.550 +05:30 [INF] HTTP GET /Brand responded 200 in 9.5162 ms
+2024-08-06 14:09:18.537 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 16.6047 ms
+2024-08-06 14:09:19.748 +05:30 [INF] HTTP GET /Brand responded 200 in 14.0948 ms
+2024-08-06 14:10:03.608 +05:30 [INF] HTTP GET /Project responded 200 in 110.7637 ms
+2024-08-06 14:10:06.948 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 160.7368 ms
+2024-08-06 14:10:28.096 +05:30 [INF] HTTP GET /Project responded 200 in 11.7911 ms
+2024-08-06 14:10:33.457 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 83.1194 ms
+2024-08-06 14:12:17.356 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 97.6874 ms
+2024-08-06 14:12:46.744 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 99.5009 ms
+2024-08-06 14:12:57.535 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 58.9662 ms
+2024-08-06 14:13:04.348 +05:30 [INF] HTTP GET /Project responded 200 in 14.6304 ms
+2024-08-06 14:13:06.119 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 19.2095 ms
+2024-08-06 14:13:11.736 +05:30 [INF] HTTP GET /Project responded 200 in 5.5928 ms
+2024-08-06 14:13:14.348 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 39.0799 ms
+2024-08-06 14:13:35.535 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 33.9136 ms
+2024-08-06 14:13:38.083 +05:30 [INF] HTTP GET /Project responded 200 in 17.4191 ms
+2024-08-06 14:13:46.290 +05:30 [INF] HTTP GET /Project responded 200 in 5.7209 ms
+2024-08-06 14:13:59.914 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 119.5851 ms
+2024-08-06 14:13:59.987 +05:30 [INF] HTTP GET /Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js responded 200 in 47.8561 ms
+2024-08-06 14:13:59.987 +05:30 [INF] HTTP GET /Identity/lib/jquery-validation/dist/jquery.validate.js responded 200 in 47.8528 ms
+2024-08-06 14:14:16.510 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 96.9426 ms
+2024-08-06 14:15:34.022 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 71.8624 ms
+2024-08-06 14:15:45.367 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 19.1905 ms
+2024-08-06 14:16:21.642 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 57.6646 ms
+2024-08-06 14:16:52.930 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 65.1056 ms
+2024-08-06 14:17:22.785 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 48.2933 ms
+2024-08-06 14:17:27.422 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 20.2425 ms
+2024-08-06 14:20:32.977 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 14:20:33.358 +05:30 [INF] HTTP GET / responded 200 in 387.2554 ms
+2024-08-06 14:20:33.403 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 8.4770 ms
+2024-08-06 14:20:33.403 +05:30 [INF] HTTP GET /css/site.css responded 200 in 15.3956 ms
+2024-08-06 14:20:33.403 +05:30 [INF] HTTP GET /js/site.js responded 200 in 8.4802 ms
+2024-08-06 14:20:33.432 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 43.7134 ms
+2024-08-06 14:20:33.439 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 44.1935 ms
+2024-08-06 14:20:33.441 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 46.3338 ms
+2024-08-06 14:20:33.537 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 15.7558 ms
+2024-08-06 14:20:39.356 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 152.4293 ms
+2024-08-06 14:20:39.396 +05:30 [INF] HTTP GET /Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js responded 200 in 6.0346 ms
+2024-08-06 14:20:39.397 +05:30 [INF] HTTP GET /Identity/lib/jquery-validation/dist/jquery.validate.js responded 200 in 10.9383 ms
+2024-08-06 14:21:20.012 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.016 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.021 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.023 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.026 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.029 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.033 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.036 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.039 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.042 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:20.046 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:21:21.037 +05:30 [INF] User created a new account with password.
+2024-08-06 14:21:21.050 +05:30 [INF] HTTP POST /Identity/Account/Register responded 302 in 2489.3755 ms
+2024-08-06 14:21:21.167 +05:30 [INF] HTTP GET /Identity/Account/RegisterConfirmation responded 200 in 101.4831 ms
+2024-08-06 14:21:34.288 +05:30 [INF] HTTP GET /Identity/Account/ConfirmEmail responded 200 in 215.0301 ms
+2024-08-06 14:21:41.085 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 51.7859 ms
+2024-08-06 14:21:43.959 +05:30 [INF] User logged in.
+2024-08-06 14:21:43.965 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 235.3473 ms
+2024-08-06 14:21:43.981 +05:30 [INF] HTTP GET / responded 200 in 4.7215 ms
+2024-08-06 14:39:17.325 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 14:39:17.755 +05:30 [INF] HTTP GET / responded 200 in 432.4549 ms
+2024-08-06 14:39:27.399 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 280.1167 ms
+2024-08-06 14:40:07.179 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.187 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.194 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.203 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.209 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.216 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.225 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.230 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.237 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.242 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:07.246 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:40:09.113 +05:30 [INF] User created a new account with password.
+2024-08-06 14:40:09.247 +05:30 [INF] HTTP POST /Identity/Account/Register responded 302 in 4178.2304 ms
+2024-08-06 14:40:09.295 +05:30 [INF] HTTP GET / responded 200 in 10.9009 ms
+2024-08-06 14:40:17.095 +05:30 [INF] User logged out.
+2024-08-06 14:40:17.099 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 51.0501 ms
+2024-08-06 14:40:17.121 +05:30 [INF] HTTP GET / responded 200 in 2.9561 ms
+2024-08-06 14:40:18.304 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 11.9422 ms
+2024-08-06 14:40:52.202 +05:30 [INF] User created a new account with password.
+2024-08-06 14:40:52.212 +05:30 [INF] HTTP POST /Identity/Account/Register responded 302 in 883.8025 ms
+2024-08-06 14:40:52.235 +05:30 [INF] HTTP GET / responded 200 in 3.7022 ms
+2024-08-06 14:40:55.637 +05:30 [INF] User logged out.
+2024-08-06 14:40:55.639 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 9.3502 ms
+2024-08-06 14:40:55.664 +05:30 [INF] HTTP GET / responded 200 in 3.6844 ms
+2024-08-06 14:40:59.135 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 8.1756 ms
+2024-08-06 14:41:16.839 +05:30 [INF] HTTP POST /Identity/Account/Register responded 200 in 325.0436 ms
+2024-08-06 14:43:19.302 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 14:43:19.749 +05:30 [INF] HTTP GET / responded 200 in 449.3569 ms
+2024-08-06 14:43:23.509 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.517 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.523 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.527 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.535 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.540 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.545 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.552 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.560 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.567 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:23.572 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:24.895 +05:30 [INF] HTTP GET /Project responded 200 in 2493.5051 ms
+2024-08-06 14:43:27.597 +05:30 [INF] HTTP GET /Project/Add responded 200 in 498.9270 ms
+2024-08-06 14:43:28.244 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 594.1848 ms
+2024-08-06 14:43:28.244 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 594.1495 ms
+2024-08-06 14:43:32.626 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 45.1441 ms
+2024-08-06 14:43:33.752 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 19.5629 ms
+2024-08-06 14:43:52.375 +05:30 [ERR] Failed executing DbCommand (10ms) [Parameters=[@p0='?' (Size = 25), @p1='?' (DbType = Int32), @p2='?', @p3='?', @p4='?', @p5='?', @p6='?' (Size = 6), @p7='?' (DbType = Int32), @p8='?' (DbType = DateTime), @p9='?', @p10='?' (Size = 2), @p11='?' (Size = 17), @p12='?' (DbType = Int32), @p13='?' (Size = 2), @p14='?', @p15='?', @p16='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Projects" ("Brand", "BrandId", "Brief", "BriefFile", "Category", "Code", "Company", "CompanyId", "CreateDate", "CreatedBy", "Description", "Division", "DivisionId", "Name", "ReferenceFile", "References", "Size")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16)
+RETURNING "Id";
+2024-08-06 14:43:52.449 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'ProjectOnBoarding.Data.ProjectDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Projects.CreatedBy'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Projects.CreatedBy'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-08-06 14:43:52.531 +05:30 [ERR] HTTP POST /Project/Add responded 500 in 5135.5020 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Projects.CreatedBy'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 84
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-06 14:43:52.582 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: Projects.CreatedBy'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProjectOnBoarding.Controllers.ProjectController.Add(AddProjectViewModel viewmodel) in D:\Arun\Learn\Projects\ProjectOnBoarding\Controllers\ProjectController.cs:line 84
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-08-06 14:43:52.869 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.875 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.878 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.882 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.887 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.891 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.895 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.901 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.905 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.909 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:43:52.913 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:50.424 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 14:46:50.798 +05:30 [INF] HTTP GET / responded 200 in 378.9889 ms
+2024-08-06 14:46:54.833 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 288.3200 ms
+2024-08-06 14:46:59.210 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.218 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.223 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.230 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.237 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.244 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.249 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.254 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.261 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.267 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:46:59.271 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:47:01.197 +05:30 [INF] User logged in.
+2024-08-06 14:47:01.207 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 3767.0128 ms
+2024-08-06 14:47:01.262 +05:30 [INF] HTTP GET / responded 200 in 12.4823 ms
+2024-08-06 14:47:05.063 +05:30 [INF] HTTP GET /Project responded 200 in 335.3030 ms
+2024-08-06 14:47:07.575 +05:30 [INF] HTTP GET /Project/Add responded 200 in 341.6486 ms
+2024-08-06 14:47:07.709 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 88.1625 ms
+2024-08-06 14:47:07.709 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 88.3546 ms
+2024-08-06 14:47:24.291 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 31.3821 ms
+2024-08-06 14:47:25.885 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 20.7715 ms
+2024-08-06 14:48:38.636 +05:30 [INF] HTTP POST /Project/Add responded 302 in 63947.1089 ms
+2024-08-06 14:48:38.698 +05:30 [INF] HTTP GET /Project responded 200 in 41.9835 ms
+2024-08-06 14:48:46.321 +05:30 [INF] HTTP GET /Project/Edit/5 responded 200 in 229.7580 ms
+2024-08-06 14:48:46.411 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 62.6969 ms
+2024-08-06 14:56:30.850 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 14:56:31.283 +05:30 [INF] HTTP GET / responded 200 in 434.5107 ms
+2024-08-06 14:56:36.330 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.337 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.342 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.346 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.351 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.356 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.359 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.361 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.366 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.372 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:36.379 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:56:37.772 +05:30 [INF] HTTP GET /Project responded 200 in 3078.6085 ms
+2024-08-06 14:56:41.360 +05:30 [INF] HTTP GET /Project/Add responded 200 in 475.3818 ms
+2024-08-06 14:56:41.951 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 516.5906 ms
+2024-08-06 14:56:41.951 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 516.4856 ms
+2024-08-06 14:58:06.665 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 14:58:07.224 +05:30 [INF] HTTP GET / responded 200 in 566.0057 ms
+2024-08-06 14:58:13.813 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.819 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.823 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.829 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.834 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.840 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.848 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.859 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.866 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.875 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:13.886 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 14:58:15.229 +05:30 [INF] HTTP GET /Project responded 200 in 3152.3845 ms
+2024-08-06 14:58:18.661 +05:30 [INF] HTTP GET /Project/Add responded 200 in 292.4318 ms
+2024-08-06 15:04:20.660 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:04:21.295 +05:30 [INF] HTTP GET / responded 200 in 640.8897 ms
+2024-08-06 15:04:24.414 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.419 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.424 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.428 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.432 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.436 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.439 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.443 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.447 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.456 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:24.459 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:04:25.700 +05:30 [INF] HTTP GET /Project responded 200 in 2370.8557 ms
+2024-08-06 15:04:30.604 +05:30 [INF] HTTP GET /Project/Add responded 200 in 272.3578 ms
+2024-08-06 15:04:57.421 +05:30 [INF] HTTP GET /Project/Identity/Account/Register responded 404 in 25.1628 ms
+2024-08-06 15:05:02.131 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 233.0248 ms
+2024-08-06 15:05:40.925 +05:30 [INF] HTTP GET / responded 200 in 4.4589 ms
+2024-08-06 15:05:44.324 +05:30 [INF] HTTP GET /Project responded 200 in 205.0164 ms
+2024-08-06 15:05:47.444 +05:30 [INF] HTTP GET /Project/Add responded 200 in 3.2415 ms
+2024-08-06 15:07:14.498 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:07:14.937 +05:30 [INF] HTTP GET / responded 200 in 442.3181 ms
+2024-08-06 15:07:20.232 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.237 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.241 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.246 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.250 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.254 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.260 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.264 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.268 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.272 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:20.278 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:07:21.644 +05:30 [INF] HTTP GET /Project responded 200 in 3098.2461 ms
+2024-08-06 15:07:24.405 +05:30 [INF] HTTP GET /Project/Add responded 200 in 301.7943 ms
+2024-08-06 15:07:39.709 +05:30 [INF] HTTP GET /Identity/Account/Register responded 200 in 313.2368 ms
+2024-08-06 15:07:43.742 +05:30 [INF] HTTP GET /Project responded 200 in 190.1116 ms
+2024-08-06 15:07:45.705 +05:30 [INF] HTTP GET /Project/Add responded 200 in 12.7952 ms
+2024-08-06 15:07:46.996 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 97.0794 ms
+2024-08-06 15:07:51.941 +05:30 [INF] User logged in.
+2024-08-06 15:07:51.947 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 935.5804 ms
+2024-08-06 15:07:51.988 +05:30 [INF] HTTP GET / responded 200 in 10.5048 ms
+2024-08-06 15:07:53.312 +05:30 [INF] HTTP GET /Project responded 200 in 6.2338 ms
+2024-08-06 15:07:55.042 +05:30 [INF] HTTP GET /Project/Add responded 200 in 97.1667 ms
+2024-08-06 15:07:55.190 +05:30 [INF] HTTP GET /Project/GetBrandByDivisionId responded 200 in 97.1861 ms
+2024-08-06 15:07:55.190 +05:30 [INF] HTTP GET /Project/GetDivisionByCompanyId responded 200 in 97.0221 ms
+2024-08-06 15:07:58.732 +05:30 [INF] User logged out.
+2024-08-06 15:07:58.736 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 40.2700 ms
+2024-08-06 15:07:58.758 +05:30 [INF] HTTP GET / responded 200 in 3.7859 ms
+2024-08-06 15:09:24.767 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:09:25.206 +05:30 [INF] HTTP GET / responded 200 in 442.5309 ms
+2024-08-06 15:09:28.505 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.512 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.519 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.529 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.533 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.537 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.546 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.551 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.560 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.563 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:28.572 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:09:29.822 +05:30 [INF] HTTP GET /Project responded 200 in 2052.3484 ms
+2024-08-06 15:09:31.608 +05:30 [INF] HTTP GET /Project/Add responded 200 in 273.1718 ms
+2024-08-06 15:09:46.358 +05:30 [INF] HTTP GET /Project responded 200 in 185.6030 ms
+2024-08-06 15:13:49.218 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:13:49.664 +05:30 [INF] HTTP GET / responded 200 in 447.9681 ms
+2024-08-06 15:13:54.038 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.043 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.047 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.052 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.059 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.066 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.071 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.079 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.084 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.092 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:54.098 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:13:55.465 +05:30 [INF] HTTP GET /Project responded 200 in 3011.2661 ms
+2024-08-06 15:13:57.516 +05:30 [INF] HTTP GET /Project/Add responded 200 in 285.8571 ms
+2024-08-06 15:14:03.001 +05:30 [INF] HTTP GET /Project responded 200 in 198.0386 ms
+2024-08-06 15:14:05.413 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 765.9449 ms
+2024-08-06 15:15:54.853 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 192.1665 ms
+2024-08-06 15:16:05.949 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:16:06.556 +05:30 [INF] HTTP GET / responded 200 in 611.4586 ms
+2024-08-06 15:16:09.532 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.536 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.539 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.541 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.545 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.550 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.553 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.557 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.561 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.564 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:09.569 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:16:10.773 +05:30 [INF] HTTP GET /Project responded 200 in 2202.9569 ms
+2024-08-06 15:16:14.185 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 1125.6065 ms
+2024-08-06 15:17:37.363 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:17:37.785 +05:30 [INF] HTTP GET / responded 200 in 424.3562 ms
+2024-08-06 15:17:40.270 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.274 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.275 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.279 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.280 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.281 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.282 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.283 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.283 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.284 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.285 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:17:40.821 +05:30 [INF] HTTP GET /Project responded 200 in 1330.3669 ms
+2024-08-06 15:17:43.852 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 908.5109 ms
+2024-08-06 15:19:31.868 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:19:32.431 +05:30 [INF] HTTP GET / responded 200 in 566.1638 ms
+2024-08-06 15:19:35.866 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.874 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.883 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.894 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.901 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.906 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.910 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.915 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.919 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.930 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:35.938 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:19:37.451 +05:30 [INF] HTTP GET /Project responded 200 in 2780.5281 ms
+2024-08-06 15:19:40.324 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 1068.6310 ms
+2024-08-06 15:20:49.742 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:20:50.223 +05:30 [INF] HTTP GET / responded 200 in 486.0347 ms
+2024-08-06 15:20:50.257 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 5.7585 ms
+2024-08-06 15:20:52.768 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.776 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.782 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.789 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.794 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.797 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.801 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.803 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.805 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.807 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:52.809 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:20:53.252 +05:30 [INF] HTTP GET /Project responded 200 in 1528.9634 ms
+2024-08-06 15:20:55.854 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 1018.1513 ms
+2024-08-06 15:22:45.828 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:22:46.352 +05:30 [INF] HTTP GET / responded 200 in 531.0553 ms
+2024-08-06 15:22:49.040 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.049 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.056 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.064 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.071 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.074 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.079 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.083 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.087 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.091 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.096 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:22:49.896 +05:30 [INF] HTTP GET /Project responded 200 in 1806.5459 ms
+2024-08-06 15:22:56.173 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 945.7744 ms
+2024-08-06 15:24:35.153 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:24:35.567 +05:30 [INF] HTTP GET / responded 200 in 417.9290 ms
+2024-08-06 15:24:42.204 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.212 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.218 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.226 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.233 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.240 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.246 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.257 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.261 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.273 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:42.277 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:24:43.582 +05:30 [INF] HTTP GET /Project responded 200 in 3048.6715 ms
+2024-08-06 15:24:46.599 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 695.3718 ms
+2024-08-06 15:26:15.580 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:26:16.029 +05:30 [INF] HTTP GET / responded 200 in 455.8188 ms
+2024-08-06 15:26:18.900 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.904 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.909 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.911 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.914 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.922 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.925 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.929 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.931 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.933 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:18.937 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:26:19.721 +05:30 [INF] HTTP GET /Project responded 200 in 1779.2962 ms
+2024-08-06 15:26:21.577 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 459.2469 ms
+2024-08-06 15:27:08.104 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:27:08.501 +05:30 [INF] HTTP GET / responded 200 in 397.1669 ms
+2024-08-06 15:27:11.344 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.349 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.353 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.357 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.360 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.365 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.369 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.374 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.378 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.380 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:11.383 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:27:12.070 +05:30 [INF] HTTP GET /Project responded 200 in 1619.2201 ms
+2024-08-06 15:27:13.924 +05:30 [INF] HTTP GET /Project/Add responded 200 in 337.6255 ms
+2024-08-06 15:27:15.642 +05:30 [INF] HTTP GET /Project responded 200 in 179.5615 ms
+2024-08-06 15:27:17.456 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 478.3148 ms
+2024-08-06 15:27:19.243 +05:30 [INF] HTTP GET /Project responded 200 in 9.2341 ms
+2024-08-06 15:27:21.850 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 51.6139 ms
+2024-08-06 15:39:07.043 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 15:39:07.474 +05:30 [INF] HTTP GET / responded 200 in 438.0013 ms
+2024-08-06 15:39:12.190 +05:30 [WRN] The entity type 'IdentityRole' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.197 +05:30 [WRN] The entity type 'IdentityRoleClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.202 +05:30 [WRN] The entity type 'IdentityUserClaim<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.211 +05:30 [WRN] The entity type 'IdentityUserLogin<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.216 +05:30 [WRN] The entity type 'IdentityUserRole<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.223 +05:30 [WRN] The entity type 'IdentityUserToken<string>' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.227 +05:30 [WRN] The entity type 'ProjectDBUser' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.231 +05:30 [WRN] The entity type 'Brand' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.238 +05:30 [WRN] The entity type 'Company' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.250 +05:30 [WRN] The entity type 'Division' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:12.259 +05:30 [WRN] The entity type 'Project' is configured to use schema 'dbo', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+2024-08-06 15:39:13.751 +05:30 [INF] HTTP GET /Project responded 200 in 3026.3889 ms
+2024-08-06 15:39:15.246 +05:30 [INF] HTTP GET /Project/Add responded 200 in 353.4028 ms
+2024-08-06 15:39:20.697 +05:30 [INF] HTTP GET /Project responded 200 in 184.2140 ms
+2024-08-06 15:39:23.157 +05:30 [INF] HTTP GET /Project/Edit/1 responded 200 in 528.2721 ms
+2024-08-06 15:39:25.287 +05:30 [INF] HTTP GET /Project responded 200 in 10.0698 ms
+2024-08-06 15:39:27.645 +05:30 [INF] HTTP GET /Project/Delete/1 responded 200 in 56.6101 ms
+2024-08-06 15:39:29.911 +05:30 [INF] HTTP GET /Project responded 200 in 5.5509 ms
+2024-08-06 15:39:33.005 +05:30 [INF] HTTP GET /Project/Details/1 responded 200 in 264.9062 ms
+2024-08-06 15:39:41.471 +05:30 [INF] HTTP GET /Company responded 200 in 57.7271 ms
+2024-08-06 15:39:43.155 +05:30 [INF] HTTP GET /Company/Create responded 200 in 23.4226 ms
+2024-08-06 15:39:49.094 +05:30 [INF] HTTP GET /Company responded 200 in 9.2279 ms
+2024-08-06 15:39:50.870 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 33.0017 ms
+2024-08-06 15:39:52.812 +05:30 [INF] HTTP GET /Company responded 200 in 7.2213 ms
+2024-08-06 15:39:54.239 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 44.0331 ms
+2024-08-06 15:39:55.769 +05:30 [INF] HTTP GET /Company responded 200 in 7.0255 ms
+2024-08-06 15:39:57.080 +05:30 [INF] HTTP GET /Company/Details/1 responded 200 in 42.0050 ms
+2024-08-06 15:40:01.728 +05:30 [INF] HTTP GET /Company responded 200 in 9.3934 ms
+2024-08-06 15:40:03.125 +05:30 [INF] HTTP GET /Company/Delete/1 responded 200 in 4.1643 ms
+2024-08-06 15:40:06.378 +05:30 [INF] HTTP GET /Division responded 200 in 176.5293 ms
+2024-08-06 15:40:08.402 +05:30 [INF] HTTP GET /Division/Create responded 200 in 11.4047 ms
+2024-08-06 15:40:10.350 +05:30 [INF] HTTP GET /Division responded 200 in 12.1891 ms
+2024-08-06 15:40:12.118 +05:30 [INF] HTTP GET /Division/Edit/1 responded 200 in 38.7891 ms
+2024-08-06 15:40:14.478 +05:30 [INF] HTTP GET /Division responded 200 in 19.4114 ms
+2024-08-06 15:40:16.464 +05:30 [INF] HTTP GET /Division/Delete/1 responded 200 in 44.9954 ms
+2024-08-06 15:40:18.408 +05:30 [INF] HTTP GET /Division responded 200 in 24.8635 ms
+2024-08-06 15:40:20.038 +05:30 [INF] HTTP GET /Division/Details/2 responded 200 in 39.4466 ms
+2024-08-06 15:40:22.114 +05:30 [INF] HTTP GET /Brand responded 200 in 82.0148 ms
+2024-08-06 15:40:23.629 +05:30 [INF] HTTP GET /Brand/Create responded 200 in 12.7548 ms
+2024-08-06 15:40:28.575 +05:30 [INF] HTTP GET /Brand responded 200 in 20.7591 ms
+2024-08-06 15:40:31.346 +05:30 [INF] HTTP GET /Brand/Edit/1 responded 200 in 37.9646 ms
+2024-08-06 15:40:35.115 +05:30 [INF] HTTP GET /Brand responded 200 in 27.8577 ms
+2024-08-06 15:40:36.756 +05:30 [INF] HTTP GET /Brand/Delete/1 responded 200 in 35.3620 ms
+2024-08-06 16:36:44.029 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 16:36:44.413 +05:30 [INF] HTTP GET / responded 200 in 388.0783 ms
+2024-08-06 16:36:44.451 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 5.1293 ms
+2024-08-06 16:36:49.974 +05:30 [INF] HTTP GET /Company responded 200 in 2906.8263 ms
+2024-08-06 16:36:53.083 +05:30 [INF] HTTP GET /Company/Create responded 200 in 56.0679 ms
+2024-08-06 16:36:54.741 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 267.0038 ms
+2024-08-06 16:36:57.180 +05:30 [INF] User logged in.
+2024-08-06 16:36:57.189 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1059.3433 ms
+2024-08-06 16:36:57.232 +05:30 [INF] HTTP GET / responded 200 in 9.9062 ms
+2024-08-06 16:37:00.669 +05:30 [INF] HTTP GET /Company responded 200 in 184.0615 ms
+2024-08-06 16:37:02.306 +05:30 [INF] HTTP GET /Company/Create responded 200 in 33.9806 ms
+2024-08-06 16:37:02.379 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 200 in 46.0581 ms
+2024-08-06 16:37:02.399 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 200 in 63.3234 ms
+2024-08-06 16:39:37.723 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 16:39:38.300 +05:30 [INF] HTTP GET / responded 200 in 581.7792 ms
+2024-08-06 16:39:44.147 +05:30 [INF] HTTP GET /Company responded 200 in 3304.1308 ms
+2024-08-06 16:39:44.147 +05:30 [INF] HTTP GET /Company responded 200 in 220.7732 ms
+2024-08-06 16:39:45.653 +05:30 [INF] HTTP GET /Company/Create responded 200 in 56.1628 ms
+2024-08-06 16:39:52.224 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 258.4357 ms
+2024-08-06 16:39:55.057 +05:30 [INF] User logged in.
+2024-08-06 16:39:55.063 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1280.8389 ms
+2024-08-06 16:39:55.115 +05:30 [INF] HTTP GET / responded 200 in 19.2855 ms
+2024-08-06 16:40:08.547 +05:30 [INF] HTTP GET /Company responded 200 in 14.6336 ms
+2024-08-06 16:40:10.680 +05:30 [INF] HTTP GET /Company/Create responded 200 in 40.0933 ms
+2024-08-06 16:40:20.691 +05:30 [INF] [APPEVENT] New company added 4,Arun Company by vivekm@augmenza.com
+2024-08-06 16:40:20.698 +05:30 [INF] HTTP POST /Company/Create responded 302 in 472.4789 ms
+2024-08-06 16:40:20.719 +05:30 [INF] HTTP GET /Company responded 200 in 7.9516 ms
+2024-08-06 16:45:37.110 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 16:45:37.500 +05:30 [INF] HTTP GET / responded 200 in 392.8722 ms
+2024-08-06 16:45:44.396 +05:30 [INF] HTTP GET /Company responded 200 in 3038.8994 ms
+2024-08-06 16:45:47.016 +05:30 [INF] HTTP GET /Company/Edit/1 responded 200 in 422.8998 ms
+2024-08-06 16:45:49.576 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 187.1803 ms
+2024-08-06 16:45:51.629 +05:30 [INF] User logged in.
+2024-08-06 16:45:51.638 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 866.4288 ms
+2024-08-06 16:45:51.677 +05:30 [INF] HTTP GET / responded 200 in 14.1065 ms
+2024-08-06 16:45:54.849 +05:30 [INF] HTTP GET /Company responded 200 in 13.2231 ms
+2024-08-06 16:45:56.960 +05:30 [INF] HTTP GET /Company/Edit/4 responded 200 in 54.0267 ms
+2024-08-06 16:46:01.631 +05:30 [INF] [APPEVENT] Company [ Id=4,Name=Arun Company 1 ] edited by vivekm@augmenza.com
+2024-08-06 16:46:01.640 +05:30 [INF] HTTP POST /Company/Edit/4 responded 302 in 484.1489 ms
+2024-08-06 16:46:01.675 +05:30 [INF] HTTP GET /Company responded 200 in 13.7869 ms
+2024-08-06 16:46:06.530 +05:30 [INF] HTTP GET /Company/Delete/4 responded 200 in 42.4960 ms
+2024-08-06 16:46:08.228 +05:30 [INF] [APPEVENT] Company [ Id=4,Name=Arun Company 1 ] deleted by vivekm@augmenza.com
+2024-08-06 16:46:08.235 +05:30 [INF] HTTP POST /Company/Delete/4 responded 302 in 236.5052 ms
+2024-08-06 16:46:08.257 +05:30 [INF] HTTP GET /Company responded 200 in 4.6811 ms
+2024-08-06 17:00:40.955 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 17:00:41.382 +05:30 [INF] HTTP GET / responded 200 in 429.5782 ms
+2024-08-06 17:00:47.442 +05:30 [INF] HTTP GET /Division responded 200 in 1879.4965 ms
+2024-08-06 17:00:50.636 +05:30 [INF] HTTP GET /Division/Create responded 200 in 31.2913 ms
+2024-08-06 17:00:52.509 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 129.1354 ms
+2024-08-06 17:00:54.144 +05:30 [INF] User logged in.
+2024-08-06 17:00:54.149 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 362.0192 ms
+2024-08-06 17:00:54.170 +05:30 [INF] HTTP GET / responded 200 in 5.6669 ms
+2024-08-06 17:00:57.203 +05:30 [INF] HTTP GET /Division responded 200 in 131.4216 ms
+2024-08-06 17:00:58.739 +05:30 [INF] HTTP GET /Division/Create responded 200 in 159.9641 ms
+2024-08-06 17:01:08.429 +05:30 [INF] [APPEVENT] New Division [ Id=7,Name=Test123 ] added by vivekm@augmenza.com
+2024-08-06 17:01:08.434 +05:30 [INF] HTTP POST /Division/Create responded 302 in 331.0565 ms
+2024-08-06 17:01:08.464 +05:30 [INF] HTTP GET /Division responded 200 in 13.7935 ms
+2024-08-06 17:01:13.612 +05:30 [INF] HTTP GET /Division/Edit/7 responded 200 in 62.2068 ms
+2024-08-06 17:01:17.594 +05:30 [INF] [APPEVENT] Division [ Id=7,Name=Test12345 ] edited by vivekm@augmenza.com
+2024-08-06 17:01:17.601 +05:30 [INF] HTTP POST /Division/Edit/7 responded 302 in 60.3153 ms
+2024-08-06 17:01:17.628 +05:30 [INF] HTTP GET /Division responded 200 in 13.1079 ms
+2024-08-06 17:01:21.059 +05:30 [INF] HTTP GET /Division/Delete/7 responded 200 in 23.3597 ms
+2024-08-06 17:01:22.952 +05:30 [INF] [APPEVENT] Division [ Id=7,Name=Test12345 ] deleted by vivekm@augmenza.com
+2024-08-06 17:01:22.958 +05:30 [INF] HTTP POST /Division/Delete/7 responded 302 in 60.2684 ms
+2024-08-06 17:01:22.981 +05:30 [INF] HTTP GET /Division responded 200 in 7.3595 ms
+2024-08-06 17:01:41.505 +05:30 [INF] HTTP GET /Brand responded 200 in 34.1548 ms
+2024-08-06 17:01:43.197 +05:30 [INF] HTTP GET /Brand/Create responded 200 in 23.0014 ms
+2024-08-06 17:03:00.054 +05:30 [INF] HTTP GET /Brand responded 200 in 16.9554 ms
+2024-08-06 17:03:27.183 +05:30 [INF] HTTP GET /Brand/Create responded 200 in 2.7068 ms
+2024-08-06 17:03:47.171 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 17:03:47.565 +05:30 [INF] HTTP GET / responded 200 in 399.6525 ms
+2024-08-06 17:03:50.135 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 87.8339 ms
+2024-08-06 17:03:53.793 +05:30 [INF] User logged in.
+2024-08-06 17:03:53.798 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 2011.2257 ms
+2024-08-06 17:03:53.828 +05:30 [INF] HTTP GET / responded 200 in 9.8421 ms
+2024-08-06 17:03:55.993 +05:30 [INF] HTTP GET /Brand responded 200 in 191.3439 ms
+2024-08-06 17:03:57.737 +05:30 [INF] HTTP GET /Brand/Create responded 200 in 149.7230 ms
+2024-08-06 17:04:09.441 +05:30 [INF] [APPEVENT] New Brand [ Id=10,Name=null ] added by vivekm@augmenza.com
+2024-08-06 17:04:09.445 +05:30 [INF] HTTP POST /Brand/Create responded 302 in 214.3473 ms
+2024-08-06 17:04:09.470 +05:30 [INF] HTTP GET /Brand responded 200 in 12.7771 ms
+2024-08-06 17:04:21.234 +05:30 [INF] HTTP GET /Brand/Edit/10 responded 200 in 98.5077 ms
+2024-08-06 17:04:28.023 +05:30 [INF] [APPEVENT] Brand [ Id=10,Name=null ] edited by vivekm@augmenza.com
+2024-08-06 17:04:28.028 +05:30 [INF] HTTP POST /Brand/Edit/10 responded 302 in 68.3261 ms
+2024-08-06 17:04:28.052 +05:30 [INF] HTTP GET /Brand responded 200 in 12.6041 ms
+2024-08-06 17:04:33.737 +05:30 [INF] HTTP GET /Brand/Delete/10 responded 200 in 33.5370 ms
+2024-08-06 17:04:35.634 +05:30 [INF] [APPEVENT] Brand [ Id=10,Name=null ] deleted by vivekm@augmenza.com
+2024-08-06 17:04:35.641 +05:30 [INF] HTTP POST /Brand/Delete/10 responded 302 in 362.3843 ms
+2024-08-06 17:04:35.667 +05:30 [INF] HTTP GET /Brand responded 200 in 13.0082 ms
+2024-08-06 17:06:31.726 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 17:06:32.154 +05:30 [INF] HTTP GET / responded 200 in 435.3382 ms
+2024-08-06 17:06:35.384 +05:30 [INF] HTTP GET /Brand responded 200 in 1166.4067 ms
+2024-08-06 17:06:50.755 +05:30 [INF] HTTP GET /Brand/Create responded 200 in 24.3567 ms
+2024-08-06 17:06:52.366 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 134.7050 ms
+2024-08-06 17:06:53.524 +05:30 [INF] User logged in.
+2024-08-06 17:06:53.527 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 318.3003 ms
+2024-08-06 17:06:53.548 +05:30 [INF] HTTP GET / responded 200 in 7.2428 ms
+2024-08-06 17:06:55.577 +05:30 [INF] HTTP GET /Brand responded 200 in 116.4772 ms
+2024-08-06 17:06:57.112 +05:30 [INF] HTTP GET /Brand/Create responded 200 in 133.2244 ms
+2024-08-06 17:07:13.730 +05:30 [INF] [APPEVENT] New Brand [ Id=11,Name=Vivek M ] added by vivekm@augmenza.com
+2024-08-06 17:07:13.736 +05:30 [INF] HTTP POST /Brand/Create responded 302 in 325.0688 ms
+2024-08-06 17:07:13.769 +05:30 [INF] HTTP GET /Brand responded 200 in 16.7821 ms
+2024-08-06 17:07:21.080 +05:30 [INF] HTTP GET /Brand/Edit/11 responded 200 in 56.7906 ms
+2024-08-06 17:07:25.198 +05:30 [INF] [APPEVENT] Brand [ Id=11,Name=Vivek M1234 ] edited by vivekm@augmenza.com
+2024-08-06 17:07:25.203 +05:30 [INF] HTTP POST /Brand/Edit/11 responded 302 in 87.7405 ms
+2024-08-06 17:07:25.235 +05:30 [INF] HTTP GET /Brand responded 200 in 15.5111 ms
+2024-08-06 17:07:29.132 +05:30 [INF] HTTP GET /Brand/Delete/11 responded 200 in 33.8218 ms
+2024-08-06 17:07:30.673 +05:30 [INF] [APPEVENT] Brand [ Id=11,Name=Vivek M1234 ] deleted by vivekm@augmenza.com
+2024-08-06 17:07:30.680 +05:30 [INF] HTTP POST /Brand/Delete/11 responded 302 in 83.5411 ms
+2024-08-06 17:07:30.707 +05:30 [INF] HTTP GET /Brand responded 200 in 11.2026 ms
+2024-08-06 17:08:16.388 +05:30 [INF] User logged out.
+2024-08-06 17:08:16.389 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 21.6141 ms
+2024-08-06 17:08:16.406 +05:30 [INF] HTTP GET / responded 200 in 7.9909 ms
+2024-08-06 21:25:59.382 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 21:26:00.128 +05:30 [INF] HTTP GET / responded 200 in 749.9734 ms
+2024-08-06 21:26:00.252 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 200 in 86.5523 ms
+2024-08-06 21:26:43.227 +05:30 [INF] HTTP GET / responded 200 in 135.4899 ms
+2024-08-06 21:27:13.271 +05:30 [INF] HTTP GET /ProjectReference responded 200 in 3443.6486 ms
+2024-08-06 21:27:50.177 +05:30 [INF] HTTP GET /ProjectReference/Create responded 200 in 710.3708 ms
+2024-08-06 21:33:20.964 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 21:33:21.388 +05:30 [INF] HTTP GET / responded 200 in 428.2146 ms
+2024-08-06 21:33:25.142 +05:30 [INF] HTTP GET /ProjectReference responded 200 in 1910.2358 ms
+2024-08-06 21:33:28.107 +05:30 [INF] HTTP GET /ProjectReference/Create responded 200 in 707.0061 ms
+2024-08-06 21:45:44.378 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 21:45:44.869 +05:30 [INF] HTTP GET / responded 200 in 493.2878 ms
+2024-08-06 21:45:55.539 +05:30 [INF] HTTP GET /Document responded 200 in 3135.5398 ms
+2024-08-06 21:46:51.972 +05:30 [INF] HTTP GET /Document/Create responded 200 in 666.3374 ms
+2024-08-06 21:50:28.695 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 21:50:29.187 +05:30 [INF] HTTP GET / responded 200 in 495.5921 ms
+2024-08-06 21:50:34.867 +05:30 [INF] HTTP GET /Document responded 200 in 2961.0913 ms
+2024-08-06 21:50:37.313 +05:30 [INF] HTTP GET /Document/Create responded 200 in 642.6958 ms
+2024-08-06 21:54:39.312 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 21:54:39.732 +05:30 [INF] HTTP GET / responded 200 in 421.0527 ms
+2024-08-06 21:54:39.769 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 6.6592 ms
+2024-08-06 21:54:42.980 +05:30 [INF] HTTP GET /Document responded 200 in 1466.9044 ms
+2024-08-06 21:54:45.770 +05:30 [INF] HTTP GET /Document/Create responded 200 in 664.9887 ms
+2024-08-06 22:05:36.243 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 22:05:36.658 +05:30 [INF] HTTP GET / responded 200 in 417.2760 ms
+2024-08-06 22:05:40.106 +05:30 [INF] HTTP GET /Project responded 200 in 1390.7297 ms
+2024-08-06 22:05:41.668 +05:30 [INF] HTTP GET /Project/Add responded 200 in 282.8866 ms
+2024-08-06 22:09:32.064 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 22:09:32.512 +05:30 [INF] HTTP GET / responded 200 in 448.8674 ms
+2024-08-06 22:09:39.175 +05:30 [INF] HTTP GET /Document responded 200 in 3134.5836 ms
+2024-08-06 22:09:41.430 +05:30 [INF] HTTP GET /Document/Create responded 200 in 635.6415 ms
+2024-08-06 22:21:51.121 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 22:21:51.736 +05:30 [INF] HTTP GET / responded 200 in 622.4799 ms
+2024-08-06 22:21:53.538 +05:30 [INF] HTTP GET /Document responded 404 in 7.3425 ms
+2024-08-06 22:26:36.617 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 22:26:37.222 +05:30 [INF] HTTP GET / responded 200 in 614.8739 ms
+2024-08-06 22:26:37.283 +05:30 [INF] HTTP GET /ProjectOnBoarding.styles.css responded 304 in 9.1762 ms
+2024-08-06 22:26:42.192 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 214.8352 ms
+2024-08-06 22:26:46.158 +05:30 [INF] User logged in.
+2024-08-06 22:26:46.165 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 2261.0111 ms
+2024-08-06 22:26:46.203 +05:30 [INF] HTTP GET / responded 200 in 10.7452 ms
+2024-08-06 22:28:08.327 +05:30 [INF] HTTP GET / responded 200 in 32.3538 ms
+2024-08-06 22:28:18.301 +05:30 [INF] HTTP GET /Identity/Account/Manage responded 200 in 296.3634 ms
+2024-08-06 22:28:40.010 +05:30 [INF] HTTP GET /Identity/Account/Manage/Email responded 200 in 116.7827 ms
+2024-08-06 22:28:48.408 +05:30 [INF] HTTP GET /Identity/Account/Manage/ChangePassword responded 200 in 50.4903 ms
+2024-08-06 22:29:10.663 +05:30 [INF] HTTP GET /Identity/Account/Manage responded 200 in 7.9308 ms
+2024-08-06 22:29:23.845 +05:30 [INF] HTTP GET /Identity/Account/Manage/Email responded 200 in 8.0702 ms
+2024-08-06 22:29:30.041 +05:30 [INF] HTTP GET /Identity/Account/Manage/ChangePassword responded 200 in 7.9073 ms
+2024-08-06 22:30:45.884 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-06 22:30:46.259 +05:30 [INF] HTTP GET / responded 200 in 379.4394 ms
+2024-08-06 22:30:48.156 +05:30 [INF] HTTP GET /Identity/Account/Login responded 200 in 230.8803 ms
+2024-08-06 22:30:51.512 +05:30 [INF] User logged in.
+2024-08-06 22:30:51.517 +05:30 [INF] HTTP POST /Identity/Account/Login responded 302 in 1644.1426 ms
+2024-08-06 22:30:51.559 +05:30 [INF] HTTP GET / responded 200 in 9.6706 ms
+2024-08-06 22:30:59.181 +05:30 [INF] HTTP GET /Identity/Account/Manage responded 200 in 194.2605 ms
+2024-08-06 22:31:51.155 +05:30 [INF] HTTP GET /Identity/Account/Manage responded 200 in 25.3408 ms
+2024-08-06 22:33:48.513 +05:30 [INF] HTTP GET /Identity/Account/Manage/PersonalData responded 200 in 19.7951 ms
+2024-08-06 22:34:05.807 +05:30 [INF] HTTP GET /Identity/Account/Manage/PersonalData responded 200 in 29.6309 ms
+2024-08-06 22:34:15.770 +05:30 [INF] HTTP GET /Identity/Account/Manage/Email responded 200 in 74.5913 ms
+2024-08-06 22:34:21.528 +05:30 [INF] HTTP GET /Identity/Account/Manage/ChangePassword responded 200 in 40.7085 ms
+2024-08-06 22:35:13.276 +05:30 [INF] HTTP GET /Identity/Account/Manage/Email responded 200 in 11.4152 ms
+2024-08-06 22:35:15.556 +05:30 [INF] HTTP GET /Identity/Account/Manage/ChangePassword responded 200 in 6.8171 ms
+2024-08-06 22:35:50.589 +05:30 [INF] HTTP GET /Brand responded 200 in 170.7517 ms
+2024-08-06 22:35:54.904 +05:30 [INF] HTTP GET /Division responded 200 in 64.9218 ms
+2024-08-06 22:35:56.787 +05:30 [INF] HTTP GET /Company responded 200 in 45.1424 ms
+2024-08-06 22:35:57.972 +05:30 [INF] HTTP GET /Project responded 200 in 116.8121 ms
+2024-08-06 22:36:01.447 +05:30 [INF] User logged out.
+2024-08-06 22:36:01.452 +05:30 [INF] HTTP POST /Identity/Account/Logout responded 302 in 28.4304 ms
+2024-08-06 22:36:01.474 +05:30 [INF] HTTP GET / responded 200 in 6.1481 ms
+2024-08-06 22:36:02.818 +05:30 [INF] HTTP GET /Division responded 200 in 9.0496 ms
+2024-08-06 22:36:04.422 +05:30 [INF] HTTP GET /Division/Create responded 200 in 14.6348 ms

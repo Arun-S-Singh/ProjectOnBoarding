@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "List of Brand";
+}
+@model List<ProjectOnBoarding.Models.Project>
+<h1>Manage Projects</h1>
+
+<p>
+    <a asp-action="Add" class="btn btn-warning" style="color:black">Create New Project</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>            
+            <th>Company</th>
+            <th>Division</th>
+            <th>Brand</th>
+            <th>Code</th>
+            <th>Completed ?</th>            
+            <th>  </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var project in Model)
+        {
+            <tr>
+                <td>@project.Id</td>
+                <td>@project.Name</td>
+                <td>@project.Company</td>
+                <td>@project.Division</td>
+                <td>@project.Brand</td>
+                <td>@project.Code</td>
+                <td>@project.IsCompleted</td>                
+                
+                <td> 
+                    <a class="btn btn-primary mt-1" asp-controller="Project" asp-action="Edit" asp-route-id="@project.Id">Edit</a> |
+                    <a class="btn btn-info mt-1" asp-controller="Project" asp-action="Details" asp-route-id="@project.Id">Details</a> |
+                    <a class="btn btn-danger mt-1" asp-controller="Project" asp-action="Delete" asp-route-id="@project.Id">Delete</a>                    
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
